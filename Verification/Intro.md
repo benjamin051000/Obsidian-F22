@@ -99,3 +99,19 @@ A bit later in the semester
 # Model Checking Problem
 Will learn about later
 
+# Testing vs Model Checking
+## Testing
+- Safety properties
+	- Assertions, pre/post condition checks
+- May fail to exercise inputs that lead to bad states
+- Coverage is limited
+- Does not provide explanation as to why errors occur
+- Analyzes actual code
+## Model checking
+- More expressive correctness specification
+	- Liveness
+- Possible to talk about bad states
+- Potentially all possible scheduling scenarios can be analyzed
+- Provides detailed explanation of how the error occurred
+- Does not scale to complex software code!
+
