@@ -1,4 +1,8 @@
 {
   "promptDelete": false,
-  "vimMode": true
+  "vimMode": true,
+  "showLineNumber": false,
+  "spellcheck": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./"
 }

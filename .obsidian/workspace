@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-08-24.md",
+            "file": "Comp Arch/Intro.md",
             "mode": "source",
             "source": false
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-08-24.md",
+                "file": "Comp Arch/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-08-24.md",
+                "file": "Comp Arch/Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-08-24.md"
+                "file": "Comp Arch/Intro.md"
               }
             }
           }
@@ -143,11 +143,11 @@
   },
   "active": "b092fdd9a7651246",
   "lastOpenFiles": [
-    "Verification/Intro.md",
-    "ML/Intro.md",
     "Comp Arch/Intro.md",
     "Comp Arch/gem5.md",
+    "Verification/Intro.md",
     "2022-08-24.md",
+    "ML/Intro.md",
     "Comp Arch/EEL5764SyllabusFall2022.pdf"
   ]
 }
