@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 253.5
   },
   "right": {
     "id": "dc2143999adea221",
@@ -70,6 +70,7 @@
       {
         "id": "b996d920d09bbaf2",
         "type": "tabs",
+        "dimension": 48.55072463768116,
         "children": [
           {
             "id": "2c842c2b4cb5ab4f",
@@ -84,6 +85,7 @@
       {
         "id": "f49a53d18eb449c3",
         "type": "tabs",
+        "dimension": 51.449275362318836,
         "children": [
           {
             "id": "2f1f19b484f855c6",
@@ -139,16 +141,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 276.5
   },
   "active": "b092fdd9a7651246",
   "lastOpenFiles": [
-    "ML/Intro.md",
+    "Comp Arch/About.md",
+    "ML/About.md",
     "Verification/Intro.md",
+    "Verification/About.md",
     "Verification/syllabusEEL47015702.pdf",
     "Comp Arch/EEL5764SyllabusFall2022.pdf",
-    "Comp Arch/Intro.md",
     "Comp Arch/gem5.md",
     "2022-08-24.md"
   ]
