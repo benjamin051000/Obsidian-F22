@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "496ab54fbef3a5a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b092fdd9a7651246",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Comp Arch/Intro.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4393140e6d2877d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "49d824844e2d51c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87261c312433a685",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7144a2d714c7faaf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bf7e5498a8cc3223",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 251.5
+  },
+  "right": {
+    "id": "dc2143999adea221",
+    "type": "split",
+    "children": [
+      {
+        "id": "b996d920d09bbaf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c842c2b4cb5ab4f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "f49a53d18eb449c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f1f19b484f855c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Comp Arch/Intro.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a52382ac826d309",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Comp Arch/Intro.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a71159990db787c7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "495b83c1b4ae8263",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Comp Arch/Intro.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "2c842c2b4cb5ab4f",
+  "lastOpenFiles": [
+    "Comp Arch/gem5.md",
+    "2022-08-24.md",
+    "Comp Arch/EEL5764SyllabusFall2022.pdf",
+    "Comp Arch/Intro.md",
+    "ML/Intro.md",
+    "Verification/Intro.md"
+  ]
+}
