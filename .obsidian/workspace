@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b092fdd9a7651246",
+        "id": "44a04b7b4e9e00c8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-08-25.md",
+            "file": "ML/Types of Learning.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-08-25.md",
+                "file": "ML/Types of Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-08-25.md",
+                "file": "ML/Types of Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-08-25.md"
+                "file": "ML/Types of Learning.md"
               }
             }
           }
@@ -143,17 +143,17 @@
     "direction": "horizontal",
     "width": 276.5
   },
-  "active": "b092fdd9a7651246",
+  "active": "44a04b7b4e9e00c8",
   "lastOpenFiles": [
+    "ML/2022-08-25.md",
+    "`.md",
     "2022-08-24.md",
-    "2022-08-25.md",
     "ML/What is machine learning.md",
     "ML/EEL5934_Applied Machine Learning Systems_Fall 2022.pdf",
     "ML/Intro.md",
     "Verification/Intro.md",
     "conflict-files-obsidian-git.md",
     "ML/About.md",
-    "Verification/syllabusEEL47015702.pdf",
-    "Comp Arch/About.md"
+    "Verification/syllabusEEL47015702.pdf"
   ]
 }
