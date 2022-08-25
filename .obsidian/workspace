@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Verification/Intro.md",
+            "file": "ML/Intro.md",
             "mode": "source",
             "source": false
           }
@@ -19,23 +19,9 @@
         "id": "8dc12910b03cc46f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "ML/Intro.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "52ce31518f0aa47d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
-            "mode": "source",
-            "source": false
+            "file": "ML/EEL5934_Applied Machine Learning Systems_Fall 2022.pdf"
           }
         }
       }
@@ -165,19 +151,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
-  "active": "8dc12910b03cc46f",
+  "active": "87261c312433a685",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "ML/Intro.md",
     "Verification/Intro.md",
+    "ML/EEL5934_Applied Machine Learning Systems_Fall 2022.pdf",
+    "ML/Intro.md",
+    "conflict-files-obsidian-git.md",
     "ML/About.md",
     "2022-08-24.md",
     "Verification/syllabusEEL47015702.pdf",
     "Comp Arch/About.md",
     "Verification/About.md",
-    "Comp Arch/EEL5764SyllabusFall2022.pdf",
-    "Comp Arch/gem5.md"
+    "Comp Arch/EEL5764SyllabusFall2022.pdf"
   ]
 }
