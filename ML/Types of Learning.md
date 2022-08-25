@@ -78,3 +78,13 @@ This performs 2 tasks:
 2. Visualization and Dimensionality reduction/manifold learning
 
 ## Clustering
+Search for patterns.
+
+Example was images of baseballs, footballs, basketballs.
+
+## Manifold
+Goal: Reduce dimensions to reduce features (and visualize data)
+
+Example was a grid of handwritten numbers
+- The corner pixels never change so they can be ignored
+	- Simplifies data and features
