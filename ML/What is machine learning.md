@@ -29,3 +29,6 @@ Francois Chollet later proposed a new measure of intelligence
 	- AI surpasses that of a human
 	- Nowhere near this
 
+**Machine learning is:**
+- Solve intelligent tasks by learning from experience/data
+- Not explicitly programmed

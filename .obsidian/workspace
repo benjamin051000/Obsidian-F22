@@ -14,16 +14,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "8dc12910b03cc46f",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "ML/EEL5934_Applied Machine Learning Systems_Fall 2022.pdf"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -151,20 +141,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "active": "b092fdd9a7651246",
   "lastOpenFiles": [
+    "ML/EEL5934_Applied Machine Learning Systems_Fall 2022.pdf",
+    "ML/What is machine learning.md",
     "ML/Intro.md",
     "Verification/Intro.md",
-    "ML/EEL5934_Applied Machine Learning Systems_Fall 2022.pdf",
     "conflict-files-obsidian-git.md",
     "ML/About.md",
     "2022-08-24.md",
     "Verification/syllabusEEL47015702.pdf",
     "Comp Arch/About.md",
-    "Verification/About.md",
-    "Comp Arch/EEL5764SyllabusFall2022.pdf"
+    "Verification/About.md"
   ]
 }
