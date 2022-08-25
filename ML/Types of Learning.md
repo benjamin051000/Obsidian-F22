@@ -40,6 +40,7 @@ Model learns by obtaining labels online from user/oracle in intelligent fashion
 ## Transfer Learning
 Transfer learnt knowledge from similar previous task
 
+***
 
 # Supervised Learning
 Example: Distinguish between two types of birds.
@@ -71,3 +72,9 @@ Test data: $x$ -> Features $\phi(x)$ -> Prediction with trained mapper: $f(\phi(
 
 Tune something called hyperparameters to help tell if the training is working correctly
 
+# Unsupervised Learning
+This performs 2 tasks:
+1. Clustering
+2. Visualization and Dimensionality reduction/manifold learning
+
+## Clustering
