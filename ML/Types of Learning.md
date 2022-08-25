@@ -42,7 +42,7 @@ Transfer learnt knowledge from similar previous task
 
 
 # Supervised Learning
-Example: Macaws vs Conures
+Example: Distinguish between two types of birds.
 
 ## Classifiers
 ### Discriminative vs Generative
