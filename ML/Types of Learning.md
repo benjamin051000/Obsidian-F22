@@ -53,7 +53,7 @@ $$ P(x) = P(x|C_0)*P(C_0)+P(x|C_1)*P(C_1) $$
 
 ## Regression
 - Predictive modeling approach
-- Continuous outputs
+- Continuous outputs 
 - Example: Determine the age of a person by their silhouette.
 
 
