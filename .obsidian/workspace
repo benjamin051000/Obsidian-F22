@@ -7,11 +7,9 @@
         "id": "029f72b44add5c1f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "2022-08-24.md",
-            "mode": "source",
-            "source": false
+            "file": "Verification/syllabusEEL47015702.pdf"
           }
         }
       }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-08-24.md",
+                "file": "Verification/syllabusEEL47015702.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-08-24.md",
+                "file": "Verification/syllabusEEL47015702.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-08-24.md"
+                "file": "Verification/syllabusEEL47015702.pdf"
               }
             }
           }
@@ -143,16 +141,16 @@
     "direction": "horizontal",
     "width": 276.5
   },
-  "active": "87261c312433a685",
+  "active": "029f72b44add5c1f",
   "lastOpenFiles": [
     "ML/EEL5934_Applied Machine Learning Systems_Fall 2022.pdf",
+    "2022-08-24.md",
     "Comp Arch/gem5.md",
     "Comp Arch/EEL5764SyllabusFall2022.pdf",
     "Verification/Intro.md",
     "Comp Arch/About.md",
     "ML/About.md",
     "Verification/About.md",
-    "Verification/syllabusEEL47015702.pdf",
-    "2022-08-24.md"
+    "Verification/syllabusEEL47015702.pdf"
   ]
 }
