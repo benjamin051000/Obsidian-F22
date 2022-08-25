@@ -82,9 +82,10 @@ Search for patterns.
 
 Example was images of baseballs, footballs, basketballs.
 
-## Manifold
+## Manifold Learning
 Goal: Reduce dimensions to reduce features (and visualize data)
 
 Example was a grid of handwritten numbers
 - The corner pixels never change so they can be ignored
 	- Simplifies data and features
+
