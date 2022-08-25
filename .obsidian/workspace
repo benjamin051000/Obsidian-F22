@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ML/What is machine learning.md",
+            "file": "2022-08-25.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/What is machine learning.md",
+                "file": "2022-08-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/What is machine learning.md",
+                "file": "2022-08-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/What is machine learning.md"
+                "file": "2022-08-25.md"
               }
             }
           }
@@ -145,15 +145,15 @@
   },
   "active": "b092fdd9a7651246",
   "lastOpenFiles": [
-    "ML/EEL5934_Applied Machine Learning Systems_Fall 2022.pdf",
+    "2022-08-24.md",
+    "2022-08-25.md",
     "ML/What is machine learning.md",
+    "ML/EEL5934_Applied Machine Learning Systems_Fall 2022.pdf",
     "ML/Intro.md",
     "Verification/Intro.md",
     "conflict-files-obsidian-git.md",
     "ML/About.md",
-    "2022-08-24.md",
     "Verification/syllabusEEL47015702.pdf",
-    "Comp Arch/About.md",
-    "Verification/About.md"
+    "Comp Arch/About.md"
   ]
 }
