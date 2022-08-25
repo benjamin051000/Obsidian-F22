@@ -115,3 +115,5 @@ Will learn about later
 - Provides detailed explanation of how the error occurred
 - Does not scale to complex software code!
 
+# How to deal with State-space explosion
+Will discuss later

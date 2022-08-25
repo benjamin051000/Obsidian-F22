@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Verification/Intro.md",
+            "file": "2022-08-24.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
       {
         "id": "f49a53d18eb449c3",
         "type": "tabs",
-        "dimension": 51.449275362318836,
+        "dimension": 51.44927536231884,
         "children": [
           {
             "id": "2f1f19b484f855c6",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verification/Intro.md",
+                "file": "2022-08-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Verification/Intro.md",
+                "file": "2022-08-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Verification/Intro.md"
+                "file": "2022-08-24.md"
               }
             }
           }
@@ -143,13 +143,13 @@
     "direction": "horizontal",
     "width": 276.5
   },
-  "active": "b092fdd9a7651246",
+  "active": "87261c312433a685",
   "lastOpenFiles": [
+    "Verification/syllabusEEL47015702.pdf",
+    "Verification/Intro.md",
     "Comp Arch/About.md",
     "ML/About.md",
-    "Verification/Intro.md",
     "Verification/About.md",
-    "Verification/syllabusEEL47015702.pdf",
     "Comp Arch/EEL5764SyllabusFall2022.pdf",
     "Comp Arch/gem5.md",
     "2022-08-24.md"
