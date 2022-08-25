@@ -29,6 +29,23 @@ Francois Chollet later proposed a new measure of intelligence
 	- AI surpasses that of a human
 	- Nowhere near this
 
-**Machine learning is:**
+# Machine learning is:
 - Solve intelligent tasks by learning from experience/data
 - Not explicitly programmed
+
+General AI does not necessarily use old data/experience
+- Rules from input to output are hard-coded
+- In ML, the system changes as it learns more and more 
+- Example: Doctors use a list of criteria to determine whether a patient is sick or not
+	- Takes intelligence to build the table
+	- Table does not change over time
+	- Machine learning could change criteria over time
+
+## Deep learning
+Uses specific architecture (mapper functions) called Artifical Neural Networks
+
+In ML, you have to hard-code features out of unstructured data.
+- Take lots of time and expertise
+
+Deep Learning extracts features automatically.
+
