@@ -43,3 +43,8 @@ Transfer learnt knowledge from similar previous task
 
 # Supervised Learning
 Example: Macaws vs Conures
+
+## Classifiers
+### Discriminative
+
+### Generative
