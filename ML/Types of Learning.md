@@ -45,6 +45,29 @@ Transfer learnt knowledge from similar previous task
 Example: Macaws vs Conures
 
 ## Classifiers
-### Discriminative
+### Discriminative vs Generative
+![[Discriminate vs Generative Classifications]]
 
-### Generative
+Law of total probability:
+$$ P(x) = P(x|C_0)*P(C_0)+P(x|C_1)*P(C_1) $$
+
+## Regression
+- Predictive modeling approach
+- Continuous outputs
+- Example: Determine the age of a person by their silhouette.
+
+
+## Typical flowchart for supervised learning
+
+![[Types of Learning 2022-08-25 15.25.42.excalidraw]]
+Use a **learning algorithm** to explore the solution space!
+
+E.g., *gradient descent*: $-\nabla J(w_0)$
+
+Optimize for the parameters (the $w$ s!) by training the model.
+
+## Testing phase
+Test data: $x$ -> Features $\phi(x)$ -> Prediction with trained mapper: $f(\phi(x),w^*)$
+
+Tune something called hyperparameters to help tell if the training is working correctly
+
