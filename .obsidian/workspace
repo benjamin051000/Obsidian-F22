@@ -4,11 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "b092fdd9a7651246",
+        "id": "029f72b44add5c1f",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "pdf",
+          "state": {
+            "file": "ML/EEL5934_Applied Machine Learning Systems_Fall 2022.pdf"
+          }
         }
       }
     ],
@@ -89,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ML/EEL5934_Applied Machine Learning Systems_Fall 2022.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ML/EEL5934_Applied Machine Learning Systems_Fall 2022.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ML/EEL5934_Applied Machine Learning Systems_Fall 2022.pdf"
+              }
             }
           }
         ]
@@ -135,15 +141,16 @@
     "direction": "horizontal",
     "width": 276.5
   },
-  "active": "b092fdd9a7651246",
+  "active": "029f72b44add5c1f",
   "lastOpenFiles": [
+    "Comp Arch/gem5.md",
+    "Comp Arch/EEL5764SyllabusFall2022.pdf",
+    "ML/EEL5934_Applied Machine Learning Systems_Fall 2022.pdf",
     "Verification/Intro.md",
     "Comp Arch/About.md",
     "ML/About.md",
     "Verification/About.md",
     "Verification/syllabusEEL47015702.pdf",
-    "Comp Arch/EEL5764SyllabusFall2022.pdf",
-    "Comp Arch/gem5.md",
     "2022-08-24.md"
   ]
 }
