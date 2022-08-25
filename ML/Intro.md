@@ -8,3 +8,6 @@ W 3-4:30p
 F 10-11:30a
 
 Expectation: 9.5 hrs/week
+
+Course Reserves: Extra resources
+
