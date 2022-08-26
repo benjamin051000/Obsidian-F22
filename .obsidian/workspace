@@ -14,6 +14,18 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "236672a3d786d118",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Verification/Intro to Formal Reasoning.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -41,7 +53,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Verification/Home.md"
+                "file": "Verification/Intro to Formal Reasoning.md"
               }
             }
           }
@@ -114,8 +126,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f49a53d18eb449c3",
@@ -128,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verification/Home.md",
+                "file": "Verification/Intro to Formal Reasoning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Verification/Home.md",
+                "file": "Verification/Intro to Formal Reasoning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,18 +178,17 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5,
-    "collapsed": true
+    "width": 270.5
   },
-  "active": "1bb3c2ec53a2a136",
+  "active": "236672a3d786d118",
   "lastOpenFiles": [
-    "Verification/About.md",
-    "Assignments.md",
-    "Verification/Intro.md",
     "Verification/Home.md",
-    "Verification/Assignment 1.md",
-    "Home.md",
     "Verification/Intro to Formal Reasoning.md",
+    "Verification/Intro.md",
+    "Verification/About.md",
+    "Verification/Assignment 1.md",
+    "Assignments.md",
+    "Home.md",
     "Verification/Untitled 1.md",
     "2022-09-02.md",
     "2022-08-26.md"
