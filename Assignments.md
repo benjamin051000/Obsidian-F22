@@ -2,3 +2,5 @@
 | Course | Emoji |
 | - | - |
 | Comp Arch | 💻 |
+| Verification | ✅ |
+| ML | 🧠 |
