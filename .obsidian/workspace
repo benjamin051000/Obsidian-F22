@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ML/Types of Learning.md",
+            "file": "Comp Arch/Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 230.5
   },
   "right": {
     "id": "dc2143999adea221",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Types of Learning.md",
+                "file": "Comp Arch/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Types of Learning.md",
+                "file": "Comp Arch/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Types of Learning.md"
+                "file": "Comp Arch/Untitled.md"
               }
             }
           }
@@ -141,20 +141,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "active": "a336088c7d196f96",
   "lastOpenFiles": [
-    "ML/Intro.md",
+    "Comp Arch/gem5.md",
+    "Comp Arch/About.md",
+    "Comp Arch/EEL5764SyllabusFall2022.pdf",
     "ML/Types of Learning.md",
+    "ML/Intro.md",
     "Excalidraw/Types of Learning 2022-08-25 15.25.42.excalidraw.md",
     "ML/What is machine learning.md",
     "Excalidraw/Discriminate vs Generative Classifications.md",
     "ML/2022-08-25.md",
-    "`.md",
-    "2022-08-24.md",
-    "ML/EEL5934_Applied Machine Learning Systems_Fall 2022.pdf",
-    "Verification/Intro.md"
+    "`.md"
   ]
 }
