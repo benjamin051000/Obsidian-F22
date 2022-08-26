@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Verification/Assignment 1.md",
+            "file": "Verification/Home.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Verification/Assignment 1.md"
+                "file": "Verification/Home.md"
               }
             }
           }
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verification/Assignment 1.md",
+                "file": "Verification/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Verification/Assignment 1.md",
+                "file": "Verification/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,11 +182,11 @@
   },
   "active": "1bb3c2ec53a2a136",
   "lastOpenFiles": [
+    "Verification/Assignments/Assignment 1.md",
     "Verification/Home.md",
-    "Verification/Intro to Formal Reasoning.md",
     "Verification/Intro.md",
+    "Verification/Intro to Formal Reasoning.md",
     "Verification/About.md",
-    "Verification/Assignment 1.md",
     "Assignments.md",
     "Home.md",
     "Verification/Untitled 1.md",

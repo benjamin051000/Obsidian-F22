@@ -1,4 +1,8 @@
-#ver/lecture 
+---
+date: 2022-08-24
+tags: "ver/lecture"
+---
+
 # Why do we do Formal Verification?
 Systems are complex these days
 

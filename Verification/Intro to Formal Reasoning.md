@@ -1,5 +1,5 @@
 ---
-date: 8-26
+date: 2022-08-26
 tags: "ver/lecture"
 ---
 Precision is important! Underspecifying something can lead to trouble!
