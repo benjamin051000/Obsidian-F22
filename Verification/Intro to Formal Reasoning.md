@@ -65,4 +65,6 @@ Some quantifiers:
 - For all: $\forall$
 - Exists: $\exists$
 - Non-logical symbols: Functions and predicates
+	- Also includes: math operators (equality and inequality, +-\*/), array indexing, pointers, bitwise operators, etc.
+
 
