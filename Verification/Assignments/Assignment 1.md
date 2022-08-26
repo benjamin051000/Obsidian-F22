@@ -1,3 +1,5 @@
+
+Due: 📅2022-09-02
 > [!important] Assignment 1: Sudoku solver
 > Due: 📅2022-09-02
 
