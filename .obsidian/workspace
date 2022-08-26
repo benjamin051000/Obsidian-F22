@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "849b47e6122d8e4f",
+        "id": "7aa19d5834c68845",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "2022-08-26.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2022-08-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2022-08-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2022-08-26.md"
+              }
             }
           }
         ]
@@ -135,8 +143,9 @@
     "direction": "horizontal",
     "width": 276.5
   },
-  "active": "849b47e6122d8e4f",
+  "active": "7aa19d5834c68845",
   "lastOpenFiles": [
+    "2022-08-24.md",
     "Assignments.md",
     "ML/2022-08-25.md",
     "ML/About.md",
@@ -145,7 +154,6 @@
     "ML/Types of Learning.md",
     "ML/What is machine learning.md",
     "Verification/Untitled.md",
-    "Verification/Intro to Formal Reasoning.md",
-    "Verification/Assignment 1.md"
+    "Verification/Intro to Formal Reasoning.md"
   ]
 }
