@@ -67,4 +67,32 @@ Some quantifiers:
 - Non-logical symbols: Functions and predicates
 	- Also includes: math operators (equality and inequality, +-\*/), array indexing, pointers, bitwise operators, etc.
 
+# Assignment
+Sort of like variable assignment
+
+- Full assignment: All variables have been assigned
+- Partial assignment: Otherwise
+
+$$\models$$
+## Satisfiability
+A formula is **satisfiable** if there exists an assignment of its variables under which the formula evaluates to TRUE.
+
+Otherwise, it's a **contradiction.**
+
+A formula is **valid** (aka **tautology**) if it evaluates to TRUE under all assignments.
+- Denoted by: " $\models \phi$"
+
+
+# The Decision Problem
+Decision problem for a formula is to determine whether it is valid
+
+Properties:
+- Soundness: When decision procedure returns "valid", it is valid
+- Completeness: Always terminates and it returns "valid" when it is valid
+
+A theory is decidable if there is a decision procedure for it.
+
+Further reading: Decision Procedures, An Algorithmic View by Daniel Kroening and Ofer Strichman, Springer, 2010
+
+
 
