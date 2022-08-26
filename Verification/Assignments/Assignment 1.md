@@ -7,6 +7,11 @@ Any language you want
 
 # Tasks
 - [x] Do something
+	- [ ] Part 1
+	- [ ] Part 2
+	- [ ] Part 3
 - [x] do something else
-- [x] last part
-- [x] extra credit
+- [ ] last part
+	- [x] Part 1
+	- [ ] Part 2
+- [ ] extra credit
