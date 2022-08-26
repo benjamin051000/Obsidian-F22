@@ -52,6 +52,17 @@ q = x is odd
 For n variables, your state space will be $2^n$.
 
 
-# Inference System
+## Inference System
 An inference rule relates **antecedents** to their **consequences**.
 Lots of rules: see the slides
+
+# First-order logic
+AKA predicate logic
+
+Includes **quantifiers** and non-logical symbols
+
+Some quantifiers:
+- For all: $\forall$
+- Exists: $\exists$
+- Non-logical symbols: Functions and predicates
+
