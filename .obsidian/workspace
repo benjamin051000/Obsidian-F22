@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/Daily.md",
+            "file": "Verification/Home.md",
             "mode": "source",
             "source": false
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Daily.md"
+                "file": "Verification/Home.md"
               }
             }
           }
@@ -87,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5
+    "width": 253.5
   },
   "right": {
     "id": "dc2143999adea221",
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Daily.md",
+                "file": "Verification/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Daily.md",
+                "file": "Verification/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,14 +170,14 @@
   },
   "active": "1bb3c2ec53a2a136",
   "lastOpenFiles": [
-    "Templates/Lecture Notes.md",
-    "Templates/Daily.md",
-    "2022-08-26.md",
-    "Verification/About.md",
     "Verification/Assignments/Assignment 1.md",
-    "2022-08-25.md",
-    "Home.md",
     "Verification/Home.md",
+    "Verification/About.md",
+    "Home.md",
+    "Templates/Daily.md",
+    "Templates/Lecture Notes.md",
+    "2022-08-26.md",
+    "2022-08-25.md",
     "Verification/Intro to Formal Reasoning.md",
     "Assignments.md"
   ]
