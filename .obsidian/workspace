@@ -14,18 +14,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "236672a3d786d118",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Verification/Intro to Formal Reasoning.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -182,12 +170,12 @@
   },
   "active": "1bb3c2ec53a2a136",
   "lastOpenFiles": [
-    "Verification/Assignments/Assignment 1.md",
-    "Verification/Home.md",
-    "Verification/Intro.md",
     "Verification/Intro to Formal Reasoning.md",
-    "Verification/About.md",
+    "Verification/Home.md",
     "Assignments.md",
+    "Verification/Assignments/Assignment 1.md",
+    "Verification/Intro.md",
+    "Verification/About.md",
     "Home.md",
     "Verification/Untitled 1.md",
     "2022-09-02.md",

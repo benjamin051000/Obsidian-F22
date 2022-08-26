@@ -14,3 +14,8 @@ collapse: open
 | ------ | ---------------- | -------- | ------ |
 | ✅     | [[Assignment 1]] | 9-02     | To Do  |
 | 🧠     | Assignment 0     | 8-31     | To Do       |
+
+```dataview
+TABLE 
+```
+
