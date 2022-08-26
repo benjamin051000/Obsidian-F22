@@ -137,13 +137,14 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 276.5
   },
-  "active": "7aa19d5834c68845",
+  "active": "a71159990db787c7",
   "lastOpenFiles": [
     "2022-08-24.md",
     "Assignments.md",

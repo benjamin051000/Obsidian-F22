@@ -3,5 +3,7 @@
   "obsidian-excalidraw-plugin",
   "sliding-panes-obsidian",
   "obsidian-git",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-admonition",
+  "dataview"
 ]
