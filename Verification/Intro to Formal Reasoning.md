@@ -54,6 +54,4 @@ For n variables, your state space will be $2^n$.
 
 # Inference System
 An inference rule relates **antecedents** to their **consequences**.
-- Contradiction: $\frac{\phi_1 \land \lnot \phi_1}{FALSE}$
-- Double negation: $\frac{\lnot\lnot\phi}{\phi}$
-- Simplification: 
+Lots of rules: see the slides
