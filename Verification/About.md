@@ -1,3 +1,4 @@
+#about-the-class 
 [Canvas page](https://ufl.instructure.com/courses/465733)
 [[syllabusEEL47015702.pdf]]
 
