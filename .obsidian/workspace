@@ -9,6 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "Verification/Assignments/Assignment 1.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "8229170f3fc6510f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "Verification/Home.md",
             "mode": "source",
             "source": false
@@ -168,7 +180,7 @@
     "direction": "horizontal",
     "width": 270.5
   },
-  "active": "1bb3c2ec53a2a136",
+  "active": "8229170f3fc6510f",
   "lastOpenFiles": [
     "Verification/Assignments/Assignment 1.md",
     "Verification/Home.md",
