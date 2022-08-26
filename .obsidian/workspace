@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a336088c7d196f96",
+        "id": "849b47e6122d8e4f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Verification/Intro to Formal Reasoning.md",
+            "file": "Assignments.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verification/Intro to Formal Reasoning.md",
+                "file": "Assignments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Verification/Intro to Formal Reasoning.md",
+                "file": "Assignments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Verification/Intro to Formal Reasoning.md"
+                "file": "Assignments.md"
               }
             }
           }
@@ -143,17 +143,17 @@
     "direction": "horizontal",
     "width": 276.5
   },
-  "active": "a336088c7d196f96",
+  "active": "849b47e6122d8e4f",
   "lastOpenFiles": [
-    "Verification/Assignment 1.md",
-    "Verification/Intro.md",
-    "Comp Arch/Trends.md",
-    "Comp Arch/gem5.md",
-    "Comp Arch/About.md",
-    "Comp Arch/EEL5764SyllabusFall2022.pdf",
-    "ML/Types of Learning.md",
+    "ML/2022-08-25.md",
+    "ML/About.md",
+    "ML/EEL5934_Applied Machine Learning Systems_Fall 2022.pdf",
     "ML/Intro.md",
-    "Excalidraw/Types of Learning 2022-08-25 15.25.42.excalidraw.md",
-    "ML/What is machine learning.md"
+    "ML/Types of Learning.md",
+    "ML/What is machine learning.md",
+    "Assignments.md",
+    "Verification/Untitled.md",
+    "Verification/Intro to Formal Reasoning.md",
+    "Verification/Assignment 1.md"
   ]
 }
