@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Verification/Home.md",
+            "file": "Templates/Lecture Notes.md",
             "mode": "source",
             "source": false
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Verification/Home.md"
+                "file": "Templates/Lecture Notes.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verification/Home.md",
+                "file": "Templates/Lecture Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Verification/Home.md",
+                "file": "Templates/Lecture Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,15 +170,15 @@
   },
   "active": "1bb3c2ec53a2a136",
   "lastOpenFiles": [
+    "Templates/Daily.md",
+    "Templates/Lecture Notes.md",
+    "Home.md",
+    "2022-08-26.md",
+    "Verification/Home.md",
     "Verification/About.md",
     "Verification/Assignments/Assignment 1.md",
-    "Verification/Home.md",
     "Verification/Intro to Formal Reasoning.md",
     "Assignments.md",
-    "Verification/Intro.md",
-    "Home.md",
-    "Verification/Untitled 1.md",
-    "2022-09-02.md",
-    "2022-08-26.md"
+    "Verification/Intro.md"
   ]
 }
