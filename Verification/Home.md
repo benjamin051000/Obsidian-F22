@@ -2,9 +2,10 @@
 
 ## Assignments
 ```dataview
-TABLE due AS "Due Date", choice(Tasks.status, "done", "not done") AS Status
+TABLE due AS "Due Date", choice(Tasks.completed, "done", "not done") AS Status
 FROM "Verification/Assignments"
 WHERE file.tasks
+FLATTEN file.tasks as Tasks
 SORT due DESC
 ```
 
