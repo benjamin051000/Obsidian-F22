@@ -1,16 +1,15 @@
 # Automated Hardware/Software Verification
+[Canvas]()
 
-## Assignments
+# Assignments
 ```dataview
-TABLE due AS "Due Date", choice(Tasks.completed, "done", "not done") AS Status
+TABLE due AS "Due Date", choice(Tasks.completed, "Done ✅", "Not done") AS Status
 FROM "Verification/Assignments"
-WHERE file.tasks
-FLATTEN file.tasks as Tasks
 SORT due DESC
 ```
 
 ***
-
+## To Do 📑
 ```dataview
 TASK
 FROM "Verification/Assignments"
@@ -18,7 +17,7 @@ GROUP BY file.link
 SORT due DESC
 ```
 
-## Lecture Notes
+# Lecture Notes
 ```dataview
 TABLE date AS "Date"
 FROM #ver/lecture 
