@@ -1,3 +1,4 @@
+#ver/lecture
 Precision is important! Underspecifying something can lead to trouble!
 
 Logic operators: $\land \lor \lnot \implies \rightarrow \leftrightarrow$

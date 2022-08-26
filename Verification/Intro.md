@@ -1,3 +1,4 @@
+#ver/lecture 
 # Why do we do Formal Verification?
 Systems are complex these days
 
