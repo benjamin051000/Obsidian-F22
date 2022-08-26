@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Comp Arch/Trends.md",
+            "file": "Verification/Intro to Formal Reasoning.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comp Arch/Trends.md",
+                "file": "Verification/Intro to Formal Reasoning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comp Arch/Trends.md",
+                "file": "Verification/Intro to Formal Reasoning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comp Arch/Trends.md"
+                "file": "Verification/Intro to Formal Reasoning.md"
               }
             }
           }
@@ -145,15 +145,15 @@
   },
   "active": "a336088c7d196f96",
   "lastOpenFiles": [
+    "Verification/Assignment 1.md",
+    "Verification/Intro.md",
+    "Comp Arch/Trends.md",
     "Comp Arch/gem5.md",
     "Comp Arch/About.md",
     "Comp Arch/EEL5764SyllabusFall2022.pdf",
     "ML/Types of Learning.md",
     "ML/Intro.md",
     "Excalidraw/Types of Learning 2022-08-25 15.25.42.excalidraw.md",
-    "ML/What is machine learning.md",
-    "Excalidraw/Discriminate vs Generative Classifications.md",
-    "ML/2022-08-25.md",
-    "`.md"
+    "ML/What is machine learning.md"
   ]
 }
