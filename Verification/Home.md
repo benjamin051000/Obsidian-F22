@@ -8,7 +8,7 @@ SORT date DESC
 
 ## Assignments
 ```dataview
-TABLE due AS "Due Date"
+TABLE duedate AS "Due Date"
 FROM "Verification/Assignments"
 SORT due DESC
 ```
