@@ -9,10 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Verification/Home.md",
+            "file": "Assignments.md",
             "mode": "source",
             "source": false
           }
+        }
+      },
+      {
+        "id": "7fd7c4fd46a04531",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -109,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verification/Home.md",
+                "file": "Assignments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Verification/Home.md",
+                "file": "Assignments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Verification/Home.md"
+                "file": "Assignments.md"
               }
             }
           }
@@ -161,15 +169,15 @@
   },
   "active": "bdaa7263baf8eda3",
   "lastOpenFiles": [
-    "Verification/Assignments/Assignment 1.md",
-    "Verification/Home.md",
+    "Home.md",
     "Assignments.md",
-    "Verification/Intro to Formal Reasoning.md",
+    "Verification/Home.md",
+    "Verification/Assignments/Assignment 1.md",
     "Verification/About.md",
     "Verification/syllabusEEL47015702.pdf",
+    "Verification/Notes/Intro.md",
+    "Verification/Notes/Intro to Formal Reasoning.md",
     "ML/EEL5934_Applied Machine Learning Systems_Fall 2022.pdf",
-    "2022-08-24.md",
-    "Comp Arch/gem5.md",
-    "Comp Arch/EEL5764SyllabusFall2022.pdf"
+    "2022-08-24.md"
   ]
 }

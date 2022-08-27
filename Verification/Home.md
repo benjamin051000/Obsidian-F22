@@ -1,9 +1,11 @@
 # Automated Hardware/Software Verification
-[Canvas]()
+[Canvas](https://ufl.instructure.com/courses/465733)
+[[syllabusEEL47015702.pdf]]
+Contact: tuba@ece.ufl.edu
 
 # Assignments
 ```dataview
-TABLE due AS "Due Date", choice(Tasks.completed, "Done ✅", "Not done") AS Status
+TABLE due AS "Due Date 📅", choice(Tasks.completed, "Done ✅", "Not done") AS "Status ✔"
 FROM "Verification/Assignments"
 SORT due DESC
 ```
