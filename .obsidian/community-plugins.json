@@ -1,10 +1,9 @@
 [
   "calendar",
   "obsidian-excalidraw-plugin",
-  "sliding-panes-obsidian",
   "obsidian-git",
-  "table-editor-obsidian",
-  "obsidian-admonition",
   "dataview",
-  "nldates-obsidian"
+  "table-editor-obsidian",
+  "nldates-obsidian",
+  "obsidian-admonition"
 ]
