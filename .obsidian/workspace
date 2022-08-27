@@ -14,14 +14,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "7fd7c4fd46a04531",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
       }
     ],
     "direction": "vertical"
@@ -169,8 +161,8 @@
   },
   "active": "bdaa7263baf8eda3",
   "lastOpenFiles": [
-    "Home.md",
     "Assignments.md",
+    "Home.md",
     "Verification/Home.md",
     "Verification/Assignments/Assignment 1.md",
     "Verification/About.md",
