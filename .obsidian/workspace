@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Assignments.md",
+            "file": "2022-08-28.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assignments.md",
+                "file": "2022-08-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assignments.md",
+                "file": "2022-08-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assignments.md"
+                "file": "2022-08-28.md"
               }
             }
           }
@@ -161,15 +161,15 @@
   },
   "active": "bdaa7263baf8eda3",
   "lastOpenFiles": [
-    "Home.md",
+    "2022-08-28.md",
+    "Assignments.md",
+    "Templates/Daily.md",
+    "Templates/Lecture Notes.md",
     "Verification/Assignments/Assignment 1.md",
     "Verification/Home.md",
-    "Assignments.md",
-    "2022-08-28.md",
+    "Home.md",
     "Verification/About.md",
     "Verification/syllabusEEL47015702.pdf",
-    "Verification/Notes/Intro.md",
-    "Verification/Notes/Intro to Formal Reasoning.md",
-    "ML/EEL5934_Applied Machine Learning Systems_Fall 2022.pdf"
+    "Verification/Notes/Intro.md"
   ]
 }

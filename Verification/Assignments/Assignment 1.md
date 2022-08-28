@@ -21,4 +21,4 @@ Any language you want
 # Notes
 - 0 represents empty cell
 - always 9x9 grid
-- 
+- C is preferred since later on we can use other tools to analyze the C code
