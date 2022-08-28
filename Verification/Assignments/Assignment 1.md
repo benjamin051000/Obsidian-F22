@@ -7,12 +7,9 @@ Basically determine whether the Sudoku board is solvable
 Any language you want
 
 # Tasks
-- [x] Do something
-	- [ ] Part 1
-	- [ ] Part 2
-	- [ ] Part 3
-- [x] do something else
-- [ ] last part
-	- [x] Part 1
-	- [ ] Part 2
-- [ ] extra credit
+- [ ] Create program to check if a sudoku board is valid
+- [ ] Accept text file as input (stdin? Why not)
+	- [ ] Check rows
+	- [ ] Check columns
+	- [ ] Check squares
+	- [ ] Return bool for valid or not
