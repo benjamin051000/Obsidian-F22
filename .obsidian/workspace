@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bdaa7263baf8eda3",
+        "id": "52af2c467b9a733e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Assignments.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -23,24 +19,8 @@
     "type": "split",
     "children": [
       {
-        "id": "d84da05b44fb8ac8",
-        "type": "tabs",
-        "dimension": 26.965174129353237,
-        "children": [
-          {
-            "id": "029f72b44add5c1f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "49d824844e2d51c7",
         "type": "tabs",
-        "dimension": 73.03482587064677,
         "children": [
           {
             "id": "87261c312433a685",
@@ -77,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 230.5
   },
   "right": {
     "id": "dc2143999adea221",
@@ -109,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assignments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assignments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Assignments.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,17 +135,17 @@
     "direction": "horizontal",
     "width": 276.5
   },
-  "active": "bdaa7263baf8eda3",
+  "active": "52af2c467b9a733e",
   "lastOpenFiles": [
-    "Assignments.md",
-    "Home.md",
-    "Verification/Home.md",
-    "Verification/Assignments/Assignment 1.md",
-    "Verification/About.md",
-    "Verification/syllabusEEL47015702.pdf",
-    "Verification/Notes/Intro.md",
-    "Verification/Notes/Intro to Formal Reasoning.md",
-    "ML/EEL5934_Applied Machine Learning Systems_Fall 2022.pdf",
-    "2022-08-24.md"
+    "Verification/Intro to Formal Reasoning.md",
+    "Verification/Assignment 1.md",
+    "Verification/Intro.md",
+    "Comp Arch/Trends.md",
+    "Comp Arch/gem5.md",
+    "Comp Arch/About.md",
+    "Comp Arch/EEL5764SyllabusFall2022.pdf",
+    "ML/Types of Learning.md",
+    "ML/Intro.md",
+    "Excalidraw/Types of Learning 2022-08-25 15.25.42.excalidraw.md"
   ]
 }
