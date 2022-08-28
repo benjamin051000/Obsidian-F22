@@ -12,4 +12,13 @@ Any language you want
 	- [ ] Check rows
 	- [ ] Check columns
 	- [ ] Check squares
-	- [ ] Return bool for valid or not
+- [ ] Check if board violates placement rules
+	- [ ] If it does, return cell positions with invalid plays
+- [ ] Solve the board
+	- [ ] Return solution if it worked I guess
+
+
+# Notes
+- 0 represents empty cell
+- always 9x9 grid
+- 
