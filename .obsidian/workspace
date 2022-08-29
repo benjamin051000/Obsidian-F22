@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Comp Arch/Key Principles.md",
+            "file": "Verification/Notes/Intro to Formal Reasoning.md",
             "mode": "source",
             "source": false
           }
@@ -109,14 +109,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comp Arch/Key Principles.md",
+                "file": "Verification/Notes/Intro to Formal Reasoning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comp Arch/Key Principles.md",
+                "file": "Verification/Notes/Intro to Formal Reasoning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comp Arch/Key Principles.md"
+                "file": "Verification/Notes/Intro to Formal Reasoning.md"
               }
             }
           }
@@ -161,15 +161,15 @@
   },
   "active": "bdaa7263baf8eda3",
   "lastOpenFiles": [
+    "2022-08-29.md",
+    "Verification/Notes/Intro to Formal Reasoning.md",
+    "Verification/Notes/Untitled.md",
+    "Verification/Notes/Intro.md",
+    "Verification/Home.md",
+    "Comp Arch/Key Principles.md",
     "Comp Arch/Trends.md",
     "Comp Arch/About.md",
-    "2022-08-29.md",
     "2022-08-28.md",
-    "Assignments.md",
-    "Templates/Daily.md",
-    "Templates/Lecture Notes.md",
-    "Verification/Assignments/Assignment 1.md",
-    "Verification/Home.md",
-    "Home.md"
+    "Assignments.md"
   ]
 }
