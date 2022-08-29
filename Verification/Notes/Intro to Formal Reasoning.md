@@ -88,6 +88,8 @@ A formula is **valid** (aka *tautology*) if it evaluates to TRUE under all assig
 
 Satisfiability checking -> *SAT Checking*
 
+Sometimes we want satisfiability, sometimes we want validity.
+
 # The Decision Problem
 Decision problem for a formula is to determine whether it is valid
 
