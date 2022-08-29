@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-08-28.md",
+            "file": "Comp Arch/Trends.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-08-28.md",
+                "file": "Comp Arch/Trends.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-08-28.md",
+                "file": "Comp Arch/Trends.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-08-28.md"
+                "file": "Comp Arch/Trends.md"
               }
             }
           }
@@ -161,6 +161,8 @@
   },
   "active": "bdaa7263baf8eda3",
   "lastOpenFiles": [
+    "Comp Arch/About.md",
+    "2022-08-29.md",
     "2022-08-28.md",
     "Assignments.md",
     "Templates/Daily.md",
@@ -168,8 +170,6 @@
     "Verification/Assignments/Assignment 1.md",
     "Verification/Home.md",
     "Home.md",
-    "Verification/About.md",
-    "Verification/syllabusEEL47015702.pdf",
-    "Verification/Notes/Intro.md"
+    "Verification/About.md"
   ]
 }
