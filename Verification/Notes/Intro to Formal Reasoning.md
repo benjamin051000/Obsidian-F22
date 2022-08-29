@@ -83,9 +83,10 @@ A formula is **satisfiable** if there exists an assignment of its variables unde
 
 Otherwise, it's a **contradiction.**
 
-A formula is **valid** (aka **tautology**) if it evaluates to TRUE under all assignments.
+A formula is **valid** (aka *tautology*) if it evaluates to TRUE under all assignments.
 - Denoted by: " $\models \phi$"
 
+Satisfiability checking -> *SAT Checking*
 
 # The Decision Problem
 Decision problem for a formula is to determine whether it is valid
