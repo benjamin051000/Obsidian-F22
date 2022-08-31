@@ -159,13 +159,13 @@
     "direction": "horizontal",
     "width": 280.5
   },
-  "active": "7144a2d714c7faaf",
+  "active": "87261c312433a685",
   "lastOpenFiles": [
-    "Verification/Notes/SAT Example Prog Equiv.md",
+    "Verification/Notes/Intro.md",
     "Verification/Notes/DPLL and CNF.md",
+    "Verification/Notes/SAT Example Prog Equiv.md",
     "Verification/Home.md",
     "Verification/Notes/Intro to Formal Reasoning.md",
-    "Verification/Notes/Intro.md",
     "Assignments.md",
     "Home.md",
     "Comp Arch/Trends.md",
