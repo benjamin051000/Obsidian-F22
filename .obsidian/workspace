@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-08-31.md",
+            "file": "Verification/Notes/DPLL and CNF.md",
             "mode": "source",
             "source": false
           }
@@ -25,7 +25,7 @@
       {
         "id": "d84da05b44fb8ac8",
         "type": "tabs",
-        "dimension": 26.965174129353237,
+        "dimension": 22.883295194508012,
         "children": [
           {
             "id": "029f72b44add5c1f",
@@ -40,7 +40,7 @@
       {
         "id": "49d824844e2d51c7",
         "type": "tabs",
-        "dimension": 73.03482587064677,
+        "dimension": 77.11670480549199,
         "children": [
           {
             "id": "87261c312433a685",
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-08-31.md",
+                "file": "Verification/Notes/DPLL and CNF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-08-31.md",
+                "file": "Verification/Notes/DPLL and CNF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-08-31.md"
+                "file": "Verification/Notes/DPLL and CNF.md"
               }
             }
           }
@@ -157,19 +157,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 280.5
   },
-  "active": "bdaa7263baf8eda3",
+  "active": "7144a2d714c7faaf",
   "lastOpenFiles": [
-    "2022-08-31.md",
-    "Assignments.md",
-    "2022-08-30.md",
     "Verification/Notes/SAT Example Prog Equiv.md",
-    "Verification/Notes/Intro to Formal Reasoning.md",
-    "2022-08-29.md",
-    "Verification/Notes/Intro.md",
+    "Verification/Notes/DPLL and CNF.md",
     "Verification/Home.md",
-    "Comp Arch/Key Principles.md",
-    "Comp Arch/Trends.md"
+    "Verification/Notes/Intro to Formal Reasoning.md",
+    "Verification/Notes/Intro.md",
+    "Assignments.md",
+    "Home.md",
+    "Comp Arch/Trends.md",
+    "2022-08-31.md",
+    "2022-08-30.md"
   ]
 }
