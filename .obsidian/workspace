@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Assignments.md",
+            "file": "2022-08-31.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assignments.md",
+                "file": "2022-08-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assignments.md",
+                "file": "2022-08-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assignments.md"
+                "file": "2022-08-31.md"
               }
             }
           }
@@ -161,6 +161,8 @@
   },
   "active": "bdaa7263baf8eda3",
   "lastOpenFiles": [
+    "2022-08-31.md",
+    "Assignments.md",
     "2022-08-30.md",
     "Verification/Notes/SAT Example Prog Equiv.md",
     "Verification/Notes/Intro to Formal Reasoning.md",
@@ -168,8 +170,6 @@
     "Verification/Notes/Intro.md",
     "Verification/Home.md",
     "Comp Arch/Key Principles.md",
-    "Comp Arch/Trends.md",
-    "Comp Arch/About.md",
-    "2022-08-28.md"
+    "Comp Arch/Trends.md"
   ]
 }
