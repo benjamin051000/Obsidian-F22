@@ -53,3 +53,6 @@ Schedule jobs
 - If you get memory errors, you probably have multiple notebook kernels open. 
 	- Shut some of them down to free up memory
 
+- Tip: Just put everything in `/blue` rather than ~ especially if using git
+	- Home dir has a snapshot feature, but git negates that
+
