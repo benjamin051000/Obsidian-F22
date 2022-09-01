@@ -43,3 +43,8 @@ In Jupter, choose:
 tip: https://help.rc.ufl.edu has a wiki on how to do various stuff
 
 
+# SLURM Scheduler
+Schedule jobs
+- Resources needed
+	- CPU, RAM, time
+	- 
