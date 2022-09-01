@@ -48,3 +48,8 @@ Schedule jobs
 - Resources needed
 	- CPU, RAM, time
 
+
+# Misc. Notes
+- If you get memory errors, you probably have multiple notebook kernels open. 
+	- Shut some of them down to free up memory
+
