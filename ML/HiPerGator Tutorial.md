@@ -29,22 +29,22 @@ In Jupter, choose:
 - Cluster partition = gpu
 - --gres = gpu:a100:1
 
-# NB Kernels
+## NB Kernels
 - For generic stuff: Use UFRC Python 3.8
 - Tensorflow-2.7.0
 
 **If you get import errors:** ensure you have the right kernel selected!
 
 
-# Python Packages
+## Python Packages
 - You *can* use `pip`, but be aware that this may cause conflicting issues
 - Better solution: Use an environment! `conda`/`mamba`
 
 tip: https://help.rc.ufl.edu has a wiki on how to do various stuff
 
 
-# SLURM Scheduler
+## SLURM Scheduler
 Schedule jobs
 - Resources needed
 	- CPU, RAM, time
-	- 
+
