@@ -55,4 +55,5 @@ Schedule jobs
 
 - Tip: Just put everything in `/blue` rather than ~ especially if using git
 	- Home dir has a snapshot feature, but git negates that
+- My Interactive Sessions > Session ID link gives some helpful output if you're getting weird issues
 
