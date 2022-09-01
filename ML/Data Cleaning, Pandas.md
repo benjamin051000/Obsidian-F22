@@ -7,4 +7,13 @@
 4. Classification or regression?
 5. Is data an incoming stream? Online? Batch learning?
 6. How do you measure success?
-7. 
+
+
+# Pandas
+Like Excel but in Python
+
+## Read in data
+```python
+import pandas as pd
+housing = pd.read("housing.csv")
+```
