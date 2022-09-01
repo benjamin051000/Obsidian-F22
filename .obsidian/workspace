@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "fde50cb6c6abfc14",
+        "id": "53ce2810ff586050",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -159,8 +159,10 @@
     "direction": "horizontal",
     "width": 276.5
   },
-  "active": "fde50cb6c6abfc14",
+  "active": "53ce2810ff586050",
   "lastOpenFiles": [
+    "ML/ood.rc.ufl.edu.md",
+    "ML/HiPerGator.md",
     "ML/About.md",
     "Untitled.md",
     "2022-09-01.md",
@@ -168,8 +170,6 @@
     "conflict-files-obsidian-git.md",
     "2022-08-28.md",
     "Assignments.md",
-    "Templates/Daily.md",
-    "Templates/Lecture Notes.md",
-    "Verification/Assignments/Assignment 1.md"
+    "Templates/Daily.md"
   ]
 }
