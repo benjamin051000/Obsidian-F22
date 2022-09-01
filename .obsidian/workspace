@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ML/HiPerGator Tutorial.md",
+            "file": "ML/About.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/HiPerGator Tutorial.md",
+                "file": "ML/About.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/HiPerGator Tutorial.md",
+                "file": "ML/About.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/HiPerGator Tutorial.md"
+                "file": "ML/About.md"
               }
             }
           }
@@ -161,15 +161,15 @@
   },
   "active": "53ce2810ff586050",
   "lastOpenFiles": [
-    "ML/commit a.md",
+    "ML/Untitled.md",
     "ML/HiPerGator Tutorial.md",
+    "ML/commit a.md",
     "2022-09-01.md",
     "ML/ood.rc.ufl.edu.md",
     "ML/About.md",
     "Untitled.md",
     "2022-08-31.md",
     "conflict-files-obsidian-git.md",
-    "2022-08-28.md",
-    "Assignments.md"
+    "2022-08-28.md"
   ]
 }
