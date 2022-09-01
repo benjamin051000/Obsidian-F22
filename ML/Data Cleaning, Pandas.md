@@ -8,3 +8,4 @@
 5. Is data an incoming stream? Online? Batch learning?
 6. How do you measure success?
 
+See jupyter notebook lecture on CA housing data! Honestly pretty cool
