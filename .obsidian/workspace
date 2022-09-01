@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ML/HiPerGator.md",
+            "file": "ML/HiPerGator Tutorial.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/HiPerGator.md",
+                "file": "ML/HiPerGator Tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/HiPerGator.md",
+                "file": "ML/HiPerGator Tutorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/HiPerGator.md"
+                "file": "ML/HiPerGator Tutorial.md"
               }
             }
           }
@@ -162,7 +162,7 @@
   "active": "53ce2810ff586050",
   "lastOpenFiles": [
     "ML/ood.rc.ufl.edu.md",
-    "ML/HiPerGator.md",
+    "ML/HiPerGator Tutorial.md",
     "ML/About.md",
     "Untitled.md",
     "2022-09-01.md",
