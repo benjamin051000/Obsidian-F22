@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ML/Data Cleaning, Pandas.md",
+            "file": "2022-09-02.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Data Cleaning, Pandas.md",
+                "file": "2022-09-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Data Cleaning, Pandas.md",
+                "file": "2022-09-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Data Cleaning, Pandas.md"
+                "file": "2022-09-02.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "bfbe87c21a04a3cf",
   "lastOpenFiles": [
-    "ML/Pandas.md",
     "ML/Data Cleaning, Pandas.md",
+    "ML/Pandas.md",
     "ML/Types of Learning.md",
     "ML/About.md",
     "ML/HiPerGator Tutorial.md",
