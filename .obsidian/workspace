@@ -7,12 +7,8 @@
         "id": "bfbe87c21a04a3cf",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2022-09-02.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -109,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-09-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-09-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2022-09-02.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,17 +151,17 @@
     "direction": "horizontal",
     "width": 276.5
   },
-  "active": "bfbe87c21a04a3cf",
+  "active": "87261c312433a685",
   "lastOpenFiles": [
-    "Verification/Home.md",
+    "Verification/Notes/DPLL and CNF.md",
     "2022-09-02.md",
+    "Verification/Home.md",
     "Comp Arch/Key Principles.md",
     "ML/Data Cleaning, Pandas.md",
     "ML/Pandas.md",
     "ML/Types of Learning.md",
     "ML/About.md",
     "ML/HiPerGator Tutorial.md",
-    "ML/commit a.md",
-    "2022-09-01.md"
+    "ML/commit a.md"
   ]
 }
