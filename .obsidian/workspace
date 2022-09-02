@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-09-02.md",
+            "file": "Comp Arch/Data-Level Parallelism.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-09-02.md",
+                "file": "Comp Arch/Data-Level Parallelism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-09-02.md",
+                "file": "Comp Arch/Data-Level Parallelism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-09-02.md"
+                "file": "Comp Arch/Data-Level Parallelism.md"
               }
             }
           }
@@ -161,6 +161,8 @@
   },
   "active": "bfbe87c21a04a3cf",
   "lastOpenFiles": [
+    "Comp Arch/Key Principles.md",
+    "2022-09-02.md",
     "ML/Data Cleaning, Pandas.md",
     "ML/Pandas.md",
     "ML/Types of Learning.md",
@@ -168,8 +170,6 @@
     "ML/HiPerGator Tutorial.md",
     "ML/commit a.md",
     "2022-09-01.md",
-    "ML/ood.rc.ufl.edu.md",
-    "Untitled.md",
-    "2022-08-31.md"
+    "ML/ood.rc.ufl.edu.md"
   ]
 }
