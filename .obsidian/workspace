@@ -7,8 +7,12 @@
         "id": "bfbe87c21a04a3cf",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Verification/Notes/Implication Graph.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 253.5,
+    "collapsed": true
   },
   "right": {
     "id": "dc2143999adea221",
@@ -105,13 +110,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Verification/Notes/Implication Graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -121,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Verification/Notes/Implication Graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,26 +149,29 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Verification/Notes/Implication Graph.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
-  "active": "87261c312433a685",
+  "active": "bfbe87c21a04a3cf",
   "lastOpenFiles": [
+    "Verification/Notes/Intro.md",
+    "Verification/Notes/Intro to Formal Reasoning.md",
+    "Verification/Notes/SAT Example Prog Equiv.md",
+    "Verification/Notes/Implication Graph.md",
     "Verification/Notes/DPLL and CNF.md",
+    "Verification/Notes/Binary Resolution Rule.md",
     "2022-09-02.md",
     "Verification/Home.md",
     "Comp Arch/Key Principles.md",
-    "ML/Data Cleaning, Pandas.md",
-    "ML/Pandas.md",
-    "ML/Types of Learning.md",
-    "ML/About.md",
-    "ML/HiPerGator Tutorial.md",
-    "ML/commit a.md"
+    "ML/Data Cleaning, Pandas.md"
   ]
 }

@@ -4,5 +4,6 @@
   "showLineNumber": false,
   "spellcheck": false,
   "newFileLocation": "current",
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./",
+  "fileSortOrder": "byModifiedTime"
 }
