@@ -10,11 +10,15 @@ collapse: open
 ```
 
 
-| Course | Title            | Due Date  | Status |
-| ------ | ---------------- | --------- | ------ |
-| ✅     | [[Assignment 1]] | 9-02      | To Do  |
-| 🧠     | Assignment 0     | 8-31      | To Do  |
-| 💻     | Lab 1            | 8-31 (5pm) | To Do  | 
+| Course | Title            | Due Date   | Status |
+| ------ | ---------------- | ---------- | ------ |
+| ✅     | [[Assignment 1]] | 9-02       | Done ✔ |
+| 🧠     | Assignment 0     | 8-31       | Done ✔ |
+| 💻     | Lab 1            | 8-31 (5pm) | Done ✔ |
+| 🧠     | Homework 0       | 9/8        | To Do  |
+| 💻     | Lab 2            | 9/9 (5pm)  | To Do       |
+
+
 
 ```dataview
 TABLE 

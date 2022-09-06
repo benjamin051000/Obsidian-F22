@@ -4,6 +4,12 @@ Focused on practical implementations in Python
 [Canvas page](https://ufl.instructure.com/courses/459156)
 [Slack](https://app.slack.com/client/T03T7Q97DTL)
 
+TA: Jackson Cornell
+jcornell@ufl.edu
+OH:
+	- M 12:50-2:45p
+	- R 12:50-1:40p
+
 # Office Hours
 W 3-4:30p
 F 10-11:30a

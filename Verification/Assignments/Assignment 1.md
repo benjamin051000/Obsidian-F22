@@ -7,15 +7,15 @@ Basically determine whether the Sudoku board is solvable
 Any language you want
 
 # Tasks
-- [ ] Create program to check if a sudoku board is valid
-- [ ] Accept text file as input (stdin? Why not)
-	- [ ] Check rows
-	- [ ] Check columns
-	- [ ] Check squares
-- [ ] Check if board violates placement rules
-	- [ ] If it does, return cell positions with invalid plays
-- [ ] Solve the board
-	- [ ] Return solution if it worked I guess
+- [x] Create program to check if a sudoku board is valid
+- [x] Accept text file as input (stdin? Why not)
+	- [x] Check rows
+	- [x] Check columns
+	- [x] Check squares
+- [x] Check if board violates placement rules
+	- [x] If it does, return cell positions with invalid plays
+- [x] Solve the board
+	- [x] Return solution if it worked I guess
 
 
 # Notes

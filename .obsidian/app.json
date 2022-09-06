@@ -2,7 +2,8 @@
   "promptDelete": false,
   "vimMode": true,
   "showLineNumber": false,
-  "spellcheck": true,
+  "spellcheck": false,
   "newFileLocation": "current",
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./",
+  "fileSortOrder": "byModifiedTime"
 }

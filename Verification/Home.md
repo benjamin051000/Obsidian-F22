@@ -2,6 +2,7 @@
 [Canvas](https://ufl.instructure.com/courses/465733)
 [[syllabusEEL47015702.pdf]]
 Contact: tuba@ece.ufl.edu
+Office Hours: Tuesday @ #todo
 
 # Assignments
 ```dataview
