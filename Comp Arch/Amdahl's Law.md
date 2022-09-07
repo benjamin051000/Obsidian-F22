@@ -14,4 +14,4 @@ $$
 = \frac{1}{(1-Fraction_{enhanced})+\frac{Fraction_{enhanced}}{Speedup_{enhanced}}}
 $$
 
-[]()
+Note: This limits parallel processing performance! TODO figure out why
