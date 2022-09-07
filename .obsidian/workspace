@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Comp Arch/Memory.md",
+            "file": "Verification/Notes/Implication Graph.md",
             "mode": "source",
             "source": false
           }
@@ -57,7 +57,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -109,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Verification/Notes/Implication Graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Verification/Notes/Implication Graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Verification/Notes/Implication Graph.md"
+              }
             }
           }
         ]
@@ -156,17 +160,17 @@
     "width": 276.5,
     "collapsed": true
   },
-  "active": "029f72b44add5c1f",
+  "active": "bfbe87c21a04a3cf",
   "lastOpenFiles": [
-    "2022-09-07.md",
+    "Verification/Notes/DPLL and CNF.md",
+    "Verification/Notes/Implication Graph.md",
     "Comp Arch/Memory.md",
+    "2022-09-07.md",
     "Comp Arch/Key Principles.md",
     "Comp Arch/Amdahl's Law.md",
     "Comp Arch/Data-Level Parallelism.md",
     "Comp Arch/Lab2.md",
     "Assignments.md",
-    "conflict-files-obsidian-git.md",
-    "Home.md",
-    "Comp Arch/gem5.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
