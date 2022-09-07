@@ -1,6 +1,8 @@
 Ask stitt:
 - Payroll?
-- RA? 
+	- RA?
+		- He hasn't heard anything at all
+	- Assume I will be OPS
 - I'll record my hours starting today
 - Specifics about project
 - What is GPS?
