@@ -19,6 +19,8 @@ FROM "Verification/Assignments"
 GROUP BY file.link
 SORT due DESC
 ```
+- [ ] Practice DPLL problems
+	- [ ] Practice identifying $\kappa$, UIP, and backtracking
 
 # Lecture Notes
 ```dataview

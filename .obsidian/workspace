@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Verification/Notes/Implication Graph.md",
+            "file": "Verification/Home.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verification/Notes/Implication Graph.md",
+                "file": "Verification/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Verification/Notes/Implication Graph.md",
+                "file": "Verification/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Verification/Notes/Implication Graph.md"
+                "file": "Verification/Home.md"
               }
             }
           }
@@ -162,15 +162,15 @@
   },
   "active": "bfbe87c21a04a3cf",
   "lastOpenFiles": [
-    "Verification/Notes/DPLL and CNF.md",
+    "Verification/Notes/Z3.md",
     "Verification/Notes/Implication Graph.md",
+    "Verification/Notes/DPLL and CNF.md",
     "Comp Arch/Memory.md",
     "2022-09-07.md",
     "Comp Arch/Key Principles.md",
     "Comp Arch/Amdahl's Law.md",
     "Comp Arch/Data-Level Parallelism.md",
     "Comp Arch/Lab2.md",
-    "Assignments.md",
-    "conflict-files-obsidian-git.md"
+    "Assignments.md"
   ]
 }
