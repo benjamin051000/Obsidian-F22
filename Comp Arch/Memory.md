@@ -1,0 +1,1 @@
+Memory performance is the current largest bottleneck in computer 
