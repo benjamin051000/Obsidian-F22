@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Verification/Home.md",
+            "file": "Verification/Notes/Z3.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verification/Home.md",
+                "file": "Verification/Notes/Z3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Verification/Home.md",
+                "file": "Verification/Notes/Z3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Verification/Home.md"
+                "file": "Verification/Notes/Z3.md"
               }
             }
           }
@@ -162,6 +162,7 @@
   },
   "active": "bfbe87c21a04a3cf",
   "lastOpenFiles": [
+    "Verification/Home.md",
     "Verification/Notes/Z3.md",
     "Verification/Notes/Implication Graph.md",
     "Verification/Notes/DPLL and CNF.md",
@@ -170,7 +171,6 @@
     "Comp Arch/Key Principles.md",
     "Comp Arch/Amdahl's Law.md",
     "Comp Arch/Data-Level Parallelism.md",
-    "Comp Arch/Lab2.md",
-    "Assignments.md"
+    "Comp Arch/Lab2.md"
   ]
 }
