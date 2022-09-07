@@ -109,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comp Arch/Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comp Arch/Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Comp Arch/Memory.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,8 +156,9 @@
     "width": 276.5,
     "collapsed": true
   },
-  "active": "bfbe87c21a04a3cf",
+  "active": "029f72b44add5c1f",
   "lastOpenFiles": [
+    "Comp Arch/Memory.md",
     "Comp Arch/Key Principles.md",
     "Comp Arch/Amdahl's Law.md",
     "2022-09-07.md",
@@ -170,7 +167,6 @@
     "Assignments.md",
     "conflict-files-obsidian-git.md",
     "Home.md",
-    "Comp Arch/gem5.md",
-    "Verification/Home.md"
+    "Comp Arch/gem5.md"
   ]
 }
