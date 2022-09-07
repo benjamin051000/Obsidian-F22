@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Comp Arch/Data-Level Parallelism.md",
+            "file": "Comp Arch/Amdahl's Law.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comp Arch/Data-Level Parallelism.md",
+                "file": "Comp Arch/Amdahl's Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comp Arch/Data-Level Parallelism.md",
+                "file": "Comp Arch/Amdahl's Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comp Arch/Data-Level Parallelism.md"
+                "file": "Comp Arch/Amdahl's Law.md"
               }
             }
           }
@@ -162,6 +162,8 @@
   },
   "active": "bfbe87c21a04a3cf",
   "lastOpenFiles": [
+    "Comp Arch/Data-Level Parallelism.md",
+    "Comp Arch/Key Principles.md",
     "Comp Arch/Lab2.md",
     "Assignments.md",
     "conflict-files-obsidian-git.md",
@@ -169,8 +171,6 @@
     "Comp Arch/gem5.md",
     "2022-09-07.md",
     "Verification/Home.md",
-    "Verification/Assignments/Assignment 1.md",
-    "Verification/Notes/Intro.md",
-    "Verification/Notes/Implication Graph.md"
+    "Verification/Assignments/Assignment 1.md"
   ]
 }
