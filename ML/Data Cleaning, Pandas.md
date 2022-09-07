@@ -9,3 +9,7 @@
 6. How do you measure success?
 
 See jupyter notebook lecture on CA housing data! Honestly pretty cool
+
+## Correlations
+Pearson correlations work only with data that is *linearly* correlated
+

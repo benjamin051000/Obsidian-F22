@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "bfbe87c21a04a3cf",
+        "id": "bdaa7263baf8eda3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-09-07.md",
+            "file": "2022-09-06.md",
             "mode": "source",
             "source": false
           }
@@ -25,7 +25,7 @@
       {
         "id": "d84da05b44fb8ac8",
         "type": "tabs",
-        "dimension": 24.546553808948005,
+        "dimension": 26.965174129353237,
         "children": [
           {
             "id": "029f72b44add5c1f",
@@ -40,7 +40,7 @@
       {
         "id": "49d824844e2d51c7",
         "type": "tabs",
-        "dimension": 75.453446191052,
+        "dimension": 73.03482587064677,
         "children": [
           {
             "id": "87261c312433a685",
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5,
-    "collapsed": true
+    "width": 253.5
   },
   "right": {
     "id": "dc2143999adea221",
@@ -110,14 +109,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-09-07.md",
+                "file": "2022-09-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-09-07.md",
+                "file": "2022-09-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-09-07.md"
+                "file": "2022-09-06.md"
               }
             }
           }
@@ -158,20 +157,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
-  "active": "bfbe87c21a04a3cf",
+  "active": "bdaa7263baf8eda3",
   "lastOpenFiles": [
+    "2022-08-28.md",
     "Assignments.md",
-    "Home.md",
-    "Verification/Home.md",
+    "Templates/Daily.md",
+    "Templates/Lecture Notes.md",
     "Verification/Assignments/Assignment 1.md",
-    "Verification/Notes/Intro.md",
-    "Verification/Notes/Implication Graph.md",
-    "Verification/Notes/Intro to Formal Reasoning.md",
-    "Verification/Notes/SAT Example Prog Equiv.md",
-    "Verification/Notes/DPLL and CNF.md",
-    "Verification/Notes/Binary Resolution Rule.md"
+    "Verification/Home.md",
+    "Home.md",
+    "Verification/About.md",
+    "Verification/syllabusEEL47015702.pdf",
+    "Verification/Notes/Intro.md"
   ]
 }
