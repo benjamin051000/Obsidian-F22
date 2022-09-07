@@ -17,3 +17,7 @@ Memory performance is the current largest bottleneck in computer
 	- TBs but slow
 
 
+Ideal scenario: 
+- Provide the processor with the illusion of large/fast/cheap memory
+- Let programs address a memory space that scales to the disk size at high speed
+
