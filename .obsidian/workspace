@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Verification/Notes/Z3.md",
+            "file": "Verification/Notes/Unsat Core.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verification/Notes/Z3.md",
+                "file": "Verification/Notes/Unsat Core.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Verification/Notes/Z3.md",
+                "file": "Verification/Notes/Unsat Core.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Verification/Notes/Z3.md"
+                "file": "Verification/Notes/Unsat Core.md"
               }
             }
           }
@@ -162,15 +162,15 @@
   },
   "active": "bfbe87c21a04a3cf",
   "lastOpenFiles": [
-    "Verification/Home.md",
+    "Verification/Notes/SAT Example Prog Equiv.md",
     "Verification/Notes/Z3.md",
+    "Verification/Home.md",
     "Verification/Notes/Implication Graph.md",
     "Verification/Notes/DPLL and CNF.md",
     "Comp Arch/Memory.md",
     "2022-09-07.md",
     "Comp Arch/Key Principles.md",
     "Comp Arch/Amdahl's Law.md",
-    "Comp Arch/Data-Level Parallelism.md",
-    "Comp Arch/Lab2.md"
+    "Comp Arch/Data-Level Parallelism.md"
   ]
 }
