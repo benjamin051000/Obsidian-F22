@@ -58,3 +58,8 @@ See email with template from Nij
 		- Processor configures other portion of FPGA
 	- That would let us do it remotely
 
+- Not sure why Nij isn't interested in using devcloud... but whatever
+
+
+For now, just work on the Windows machines.
+
