@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ARC/Intro.md",
+            "file": "ML/Data Cleaning, Pandas.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ARC/Intro.md",
+                "file": "ML/Data Cleaning, Pandas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ARC/Intro.md",
+                "file": "ML/Data Cleaning, Pandas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ARC/Intro.md"
+                "file": "ML/Data Cleaning, Pandas.md"
               }
             }
           }
@@ -162,15 +162,15 @@
   },
   "active": "470259483f8c42d6",
   "lastOpenFiles": [
-    "Verification/Notes/Unsat Core.md",
-    "Verification/Notes/Z3.md",
-    "Verification/Notes/SAT Example Prog Equiv.md",
-    "Verification/Home.md",
-    "Verification/Notes/Implication Graph.md",
-    "Verification/Notes/DPLL and CNF.md",
-    "Comp Arch/Memory.md",
-    "2022-09-07.md",
-    "Comp Arch/Key Principles.md",
-    "Comp Arch/Amdahl's Law.md"
+    "ML/HiPerGator Tutorial.md",
+    "ML/Pandas.md",
+    "ML/Models.md",
+    "ML/Scaling Data.md",
+    "ML/Types of Learning.md",
+    "ML/About.md",
+    "ML/Data Cleaning, Pandas.md",
+    "2022-09-08.md",
+    "ARC/Intro.md",
+    "Verification/Notes/Unsat Core.md"
   ]
 }
