@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ML/Ways to Avoid Overfitting.md",
+            "file": "ML/Models.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Ways to Avoid Overfitting.md",
+                "file": "ML/Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Ways to Avoid Overfitting.md",
+                "file": "ML/Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Ways to Avoid Overfitting.md"
+                "file": "ML/Models.md"
               }
             }
           }
@@ -163,11 +163,11 @@
   "active": "470259483f8c42d6",
   "lastOpenFiles": [
     "ML/Scaling Data.md",
+    "ML/Types of Learning.md",
+    "ML/Models.md",
     "ML/Data Cleaning, Pandas.md",
     "ML/HiPerGator Tutorial.md",
     "ML/Pandas.md",
-    "ML/Models.md",
-    "ML/Types of Learning.md",
     "ML/About.md",
     "2022-09-08.md",
     "ARC/Intro.md",
