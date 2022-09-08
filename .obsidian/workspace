@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "470259483f8c42d6",
+        "id": "e09183dfb14a42fb",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -160,17 +160,17 @@
     "width": 276.5,
     "collapsed": true
   },
-  "active": "470259483f8c42d6",
+  "active": "e09183dfb14a42fb",
   "lastOpenFiles": [
-    "ML/Images/train vs val MSE.png",
+    "ML/Occam's Razor.md",
     "ML/Models.md",
+    "Untitled.md",
+    "ML/Images/train vs val MSE.png",
     "ML/Images/lin reg formulas.png",
     "ML/Pasted image 20220908145256.png",
     "ML/Scaling Data.md",
     "ML/Types of Learning.md",
     "ML/Data Cleaning, Pandas.md",
-    "ML/HiPerGator Tutorial.md",
-    "ML/Pandas.md",
-    "ML/About.md"
+    "ML/HiPerGator Tutorial.md"
   ]
 }
