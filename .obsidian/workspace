@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e09183dfb14a42fb",
+        "id": "1b61af6b9c06df3b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ML/Models.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -109,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ML/Models.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,17 +152,17 @@
     "width": 276.5,
     "collapsed": true
   },
-  "active": "e09183dfb14a42fb",
+  "active": "1b61af6b9c06df3b",
   "lastOpenFiles": [
-    "ML/Occam's Razor.md",
-    "ML/Models.md",
-    "Untitled.md",
-    "ML/Images/train vs val MSE.png",
-    "ML/Images/lin reg formulas.png",
-    "ML/Pasted image 20220908145256.png",
-    "ML/Scaling Data.md",
-    "ML/Types of Learning.md",
-    "ML/Data Cleaning, Pandas.md",
-    "ML/HiPerGator Tutorial.md"
+    "Assignments.md",
+    "2022-09-07.md",
+    "2022-09-06.md",
+    "2022-09-02.md",
+    "2022-09-01.md",
+    "2022-08-31.md",
+    "2022-08-30.md",
+    "2022-08-29.md",
+    "2022-08-28.md",
+    "ML/Models.md"
   ]
 }
