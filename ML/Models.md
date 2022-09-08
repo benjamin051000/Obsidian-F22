@@ -26,6 +26,11 @@ Divide training data into *k* folds.
 	- Training 2: Train with {b, c, d}, validate with {a}
 	- etc.
 
+#### Calculate error
+Either:
+- Take the average performance for validation
+- Take maximum error (we are minimizing it via training)
+
 
 # Linear Regression, Hyperparameters
 $$y=\omega_0+\sum_{j=1}^{M}\omega_j f_j$$
