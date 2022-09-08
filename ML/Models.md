@@ -30,4 +30,6 @@ Will be n-polynomial:
 - M=2 is a line with nonzero slope
 - M=3 is parabola,
 - etc.
-- 
+
+![[lin reg formulas.png]]
+
