@@ -33,3 +33,12 @@ Will be n-polynomial:
 
 ![[lin reg formulas.png]]
 
+![[train vs val MSE.png]]
+
+In the beginning, the model is simple and generalizing well, so the validation error decreases.
+Later, it starts overfitting so validation error increases.
+
+- Underfitting: $0 < M^*$
+- Overfitting: $M^* < \infty$
+- Ideal: $M^*$
+
