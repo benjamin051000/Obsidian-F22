@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "1b61af6b9c06df3b",
+        "id": "4b7eabe1491f0cf5",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -152,8 +152,10 @@
     "width": 276.5,
     "collapsed": true
   },
-  "active": "1b61af6b9c06df3b",
+  "active": "4b7eabe1491f0cf5",
   "lastOpenFiles": [
+    "ML/About.md",
+    "ML/Notes/Models.md",
     "Assignments.md",
     "2022-09-07.md",
     "2022-09-06.md",
@@ -161,8 +163,6 @@
     "2022-09-01.md",
     "2022-08-31.md",
     "2022-08-30.md",
-    "2022-08-29.md",
-    "2022-08-28.md",
-    "ML/Models.md"
+    "2022-08-29.md"
   ]
 }
