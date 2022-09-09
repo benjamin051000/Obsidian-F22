@@ -10,7 +10,7 @@ We are no longer bounded by the [[DPLL and CNF]] rules! (Specifically, CNF)
 
 ![[BDD_example.png]]
 
-Feels intuitive, but bloated (for lack of a better word)
+Feels intuitive, but bloated and brute-force
 
 # Reduced Ordered BDD
 Can we represent a BDD with no redundancy?
