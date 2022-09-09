@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Comp Arch/2 Memory Hierarchy/Terminology.md",
+            "file": "Comp Arch/2 Memory Hierarchy/Cache.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comp Arch/2 Memory Hierarchy/Terminology.md",
+                "file": "Comp Arch/2 Memory Hierarchy/Cache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comp Arch/2 Memory Hierarchy/Terminology.md",
+                "file": "Comp Arch/2 Memory Hierarchy/Cache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comp Arch/2 Memory Hierarchy/Terminology.md"
+                "file": "Comp Arch/2 Memory Hierarchy/Cache.md"
               }
             }
           }

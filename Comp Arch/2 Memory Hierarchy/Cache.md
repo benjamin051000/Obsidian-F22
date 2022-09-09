@@ -1,3 +1,4 @@
+## Terminology
 - Block (AKA line): Unit of copying
 	- May be multiple words
 - Hit: Accessed data is present in the upper level (L1)
