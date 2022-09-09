@@ -4,13 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f053c23659cca490",
+        "id": "a8b8e67238376829",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "Excalidraw/Drawing 2022-09-09 10.55.28.excalidraw.md"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -107,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2022-09-09 10.55.28.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2022-09-09 10.55.28.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,19 +142,19 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Drawing 2022-09-09 10.55.28.excalidraw.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
-  "active": "f053c23659cca490",
+  "active": "a8b8e67238376829",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2022-09-09 10.55.28.excalidraw.md",
     "Verification/Notes/DPLL/Z3 Sat Solver.md",
     "Verification/Notes/DPLL/Unsatisfiable Core.md",
     "Verification/Notes/DPLL/DPLL Heuristics.md",
@@ -167,7 +163,6 @@
     "Verification/Notes/DPLL/DPLL and CNF.md",
     "Comp Arch/2 Memory Hierarchy/Cache.md",
     "Comp Arch/2 Memory Hierarchy/Outline.md",
-    "Comp Arch/1 Overview/Data-Level Parallelism.md",
-    "Daily/2022-09-09.md"
+    "Comp Arch/1 Overview/Data-Level Parallelism.md"
   ]
 }
