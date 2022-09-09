@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Verification/Notes/Intro.md",
+            "file": "Comp Arch/2 Memory Hierarchy/Terminology.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verification/Notes/Intro.md",
+                "file": "Comp Arch/2 Memory Hierarchy/Terminology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Verification/Notes/Intro.md",
+                "file": "Comp Arch/2 Memory Hierarchy/Terminology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,27 +149,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Verification/Notes/Intro.md"
+                "file": "Comp Arch/2 Memory Hierarchy/Terminology.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 276.5
   },
-  "active": "87261c312433a685",
+  "active": "f053c23659cca490",
   "lastOpenFiles": [
+    "Comp Arch/2 Memory Hierarchy/Outline.md",
+    "Comp Arch/1 Overview/Data-Level Parallelism.md",
+    "Daily/2022-09-09.md",
+    "Daily/2022-08-29.md",
     "Verification/Notes/Implication Graph.md",
-    "Verification/Notes/Unsat Core.md",
-    "Verification/Notes/Z3.md",
-    "ML/Notes/Types of Learning.md",
-    "ML/Notes/Scaling Data.md",
-    "ML/Notes/Occam's Razor.md",
+    "Verification/Notes/Intro.md",
     "Verification/Notes/Intro to Formal Reasoning.md",
-    "ML/Notes/Models.md",
-    "ML/Notes/Pandas.md",
-    "ML/Notes/What is machine learning.md"
+    "Verification/Notes/SAT Example Prog Equiv.md",
+    "Verification/Notes/DPLL and CNF.md",
+    "Verification/Notes/Unsat Core.md"
   ]
 }
