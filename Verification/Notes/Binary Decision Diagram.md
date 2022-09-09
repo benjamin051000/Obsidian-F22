@@ -31,3 +31,10 @@ A canonical BDD:
 	- If a node low and high goes to the same node, remove it
 		- It doesn't contribute in this path
 
+# Canonicality
+What is the ROBDD that represents all valid formulas?
+- A: The 1 node!
+- From [[Intro to Formal Reasoning]]: Formula is **valid** if it evaluates to TRUE under all assignments.
+What is the ROBDD that represents all false formulas?
+- A: The 0 node!
+- 

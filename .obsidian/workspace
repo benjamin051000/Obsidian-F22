@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -160,7 +161,7 @@
     "width": 276.5,
     "collapsed": true
   },
-  "active": "821645e1b9aa83f2",
+  "active": "7144a2d714c7faaf",
   "lastOpenFiles": [
     "Media/BDD_example.png",
     "Verification/Notes/Binary Decision Diagram.md",
