@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "470259483f8c42d6",
+        "id": "4b7eabe1491f0cf5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-09-09.md",
+            "file": "2022-09-08.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-09-09.md",
+                "file": "2022-09-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-09-09.md",
+                "file": "2022-09-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-09-09.md"
+                "file": "2022-09-08.md"
               }
             }
           }
@@ -157,20 +157,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
-  "active": "470259483f8c42d6",
+  "active": "4b7eabe1491f0cf5",
   "lastOpenFiles": [
-    "Verification/Notes/Z3.md",
-    "Verification/Notes/Unsat Core.md",
-    "Verification/Notes/Intro to Formal Reasoning.md",
+    "ML/About.md",
+    "2022-09-08.md",
     "ARC/Intro.md",
-    "Verification/Notes/SAT Example Prog Equiv.md",
-    "Verification/Home.md",
-    "Verification/Notes/Implication Graph.md",
-    "Verification/Notes/DPLL and CNF.md",
-    "Comp Arch/Memory.md",
-    "2022-09-07.md"
+    "ML/Notes/Models.md",
+    "Assignments.md",
+    "2022-09-07.md",
+    "2022-09-06.md",
+    "2022-09-02.md",
+    "2022-09-01.md",
+    "2022-08-31.md"
   ]
 }
