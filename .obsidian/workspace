@@ -157,20 +157,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "active": "470259483f8c42d6",
   "lastOpenFiles": [
+    "Comp Arch/2 Memory Hierarchy/Untitled.md",
+    "Comp Arch/2 Memory Hierarchy/Outline.md",
+    "Comp Arch/Trends.md",
+    "Comp Arch/Key Principles.md",
+    "Comp Arch/Amdahl's Law.md",
+    "ARC/Intro.md",
+    "Assignments.md",
     "2022-09-09.md",
     "conflict-files-obsidian-git.md",
-    "Verification/Notes/Z3.md",
-    "Verification/Notes/Unsat Core.md",
-    "Verification/Notes/Intro to Formal Reasoning.md",
-    "ARC/Intro.md",
-    "Verification/Notes/SAT Example Prog Equiv.md",
-    "Verification/Home.md",
-    "Verification/Notes/Implication Graph.md",
-    "Verification/Notes/DPLL and CNF.md"
+    "Verification/Notes/Z3.md"
   ]
 }

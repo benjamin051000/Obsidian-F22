@@ -21,3 +21,4 @@ Ideal scenario:
 - Provide the processor with the illusion of large/fast/cheap memory
 - Let programs address a memory space that scales to the disk size at high speed
 
+Lab 3 is about caches!
