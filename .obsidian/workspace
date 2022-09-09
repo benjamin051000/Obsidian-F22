@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a8b8e67238376829",
+        "id": "821645e1b9aa83f2",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Verification/Notes/Binary Decision Diagram.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -52,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "valid",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Verification/Notes/Binary Decision Diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Verification/Notes/Binary Decision Diagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Verification/Notes/Binary Decision Diagram.md"
+              }
             }
           }
         ]
@@ -152,17 +160,17 @@
     "width": 276.5,
     "collapsed": true
   },
-  "active": "a8b8e67238376829",
+  "active": "821645e1b9aa83f2",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2022-09-09 10.55.28.excalidraw.md",
-    "Verification/Notes/DPLL/Z3 Sat Solver.md",
-    "Verification/Notes/DPLL/Unsatisfiable Core.md",
-    "Verification/Notes/DPLL/DPLL Heuristics.md",
-    "Verification/Notes/Intro.md",
-    "Verification/Notes/DPLL/SAT Example Prog Equiv.md",
+    "Media/BDD_example.png",
+    "Verification/Notes/Binary Decision Diagram.md",
     "Verification/Notes/DPLL/DPLL and CNF.md",
-    "Comp Arch/2 Memory Hierarchy/Cache.md",
-    "Comp Arch/2 Memory Hierarchy/Outline.md",
-    "Comp Arch/1 Overview/Data-Level Parallelism.md"
+    "Verification/Notes/DPLL/Validity Checking.md",
+    "Media/validity-checker.excalidraw.md",
+    "Verification/Assignments/Assignment 1.md",
+    "Verification/Notes/DPLL/Z3 Sat Solver.md",
+    "Media/Drawing 2022-09-09 10.55.28.excalidraw.md",
+    "Verification/Notes/DPLL/Unsatisfiable Core.md",
+    "Verification/Notes/DPLL/DPLL Heuristics.md"
   ]
 }
