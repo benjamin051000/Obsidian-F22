@@ -1,6 +1,6 @@
 # Trends in Comp Arch
 - Parallel computer architecture
-	- data-level parallelism
+	- [[Data-Level Parallelism]]
 	- thread-level
 	- task-level
 	- ISA, instruction-level

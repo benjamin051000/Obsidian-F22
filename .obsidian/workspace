@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "470259483f8c42d6",
+        "id": "f053c23659cca490",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Assignments.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -109,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assignments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assignments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Assignments.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,17 +151,17 @@
     "direction": "horizontal",
     "width": 276.5
   },
-  "active": "470259483f8c42d6",
+  "active": "87261c312433a685",
   "lastOpenFiles": [
-    "Comp Arch/2 Memory Hierarchy/Untitled.md",
-    "Comp Arch/2 Memory Hierarchy/Outline.md",
-    "Comp Arch/Trends.md",
+    "Comp Arch/1 Overview/Amdahl's Law.md",
+    "Comp Arch/Lab2.md",
+    "Comp Arch/1 Overview/Trends.md",
+    "Comp Arch/About.md",
+    "Comp Arch/gem5.md",
     "Comp Arch/Key Principles.md",
-    "Comp Arch/Amdahl's Law.md",
-    "ARC/Intro.md",
-    "Assignments.md",
-    "2022-09-09.md",
-    "conflict-files-obsidian-git.md",
-    "Verification/Notes/Z3.md"
+    "Comp Arch/Data-Level Parallelism.md",
+    "Comp Arch/2 Memory Hierarchy/Outline.md",
+    "Verification/Assignments/Assignment 1.md",
+    "Assignments.md"
   ]
 }
