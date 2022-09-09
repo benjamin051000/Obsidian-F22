@@ -20,5 +20,14 @@ A canonical BDD:
 	- e.g., two formulas that both simplify to the same thing
 
 ## Reduction Rules
-1. Merge terminal nodes into two nodes "0" and "1"
-2. 
+1. Merge terminal nodes into two nodes "0" and "1".
+	- This will make it look like a graph:
+		- Each terminal node becomes a link to either 0 or 1, which are now the only two terminal nodes
+	- Basically, combine redundant terminal nodes
+1. Merge isomorphic subtrees.
+	- Subtrees are isomorphic if their *low()* s and *high()* s are the same.
+	- Dr. Yavuz said they are isomorphic if their root is at the same level
+2. Remove redundant nodes
+	- If a node low and high goes to the same node, remove it
+		- It doesn't contribute in this path
+
