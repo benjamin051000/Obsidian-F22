@@ -7,11 +7,9 @@
         "id": "f053c23659cca490",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Verification/Notes/DPLL/DPLL Heuristics.md",
-            "mode": "source",
-            "source": false
+            "file": "Excalidraw/Drawing 2022-09-09 10.55.28.excalidraw.md"
           }
         }
       }
@@ -109,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verification/Notes/DPLL/DPLL Heuristics.md",
+                "file": "Excalidraw/Drawing 2022-09-09 10.55.28.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Verification/Notes/DPLL/DPLL Heuristics.md",
+                "file": "Excalidraw/Drawing 2022-09-09 10.55.28.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,12 +147,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Verification/Notes/DPLL/DPLL Heuristics.md"
+                "file": "Excalidraw/Drawing 2022-09-09 10.55.28.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -162,15 +159,15 @@
   },
   "active": "f053c23659cca490",
   "lastOpenFiles": [
-    "Verification/Notes/DPLL/Z3.md",
+    "Verification/Notes/DPLL/Z3 Sat Solver.md",
+    "Verification/Notes/DPLL/Unsatisfiable Core.md",
+    "Verification/Notes/DPLL/DPLL Heuristics.md",
     "Verification/Notes/Intro.md",
     "Verification/Notes/DPLL/SAT Example Prog Equiv.md",
     "Verification/Notes/DPLL/DPLL and CNF.md",
-    "Verification/Notes/DPLL/Unsat Core.md",
     "Comp Arch/2 Memory Hierarchy/Cache.md",
     "Comp Arch/2 Memory Hierarchy/Outline.md",
     "Comp Arch/1 Overview/Data-Level Parallelism.md",
-    "Daily/2022-09-09.md",
-    "Daily/2022-08-29.md"
+    "Daily/2022-09-09.md"
   ]
 }

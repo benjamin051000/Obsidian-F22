@@ -16,7 +16,7 @@ You can make expressions via Abstract Syntax Trees (ASTs):
 Z3 will tell you if it's satisfiable, which can be captured in a `switch/case`:
 - `Z3_L_FALSE`: Unsatisfiable
 	- You can see elements in the vector (not sure which vector she said it was)
-	- You can see the [[Unsat Core]]
+	- You can see the [[Unsatisfiable Core]]
 - `Z3_L_TRUE`: Satisfiable!
 	- You can check assignments of variables in a given model
 - `Z3_L_UNDEF`: Something went wrong.
