@@ -7,8 +7,12 @@
         "id": "f053c23659cca490",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Verification/Notes/Intro.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -105,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Verification/Notes/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,8 +126,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Verification/Notes/Intro.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -142,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Verification/Notes/Intro.md"
+              }
             }
           }
         ]
@@ -153,15 +161,15 @@
   },
   "active": "87261c312433a685",
   "lastOpenFiles": [
-    "Comp Arch/1 Overview/Amdahl's Law.md",
-    "Comp Arch/Lab2.md",
-    "Comp Arch/1 Overview/Trends.md",
-    "Comp Arch/About.md",
-    "Comp Arch/gem5.md",
-    "Comp Arch/Key Principles.md",
-    "Comp Arch/Data-Level Parallelism.md",
-    "Comp Arch/2 Memory Hierarchy/Outline.md",
-    "Verification/Assignments/Assignment 1.md",
-    "Assignments.md"
+    "Verification/Notes/Implication Graph.md",
+    "Verification/Notes/Unsat Core.md",
+    "Verification/Notes/Z3.md",
+    "ML/Notes/Types of Learning.md",
+    "ML/Notes/Scaling Data.md",
+    "ML/Notes/Occam's Razor.md",
+    "Verification/Notes/Intro to Formal Reasoning.md",
+    "ML/Notes/Models.md",
+    "ML/Notes/Pandas.md",
+    "ML/Notes/What is machine learning.md"
   ]
 }
