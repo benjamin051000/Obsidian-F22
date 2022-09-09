@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Comp Arch/2 Memory Hierarchy/Cache.md",
+            "file": "Verification/Notes/DPLL/DPLL Heuristics.md",
             "mode": "source",
             "source": false
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comp Arch/2 Memory Hierarchy/Cache.md",
+                "file": "Verification/Notes/DPLL/DPLL Heuristics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comp Arch/2 Memory Hierarchy/Cache.md",
+                "file": "Verification/Notes/DPLL/DPLL Heuristics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comp Arch/2 Memory Hierarchy/Cache.md"
+                "file": "Verification/Notes/DPLL/DPLL Heuristics.md"
               }
             }
           }
@@ -162,15 +162,15 @@
   },
   "active": "f053c23659cca490",
   "lastOpenFiles": [
+    "Verification/Notes/DPLL/Z3.md",
+    "Verification/Notes/Intro.md",
+    "Verification/Notes/DPLL/SAT Example Prog Equiv.md",
+    "Verification/Notes/DPLL/DPLL and CNF.md",
+    "Verification/Notes/DPLL/Unsat Core.md",
+    "Comp Arch/2 Memory Hierarchy/Cache.md",
     "Comp Arch/2 Memory Hierarchy/Outline.md",
     "Comp Arch/1 Overview/Data-Level Parallelism.md",
     "Daily/2022-09-09.md",
-    "Daily/2022-08-29.md",
-    "Verification/Notes/Implication Graph.md",
-    "Verification/Notes/Intro.md",
-    "Verification/Notes/Intro to Formal Reasoning.md",
-    "Verification/Notes/SAT Example Prog Equiv.md",
-    "Verification/Notes/DPLL and CNF.md",
-    "Verification/Notes/Unsat Core.md"
+    "Daily/2022-08-29.md"
   ]
 }
