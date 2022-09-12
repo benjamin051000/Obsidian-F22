@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Verification/Notes/Binary Decision Diagram.md",
+            "file": "Comp Arch/2 Memory Hierarchy/Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "valid",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verification/Notes/Binary Decision Diagram.md",
+                "file": "Comp Arch/2 Memory Hierarchy/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Verification/Notes/Binary Decision Diagram.md",
+                "file": "Comp Arch/2 Memory Hierarchy/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Verification/Notes/Binary Decision Diagram.md"
+                "file": "Comp Arch/2 Memory Hierarchy/Untitled.md"
               }
             }
           }
@@ -161,17 +160,17 @@
     "width": 276.5,
     "collapsed": true
   },
-  "active": "7144a2d714c7faaf",
+  "active": "821645e1b9aa83f2",
   "lastOpenFiles": [
+    "Daily/Monday, 9-12-22.md",
+    "Verification/Notes/Shannon Expansion.md",
+    "Verification/Notes/BDD, ROBDD.md",
     "Media/BDD_example.png",
-    "Verification/Notes/Binary Decision Diagram.md",
     "Verification/Notes/DPLL/DPLL and CNF.md",
     "Verification/Notes/DPLL/Validity Checking.md",
     "Media/validity-checker.excalidraw.md",
     "Verification/Assignments/Assignment 1.md",
     "Verification/Notes/DPLL/Z3 Sat Solver.md",
-    "Media/Drawing 2022-09-09 10.55.28.excalidraw.md",
-    "Verification/Notes/DPLL/Unsatisfiable Core.md",
-    "Verification/Notes/DPLL/DPLL Heuristics.md"
+    "Media/Drawing 2022-09-09 10.55.28.excalidraw.md"
   ]
 }

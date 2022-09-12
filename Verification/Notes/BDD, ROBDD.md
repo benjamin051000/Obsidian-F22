@@ -37,4 +37,13 @@ What is the ROBDD that represents all valid formulas?
 - From [[Intro to Formal Reasoning]]: Formula is **valid** if it evaluates to TRUE under all assignments.
 What is the ROBDD that represents all false formulas?
 - A: The 0 node!
-- 
+-  How can we check satisfiability?
+	- If a 0 node does not exist, then it *must* be satisfiable!
+	- Technically existence of a 1 node may or may not mean it's satisfiable... not sure. Look into this #todo 
+
+## Time Complexity
+No known polynomial algorithm
+
+- In general, SAT checking is NP-hard!
+- ROBDD construction is exponential time
+- Determining whether ROBDD is satisfiable is constant time!
