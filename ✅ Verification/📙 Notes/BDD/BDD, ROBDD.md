@@ -47,3 +47,4 @@ No known polynomial algorithm
 - In general, SAT checking is NP-hard!
 - ROBDD construction is exponential time
 - Determining whether ROBDD is satisfiable is constant time!
+
