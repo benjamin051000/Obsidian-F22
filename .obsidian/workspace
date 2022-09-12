@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4b7eabe1491f0cf5",
+        "id": "c561b3e556bd914b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2022-09-11.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -109,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-09-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-09-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2022-09-11.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,8 +151,9 @@
     "direction": "horizontal",
     "width": 276.5
   },
-  "active": "4b7eabe1491f0cf5",
+  "active": "c561b3e556bd914b",
   "lastOpenFiles": [
+    "Daily/2022-09-11.md",
     "2022-09-08.md",
     "ML/About.md",
     "ARC/Intro.md",
@@ -169,7 +162,6 @@
     "2022-09-07.md",
     "2022-09-06.md",
     "2022-09-02.md",
-    "2022-09-01.md",
-    "2022-08-31.md"
+    "2022-09-01.md"
   ]
 }
