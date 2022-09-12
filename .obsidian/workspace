@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "c561b3e556bd914b",
+        "id": "28de44c7979151a3",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -91,6 +91,14 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "6850327170919960",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ]
       },
@@ -151,8 +159,9 @@
     "direction": "horizontal",
     "width": 276.5
   },
-  "active": "c561b3e556bd914b",
+  "active": "2c842c2b4cb5ab4f",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Daily/2022-09-11.md",
     "2022-09-08.md",
     "ML/About.md",
@@ -161,7 +170,6 @@
     "Assignments.md",
     "2022-09-07.md",
     "2022-09-06.md",
-    "2022-09-02.md",
-    "2022-09-01.md"
+    "2022-09-02.md"
   ]
 }

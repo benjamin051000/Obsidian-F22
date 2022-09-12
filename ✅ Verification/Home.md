@@ -15,12 +15,15 @@ SORT due DESC
 ## To Do 📑
 ```dataview
 TASK
-FROM "Verification/Assignments"
+FROM "✅ Verification/Assignments"
 GROUP BY file.link
 SORT due DESC
 ```
 - [ ] Practice DPLL problems
 	- [ ] Practice identifying $\kappa$, UIP, and backtracking
+
+# Announcements
+- Class is cancelled (?) W 14 and F 16
 
 # Lecture Notes
 ```dataview
