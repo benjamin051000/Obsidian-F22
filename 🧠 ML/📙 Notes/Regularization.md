@@ -4,6 +4,11 @@ One solution to avoid [[Overfitting]]
 TODO take notes about these
 
 # Lasso Regularizer
+- Drives coefficients towards 0 much quicker than ridge
+- Drives coeffs to exactly 0
+	- Creates a sparse vector
+	- Therefore, will end up excluding features
+	- This is a form of Feature Selection
 ![[Pasted image 20220913142927.png]]
 
 
