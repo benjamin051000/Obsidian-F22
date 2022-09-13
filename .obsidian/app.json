@@ -5,6 +5,6 @@
   "spellcheck": false,
   "newFileLocation": "current",
   "attachmentFolderPath": "./",
-  "fileSortOrder": "byModifiedTime",
+  "fileSortOrder": "byModifiedTimeReverse",
   "alwaysUpdateLinks": true
 }

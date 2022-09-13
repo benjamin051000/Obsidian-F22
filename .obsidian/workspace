@@ -7,8 +7,12 @@
         "id": "28de44c7979151a3",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "🧠 ML/📙 Notes/Models.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -100,7 +104,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f49a53d18eb449c3",
@@ -113,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🧠 ML/📙 Notes/Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🧠 ML/📙 Notes/Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🧠 ML/📙 Notes/Models.md"
+              }
             }
           }
         ]
@@ -161,15 +170,15 @@
   },
   "active": "28de44c7979151a3",
   "lastOpenFiles": [
+    "🧠 ML/📙 Notes/HiPerGator Tutorial.md",
+    "🧠 ML/📙 Notes/Data Cleaning, Pandas.md",
+    "🧠 ML/📙 Notes/Types of Learning.md",
+    "🧠 ML/📙 Notes/Scaling Data.md",
+    "🧠 ML/📙 Notes/Occam's Razor.md",
+    "🧠 ML/📙 Notes/Pandas.md",
+    "🧠 ML/📙 Notes/Models.md",
+    "🧠 ML/📙 Notes/EEL5934_Applied Machine Learning Systems_Fall 2022.pdf",
     "conflict-files-obsidian-git.md",
-    "Daily/2022-09-11.md",
-    "2022-09-08.md",
-    "ML/About.md",
-    "ARC/Intro.md",
-    "ML/Notes/Models.md",
-    "Assignments.md",
-    "2022-09-07.md",
-    "2022-09-06.md",
-    "2022-09-02.md"
+    "Daily/2022-09-11.md"
   ]
 }
