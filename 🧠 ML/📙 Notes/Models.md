@@ -56,7 +56,11 @@ Later, it starts overfitting so validation error increases.
 - Ideal: $M^*$
 
 
-# Options for overfitting
+# Overfitting
+Model attempts to do crazy stuff to minimize error.
+- Example: 10-term polynomial
+
+## Options for overfitting
 - Add more data
 - Cross-validation
 - Ensemble learning
