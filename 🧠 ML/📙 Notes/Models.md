@@ -55,13 +55,3 @@ Later, it starts overfitting so validation error increases.
 - Overfitting: $M^* < \infty$
 - Ideal: $M^*$
 
-
-# Overfitting
-Model attempts to do crazy stuff to minimize error.
-- Example: 10-term polynomial
-
-## Options for overfitting
-- Add more data
-- Cross-validation
-- Ensemble learning
-- [[Occam's Razor]]
