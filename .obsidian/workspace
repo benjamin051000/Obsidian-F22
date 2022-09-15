@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "821645e1b9aa83f2",
+        "id": "baa033334afc5073",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Comp Arch/2 Memory Hierarchy/Untitled.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -86,7 +82,7 @@
       {
         "id": "b996d920d09bbaf2",
         "type": "tabs",
-        "dimension": 48.55072463768116,
+        "dimension": 68.96135265700482,
         "children": [
           {
             "id": "2c842c2b4cb5ab4f",
@@ -95,13 +91,22 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "de12b3c024e8e19f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f49a53d18eb449c3",
         "type": "tabs",
-        "dimension": 51.44927536231884,
+        "dimension": 31.03864734299517,
         "children": [
           {
             "id": "2f1f19b484f855c6",
@@ -109,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comp Arch/2 Memory Hierarchy/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comp Arch/2 Memory Hierarchy/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,29 +151,26 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Comp Arch/2 Memory Hierarchy/Untitled.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
-  "active": "821645e1b9aa83f2",
+  "active": "baa033334afc5073",
   "lastOpenFiles": [
-    "Daily/Monday, 9-12-22.md",
-    "Verification/Notes/Shannon Expansion.md",
-    "Verification/Notes/BDD, ROBDD.md",
-    "Media/BDD_example.png",
-    "Verification/Notes/DPLL/DPLL and CNF.md",
-    "Verification/Notes/DPLL/Validity Checking.md",
-    "Media/validity-checker.excalidraw.md",
-    "Verification/Assignments/Assignment 1.md",
-    "Verification/Notes/DPLL/Z3 Sat Solver.md",
-    "Media/Drawing 2022-09-09 10.55.28.excalidraw.md"
+    "💻 Comp Arch/2 Memory Hierarchy/Drawing 2022-09-14 10.10.00.excalidraw.md",
+    "💻 Comp Arch/2 Memory Hierarchy/Direct Mapped Cache Example.md",
+    "💻 Comp Arch/2 Memory Hierarchy/Block Placement.md",
+    "💻 Comp Arch/2 Memory Hierarchy/Cache.md",
+    "🧠 ML/Notes/Types of Learning.md",
+    "🧠 ML/Notes/Scaling Data.md",
+    "🧠 ML/Notes/Data Cleaning, Pandas.md",
+    "🧠 ML/Notes/Occam's Razor.md",
+    "🧠 ML/Notes/Models.md",
+    "🧠 ML/Notes/What is machine learning.md"
   ]
 }

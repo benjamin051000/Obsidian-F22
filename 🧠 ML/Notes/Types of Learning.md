@@ -7,6 +7,8 @@ You must:
 - Collect data
 - Label the data
 
+SL systems look just like the adaptive filter CACI intern project
+
 ## Unsupervised Learning
 Model learns from unlabeled data
 
