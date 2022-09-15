@@ -55,9 +55,3 @@ Later, it starts overfitting so validation error increases.
 - Overfitting: $M^* < \infty$
 - Ideal: $M^*$
 
-
-# Options for overfitting
-- Add more data
-- Cross-validation
-- Ensemble learning
-- [[Occam's Razor]]
