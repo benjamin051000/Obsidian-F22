@@ -118,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✅ Verification/📙 Notes/BDD/Apply ROBDD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✅ Verification/📙 Notes/BDD/Apply ROBDD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -157,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "✅ Verification/📙 Notes/BDD/Apply ROBDD.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -169,11 +165,11 @@
     "width": 276.5,
     "collapsed": true
   },
-  "active": "73a459f9f8328fdd",
+  "active": "029f72b44add5c1f",
   "lastOpenFiles": [
-    "✅ Verification/📙 Notes/BDD/Shannon Expansion.md",
-    "✅ Verification/📙 Notes/BDD/BDD, ROBDD.md",
     "✅ Verification/📙 Notes/BDD/Apply ROBDD.md",
+    "✅ Verification/📙 Notes/BDD/BDD, ROBDD.md",
+    "✅ Verification/📙 Notes/BDD/Shannon Expansion.md",
     "✅ Verification/📙 Notes/Minterm, Maxterm.md",
     "✅ Verification/📙 Notes/Logic Operators on ROBDDs.md",
     "🧠 ML/📙 Notes/Logistic Regression.md",

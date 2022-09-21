@@ -9,8 +9,12 @@ $$ c_o = (c_i \land (x \oplus y)) \lor (x \land y )  $$
 
 
 ## Create specification
-Use a truth table to come up with a BDD
+Use a truth table to come up with a [[BDD, ROBDD]] 
 Use a truth table to determine the outputs (she used [[Minterm, Maxterm]] s)
 
 Now, check if someone's circuit is correct.
 
+## Verify a new circuit
+Check if two BDDs have the same root node
+- Assuming they have been constructed using the same variable ordering
+- This is due to canonicity!
