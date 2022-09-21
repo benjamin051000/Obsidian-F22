@@ -7,3 +7,10 @@ $$ c_o = (c_i \land (x \oplus y)) \lor (x \land y )  $$
 - Interpret circuit as a Directed Acyclic Graph (DAG)
 - Traverse the graph to determine the boolean functions
 
+
+## Create specification
+Use a truth table to come up with a BDD
+Use a truth table to determine the outputs (she used [[Minterm, Maxterm]] s)
+
+Now, check if someone's circuit is correct.
+
