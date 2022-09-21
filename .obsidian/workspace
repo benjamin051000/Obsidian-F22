@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "✅ Verification/📙 Notes/BDD/Apply ROBDD.md",
+            "file": "✅ Verification/📙 Notes/BDD/Applications/Path Delay Fault Coverage.md",
             "mode": "source",
             "source": false
           }
@@ -118,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "✅ Verification/📙 Notes/BDD/Applications/Path Delay Fault Coverage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "✅ Verification/📙 Notes/BDD/Applications/Path Delay Fault Coverage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "✅ Verification/📙 Notes/BDD/Applications/Path Delay Fault Coverage.md"
+              }
             }
           }
         ]
@@ -165,9 +169,10 @@
     "width": 276.5,
     "collapsed": true
   },
-  "active": "029f72b44add5c1f",
+  "active": "73a459f9f8328fdd",
   "lastOpenFiles": [
-    "✅ Verification/📙 Notes/BDD/Apply ROBDD.md",
+    "✅ Verification/📙 Notes/BDD/Applications/Comb Logic Circuits.md",
+    "✅ Verification/📙 Notes/BDD/Applications/Path Delay Fault Coverage.md",
     "✅ Verification/📙 Notes/BDD/BDD, ROBDD.md",
     "✅ Verification/📙 Notes/BDD/Shannon Expansion.md",
     "✅ Verification/📙 Notes/Minterm, Maxterm.md",
@@ -175,7 +180,6 @@
     "🧠 ML/📙 Notes/Logistic Regression.md",
     "🧠 ML/📙 Notes/Logistic Regression 2022-09-15 15.29.47.excalidraw.md",
     "Assignments.md",
-    "🧠 ML/📙 Notes/Regularization.md",
-    "💻 Comp Arch/2 Memory Hierarchy/Drawing 2022-09-14 10.10.00.excalidraw.md"
+    "🧠 ML/📙 Notes/Regularization.md"
   ]
 }
