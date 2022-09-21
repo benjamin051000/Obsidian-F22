@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "73a459f9f8328fdd",
+        "id": "8fba417cd3e5e45e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "✅ Verification/📝 Assignments/Assignment 2.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -25,7 +21,7 @@
       {
         "id": "d84da05b44fb8ac8",
         "type": "tabs",
-        "dimension": 24.546553808948005,
+        "dimension": 29.14147521160822,
         "children": [
           {
             "id": "029f72b44add5c1f",
@@ -40,7 +36,7 @@
       {
         "id": "49d824844e2d51c7",
         "type": "tabs",
-        "dimension": 75.453446191052,
+        "dimension": 70.85852478839178,
         "children": [
           {
             "id": "87261c312433a685",
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 257.5
   },
   "right": {
     "id": "dc2143999adea221",
@@ -118,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✅ Verification/📝 Assignments/Assignment 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✅ Verification/📝 Assignments/Assignment 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -157,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "✅ Verification/📝 Assignments/Assignment 2.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -169,17 +161,17 @@
     "width": 276.5,
     "collapsed": true
   },
-  "active": "73a459f9f8328fdd",
+  "active": "8fba417cd3e5e45e",
   "lastOpenFiles": [
-    "✅ Verification/📙 Notes/BDD/BDD, ROBDD.md",
-    "✅ Verification/📙 Notes/BDD/Applications/Model Counting Problem.md",
-    "✅ Verification/📙 Notes/BDD/Applications/Path Delay Fault Coverage.md",
-    "✅ Verification/📙 Notes/BDD/Applications/Comb Logic Circuits.md",
-    "✅ Verification/📙 Notes/BDD/Shannon Expansion.md",
-    "✅ Verification/📙 Notes/Minterm, Maxterm.md",
-    "✅ Verification/📙 Notes/Logic Operators on ROBDDs.md",
-    "🧠 ML/📙 Notes/Logistic Regression.md",
-    "🧠 ML/📙 Notes/Logistic Regression 2022-09-15 15.29.47.excalidraw.md",
-    "Assignments.md"
+    "✅ Verification/📙 Notes/DPLL/Implication Graph.md",
+    "✅ Verification/📙 Notes/DPLL/Unsatisfiable Core.md",
+    "✅ Verification/📙 Notes/DPLL/Z3 Sat Solver.md",
+    "✅ Verification/📙 Notes/DPLL/Validity Checking.md",
+    "✅ Verification/📙 Notes/DPLL/DPLL Heuristics.md",
+    "✅ Verification/📙 Notes/DPLL/SAT Example Prog Equiv.md",
+    "✅ Verification/📙 Notes/DPLL/DPLL and CNF.md",
+    "Untitled.md",
+    "✅ Verification/📝 Assignments/Assignment 2.md",
+    "✅ Verification/📙 Notes/BDD/BDD, ROBDD.md"
   ]
 }
