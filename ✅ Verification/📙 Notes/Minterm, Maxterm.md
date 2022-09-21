@@ -1,4 +1,5 @@
 Minterm: the AND of all the variables
+- Full assignment of all variables
 - all the $2^n$ variables
 - Some will satisfy formula, some won't
 - example:
