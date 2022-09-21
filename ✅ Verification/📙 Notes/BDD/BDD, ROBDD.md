@@ -48,3 +48,6 @@ No known polynomial algorithm
 - ROBDD construction is exponential time
 - Determining whether ROBDD is satisfiable is constant time!
 
+
+# Resources for Studying
+See canvas for a pdf by Andersen that apparently is good
