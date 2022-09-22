@@ -8,4 +8,5 @@ Model attempts to do crazy stuff to minimize error.
 - Cross-validation
 - Ensemble learning
 - [[Occam's Razor]]
+- [[Regularization]]
 

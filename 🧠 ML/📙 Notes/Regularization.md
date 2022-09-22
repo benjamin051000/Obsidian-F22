@@ -1,5 +1,4 @@
-One solution to avoid [[Overfitting]]
-
+# Regularization
 # Ridge Regularizer
 TODO take notes about these
 
