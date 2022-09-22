@@ -44,3 +44,6 @@ Not recommeneded because we can't grow the tree with it (what?)
 - Use this to prune the tree which will constrain the model, prevent excessive branching
 
 - Thus will return a simpler tree than the other impurity measures
+
+Example:
+![[2-class-example.png]]
