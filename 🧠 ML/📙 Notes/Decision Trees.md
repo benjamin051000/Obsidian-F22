@@ -8,6 +8,7 @@ See xournal doc `decision_tree.xopp` for an example.
 - Feature used to split a node:
 	- One that *maximizes* information gain
 - In classification, a **pure node** means the output results in a single class prediction
+	- In her 2-class example, the leaf node with only one class (20, 0) was pure
 	- Does not exist in Regression tasks, since regression doesn't predict classes
 		- For those, you pick a different objective function
 
