@@ -40,10 +40,12 @@ Not recommeneded because we can't grow the tree with it (what?)
 
 *Useful when trying to prune the tree:*
 
-- Branching out a ton leads to overfitting
+- Branching out a ton leads to [[overfitting]]
 - Use this to prune the tree which will constrain the model, prevent excessive branching
 
 - Thus will return a simpler tree than the other impurity measures
 
 Example:
 ![[2-class-example.png]]
+
+She also hand-calculated Gini impurity
