@@ -8,3 +8,9 @@
 	- Miss rate: misses/accesses = 1 - hit rate
 - Miss penalty: Time it takes to copy a block to upper level and deliver it to processor
 
+
+# Increase Cache Bandwidth
+- Pipeline it
+- Multibanked caches
+	- BW increased by allowing multiple accesses per cycle
+	- AKA n-port cache
