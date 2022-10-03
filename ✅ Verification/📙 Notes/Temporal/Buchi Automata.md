@@ -15,3 +15,5 @@ Accepts a set of strings
 - T= S * L * S: transition system
 - F: Set of accepting states
 
+
+For every [[LTL]] formula, there is a corresponding Buchi Atomata!
