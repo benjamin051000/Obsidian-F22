@@ -1,4 +1,6 @@
 # Regularization
+Helps solve [[Overfitting]]
+
 # Ridge Regularizer
 TODO take notes about these
 
