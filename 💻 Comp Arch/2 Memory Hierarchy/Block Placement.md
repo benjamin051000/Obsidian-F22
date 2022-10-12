@@ -1,4 +1,4 @@
-# Four Questions for Cache Hierarchy
+# Four Questions for [[Cache]] Hierarchy
 ## Block Placement
 Where can a block be placed in the upper-level cache?
 
