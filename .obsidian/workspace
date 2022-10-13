@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Verification/Notes/DPLL and CNF.md",
+            "file": "2022-10-13.md",
             "mode": "source",
             "source": false
           }
@@ -25,7 +25,7 @@
       {
         "id": "d84da05b44fb8ac8",
         "type": "tabs",
-        "dimension": 22.883295194508012,
+        "dimension": 22.883295194508015,
         "children": [
           {
             "id": "029f72b44add5c1f",
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verification/Notes/DPLL and CNF.md",
+                "file": "2022-10-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Verification/Notes/DPLL and CNF.md",
+                "file": "2022-10-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Verification/Notes/DPLL and CNF.md"
+                "file": "2022-10-13.md"
               }
             }
           }
@@ -162,10 +162,10 @@
   },
   "active": "bdaa7263baf8eda3",
   "lastOpenFiles": [
+    "Verification/Notes/DPLL and CNF.md",
     "Verification/Notes/SAT Example Prog Equiv.md",
     "Verification/Home.md",
     "Verification/Notes/Intro.md",
-    "Verification/Notes/DPLL and CNF.md",
     "Verification/Notes/Intro to Formal Reasoning.md",
     "Assignments.md",
     "Home.md",
