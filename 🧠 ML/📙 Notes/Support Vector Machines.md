@@ -19,10 +19,10 @@ If $t_n * x_n > 0$, then $x_n$ is correctly classified. If negative, it's not co
 **Goal:** $\forall x_n$  maximize distance! Distance defined as:
 $$\frac{t_n * y(x_n)}{||w||}$$
 
-# Objective Func. for Hard-Margin SVN
+# Objective Func. for Hard-Margin SVM
 Hard margin means don't allow any misclassifications, assume everything is linearly separable.
 
-Eventually we will get into Soft Margin SVNs which do allow some misclassifications at a penalty.
+Eventually we will get into Soft Margin SVMs which do allow some misclassifications at a penalty.
 
 ![[Pasted image 20221013142519.png]]
 
@@ -44,3 +44,5 @@ The Objective Function can be rewritten as:
 
 The inequality constrained optimization problem is solved using lagrange multipliers. Not covered in this course
 
+
+Note: If the data is not linearly separable, the resulting line will be terrible! This is in contrast to that of a [[Logistic Regression]], which will do sort of better. 

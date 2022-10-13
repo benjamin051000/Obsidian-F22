@@ -12,9 +12,17 @@ This only works if you pick the right $\phi$ function, not all $\phi$ functions 
 
 # Radial Basis Kernel
 ## aka RBF
-Projects data into an infinite-dimensional space.
+Projects data into an infinite-dimensional space. In infinite dimensions, we are guaranteed to have a hyperplane that separates features.
 
 $$K_{RBF}: \mathbb{R}^\infty \times \mathbb{R}^\infty \rightarrow \mathbb{R}, (x, y) |-> e^{-\gamma||x-y||^2} $$
 
 As gamma increases, the more similar two points are viewed.
-/backup
+
+Scikit-learn uses this kernel by default
+
+## Overfitting
+If we are guaranteed to have a hyperplane that separates features, [[Overfitting]] becomes a big issue.
+
+$$\phi_{RBF}: \mathbb{R}^D \rightarrow \mathbb{R}^\infty$$
+She showed an example where the data was linearly separable, but the model fit a non-linear curve, which is a red flag that it is overfitting.
+
