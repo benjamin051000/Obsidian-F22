@@ -1,0 +1,6 @@
+- N philosophers at a circular table
+- Philosopher can be either thinking, hungry, or eating state
+- Philosopher needs both forks to eat beside them
+- Goal: Produce a solution that
+	- Does not deadlock
+	- Guarantees mutually exclusive use of the forks
