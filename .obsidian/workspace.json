@@ -56,7 +56,7 @@
       {
         "id": "d84da05b44fb8ac8",
         "type": "tabs",
-        "dimension": 24.546553808948005,
+        "dimension": 26.36363636363636,
         "children": [
           {
             "id": "029f72b44add5c1f",
@@ -71,7 +71,7 @@
       {
         "id": "49d824844e2d51c7",
         "type": "tabs",
-        "dimension": 75.453446191052,
+        "dimension": 73.63636363636363,
         "children": [
           {
             "id": "87261c312433a685",
@@ -150,7 +150,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🧠 ML/📙 Notes/Principal Component Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +166,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🧠 ML/📙 Notes/Principal Component Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -189,9 +187,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "🧠 ML/📙 Notes/Principal Component Analysis.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -204,17 +200,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "5e0996dd1fe96dba",
+  "active": "029f72b44add5c1f",
   "lastOpenFiles": [
+    "🧠 ML/📙 Notes/Principal Component Analysis.md",
+    "🧠 ML/📙 Notes/Eigenvectors and Eigenvalues.md",
+    "🧠 ML/📙 Notes/Eigenvectors and Eigenvalues 2022-10-20 14.49.29.excalidraw.md",
     "🧠 ML/📙 Notes/Curse of Dimensionality.md",
     "🧠 ML/📙 Notes/Manifold Learning.md",
-    "🧠 ML/📙 Notes/Principal Component Analysis.md",
     "🧠 ML/📙 Notes/Untitled.md",
     "🧠 ML/📙 Notes/Regularization.md",
     "🧠 ML/📙 Notes/Types of Learning.md",
     "🧠 ML/ML Formula Sheet.md",
-    "Assignments.md",
-    "✅ Verification/📙 Notes/BDD/Shannon Expansion.md",
-    "Home.md"
+    "Assignments.md"
   ]
 }
