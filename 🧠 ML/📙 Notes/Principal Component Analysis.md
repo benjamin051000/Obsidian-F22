@@ -22,4 +22,6 @@ AKA PCA
 Typical threshold for PCA: 90% variance explainability
 - Just add features until you meet the threshold
 - Reduces a ton of dimensions
-- 
+
+
+Not expected to know the in-depth math at the top of the PCA notebook for the exam.
