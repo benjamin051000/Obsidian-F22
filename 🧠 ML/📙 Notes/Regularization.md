@@ -10,6 +10,7 @@ TODO take notes about these
 	- Creates a sparse vector
 	- Therefore, will end up excluding features
 	- This is a form of Feature Selection
+- Doesn't work on non-parametric models (e.g., [[Decision Trees]])
 ![[Pasted image 20220913142927.png]]
 
 
