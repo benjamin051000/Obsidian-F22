@@ -11,4 +11,5 @@
 - Powered Laundry chute (see Laundry Jet)
 - Solar panels + battery
 	- Save money (even make money) on electricity
-- 
+- the solar water heating thing on the roof
+- /backupcl

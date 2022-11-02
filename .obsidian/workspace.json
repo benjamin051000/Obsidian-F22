@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/Sunday, 10-23-2022.md",
+                "file": "Daily/Things I want in my House.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/Sunday, 10-23-2022.md",
+                "file": "Daily/Things I want in my House.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/Sunday, 10-23-2022.md",
+                "file": "Daily/Things I want in my House.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/Sunday, 10-23-2022.md"
+                "file": "Daily/Things I want in my House.md"
               }
             }
           }
@@ -176,20 +176,17 @@
     "direction": "horizontal",
     "width": 254.5
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
   "active": "cd66a27769ba6b4a",
   "lastOpenFiles": [
-    "Daily/Things I want in my House.md",
+    "2022-10-13.md",
+    "Assignments.md",
+    "Home.md",
     "Daily/Sunday, 10-23-2022.md",
+    "Daily/Things I want in my House.md",
     "✅ Verification/📙 Notes/BDD/BDD, ROBDD.md",
     "✅ Verification/📙 Notes/Intro to Formal Reasoning.md",
     "🧠 ML/About.md",
     "🧠 ML/EEL5934_Applied Machine Learning Systems_Fall 2022.pdf",
-    "✅ Verification/syllabusEEL47015702.pdf",
-    "💻 Comp Arch/EEL5764SyllabusFall2022.pdf",
-    "💻 Comp Arch/About.md",
-    "✅ Verification/Home.md"
+    "✅ Verification/syllabusEEL47015702.pdf"
   ]
 }
