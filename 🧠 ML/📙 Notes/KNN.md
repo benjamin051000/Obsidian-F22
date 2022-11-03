@@ -6,7 +6,7 @@
 		- Copy your neighbors!
 - K is a hyperparameter
 
-## Tie breaking
+# Tie breaking
 Options:
 - Pick label of closest neighbor
 - Randomly choose
@@ -19,4 +19,14 @@ Options:
 $$score=1/d_i$$
 - Whichever class scores highest becomes the classification
 - Sensitive to outliers
-- More prone to overfitting
+- More prone to [[overfitting]]
+
+# Tuning Issues
+KNN is non-parametric
+- no mapper function
+- cannot use standard [[Regularization]] terms
+
+# Other observations
+- KNN is sensitive to the [[curse of dimensionality]]
+	- Works in high dimensions *if* you keep your num neighbors small.
+		- With small k values, manifold is approximately linear.
