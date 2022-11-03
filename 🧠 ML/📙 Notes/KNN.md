@@ -21,6 +21,8 @@ $$score=1/d_i$$
 - Sensitive to outliers
 - More prone to [[overfitting]]
 
+- Sometimes gets "islands" where outliers lie
+
 # Tuning Issues
 KNN is non-parametric
 - no mapper function
