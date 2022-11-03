@@ -13,3 +13,10 @@ Options:
 - Choice that minimizes risk
 - Pick based on relative frequency of each class
 	- In the case of imbalanced data, pick class that is least represented
+
+## Weighted KNN
+- Voting scheme weighted by distance
+$$score=1/d_i$$
+- Whichever class scores highest becomes the classification
+- Sensitive to outliers
+- More prone to overfitting
