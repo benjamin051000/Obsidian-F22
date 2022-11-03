@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "abe4184a02a70b3a",
+        "id": "cd0185cac9ade86f",
         "type": "tabs",
         "children": [
           {
-            "id": "a842bd6df4bd98f3",
+            "id": "e6992babcf188450",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": true
+                "file": "🧠 ML/📙 Notes/Cluster Validity.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -119,8 +120,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "f49a53d18eb449c3",
@@ -133,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🧠 ML/📙 Notes/Cluster Validity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,6 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🧠 ML/📙 Notes/Cluster Validity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -170,7 +172,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🧠 ML/📙 Notes/Cluster Validity.md"
+              }
             }
           }
         ],
@@ -180,17 +184,17 @@
     "direction": "horizontal",
     "width": 276.5
   },
-  "active": "a842bd6df4bd98f3",
+  "active": "e6992babcf188450",
   "lastOpenFiles": [
+    "🧠 ML/📙 Notes/Cluster Validity 2022-11-03 14.55.29.excalidraw.md",
+    "🧠 ML/📙 Notes/Cluster Validity.md",
     "🧠 ML/📙 Notes/DBSCAN.md",
-    "conflict-files-obsidian-git.md",
+    "Media/Drawing 2022-11-03 14.49.50.excalidraw.md",
     "🧠 ML/📙 Notes/Hierarchical Clustering.md",
+    "Assignments.md",
+    "✅ Verification/📝 Assignments/Assignment 1.md",
+    "conflict-files-obsidian-git.md",
     "🧠 ML/📙 Notes/Principal Component Analysis.md",
-    "🧠 ML/📙 Notes/Curse of Dimensionality.md",
-    "🧠 ML/EEL5934_Applied Machine Learning Systems_Fall 2022.pdf",
-    "🧠 ML/📙 Notes/Eigenvectors and Eigenvalues.md",
-    "🧠 ML/📙 Notes/Eigenvectors and Eigenvalues 2022-10-20 14.49.29.excalidraw.md",
-    "🧠 ML/📙 Notes/Untitled.md",
-    "🧠 ML/📙 Notes/Manifold Learning.md"
+    "🧠 ML/📙 Notes/Curse of Dimensionality.md"
   ]
 }
