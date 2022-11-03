@@ -38,8 +38,11 @@ What is the ROBDD that represents all valid formulas?
 What is the ROBDD that represents all false formulas?
 - A: The 0 node!
 -  How can we check satisfiability?
-	- If a 0 node does not exist, then it *must* be satisfiable!
-	- Technically existence of a 1 node may or may not mean it's satisfiable... not sure. Look into this #todo 
+	- Satisfiable if a 1 node does exist.
+	- If a 0 node does *not* exist, then it *must* be satisfiable!
+- Check validity:
+	- If a 0 node exists, it is NOT valid.
+	- Valid iff all paths go to a 1.
 
 ## Time Complexity
 No known polynomial algorithm

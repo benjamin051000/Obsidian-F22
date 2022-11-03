@@ -1,0 +1,15 @@
+- Dishwasher
+- Faucet glass rinser for the sink
+	- Where you press the glass upside down and it sprays water to clean it
+- Laundry facilities
+- Fridge where freezer is on bottom
+- Movie theater room
+- ethernet in every room
+- Central vacuum system (if people say it's worth it)
+- Induction stovetop (maybe)
+- Server room
+- Powered Laundry chute (see Laundry Jet)
+- Solar panels + battery
+	- Save money (even make money) on electricity
+- the solar water heating thing on the roof
+- /backupcl
