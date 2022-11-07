@@ -43,4 +43,4 @@ F. Logistic regression: Always draws linear solutions, but does better in 2nd ro
 
 7. Suppose you would like to use PCA to reduce dimensionality of your data prior to classification. Is PCA always an effective dimensionality reduction technique to be used in conjunction with classification? Why or why not?
 8. MDS/ISOMAP/LLE
-/backup
+/backupc
