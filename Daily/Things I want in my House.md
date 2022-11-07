@@ -12,4 +12,4 @@
 - Solar panels + battery
 	- Save money (even make money) on electricity
 - the solar water heating thing on the roof
-- /backupcl
+- 

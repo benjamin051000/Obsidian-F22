@@ -34,7 +34,8 @@ Eventually we will get into Soft Margin SVMs which do allow some misclassificati
 For SVs, their distance is ?
 
 Normalize w and b such that distance of SVs to discriminant function = 1.
-For all data points:$$
+For all data points:
+$$
 t_n(w^T\phi(x_n)+b) >= 1, \forall n
 $$
 
