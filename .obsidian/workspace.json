@@ -11,11 +11,10 @@
             "id": "e6992babcf188450",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "🧠 ML/📙 Notes/Cluster Validity.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/graph.json",
+                "staged": false
               }
             }
           },
@@ -31,8 +30,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,7 +191,7 @@
     "direction": "horizontal",
     "width": 276.5
   },
-  "active": "029f72b44add5c1f",
+  "active": "e6992babcf188450",
   "lastOpenFiles": [
     "🧠 ML/📙 Notes/KNN.md",
     "🧠 ML/📙 Notes/Cluster Validity.md",
