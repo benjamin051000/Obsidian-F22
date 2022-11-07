@@ -11,13 +11,30 @@
 | C -> 0   | Wider margin         | Worse       | More                     |
 
 2. SVM vs Logit
+1. 
+	1. The SVM finds a decision surface by finding a hyperplane which linearly separates the two classes. It may use a kernel trick to work in a higher-dimensional space if the data is not apparently linear. It attempts to maximize the distance of each data point to the line, which is called the margin. Some points will touch the margin, which are then called support vectors.
+	2. The logistic regression utilizes a function that classifies based off whether the output is above or below a particular threshold, called the sigmoid function.
+2.  SVMs are better when there are a small number of features and a large number of data points. Logit is better when there are many features but not as much data.
    
+3. chart
+A. Random Forest: Shows vertical/horizontal cuts
+
+B. Decision Tree: vertical/horizontal cuts but with overfitting
+
+C. RBF SVM: Groups the data points properly in all cases, indicating use of a non-linear kernel in the solution.
+
+D. Linear SVM: It always draws linear solutions, but the non-linear data (2nd row) gets a terrible solution because of this.
+
+E. Adaboost: Process of elimination
+
+F. Logistic regression: Always draws linear solutions, but does better in 2nd row than SVM.
 
 4. Curse of dimensionality stuff
 	1. The volume of the crust converges to infinity.
 	2.  The curse of dimensionality
 	3.  This is an important isssue in ML because as dimensions of our data set increases, it becomes more and more difficult to obtain samples near the mean of the data.
 	4. #todo What strategies can we apply when features are uncorrelated and when features are strongly correlated.
-5. Write a paragraph (at least 200 words) discussing in what circumstances you would prefer to use feature selection over feature extraction. Explain your reasoning and provide examples.
+5. 
+	Feature selection is a good choice for dimensionality reduction when there are several features that contribute a lot of variance to the result. Using a process such as RFE allows a model to remove features that don't contribute much to the result. Feature extraction, on the other hand, is useful when there are many features that are not directly or easily comparable, like images. PCA is a useful tool to take data and extract new "features" to improve its variance.
 
-	
+6. /backup
