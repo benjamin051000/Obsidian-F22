@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🧠 ML/📙 Notes/Homework 3.md",
+                "file": "🧠 ML/📙 Notes/Scaling Data.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "standard scal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +81,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "af1920093fe068f5",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🧠 ML/📙 Notes/Homework 3.md"
+                "file": "🧠 ML/📙 Notes/Scaling Data.md"
               }
             }
           }
@@ -143,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🧠 ML/📙 Notes/Homework 3.md",
+                "file": "🧠 ML/📙 Notes/Scaling Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🧠 ML/📙 Notes/Homework 3.md",
+                "file": "🧠 ML/📙 Notes/Scaling Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -186,6 +187,7 @@
   },
   "active": "94443aff1a98da2a",
   "lastOpenFiles": [
+    "🧠 ML/📙 Notes/Homework 3.md",
     "conflict-files-obsidian-git.md",
     "🧠 ML/📙 Notes/KNN.md",
     "🧠 ML/📙 Notes/Cluster Validity.md",
@@ -194,7 +196,6 @@
     "✅ Verification/📙 Notes/Temporal/Buchi Automata.md",
     "✅ Verification/📙 Notes/BDD/BDD, ROBDD.md",
     "🧠 ML/📙 Notes/Cluster Validity 2022-11-03 14.55.29.excalidraw.md",
-    "🧠 ML/📙 Notes/DBSCAN.md",
-    "Media/Drawing 2022-11-03 14.49.50.excalidraw.md"
+    "🧠 ML/📙 Notes/DBSCAN.md"
   ]
 }
