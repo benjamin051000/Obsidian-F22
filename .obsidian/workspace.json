@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "658a528ffa9100b2",
+        "id": "78539b3473e0c18d",
         "type": "tabs",
         "children": [
           {
-            "id": "cd66a27769ba6b4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🧠 ML/📙 Notes/Curse of Dimensionality.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b169a424fd97244",
+            "id": "83bd65c16975d1c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -123,6 +111,14 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "735ae0022dca3a10",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ]
       },
@@ -137,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🧠 ML/📙 Notes/Curse of Dimensionality.md",
+                "file": "🧠 ML/📙 Notes/Homework 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🧠 ML/📙 Notes/Curse of Dimensionality.md",
+                "file": "🧠 ML/📙 Notes/Homework 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -177,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🧠 ML/📙 Notes/Curse of Dimensionality.md"
+                "file": "🧠 ML/📙 Notes/Homework 3.md"
               }
             }
           }
@@ -189,17 +185,17 @@
     "width": 254.5,
     "collapsed": true
   },
-  "active": "cd66a27769ba6b4a",
+  "active": "83bd65c16975d1c2",
   "lastOpenFiles": [
-    "🧠 ML/📙 Notes/Homework 3.md",
+    "🧠 ML/📙 Notes/Support Vector Machines.md",
+    "🧠 ML/📙 Notes/Logistic Regression.md",
     "🧠 ML/📙 Notes/Curse of Dimensionality.md",
-    "🧠 ML/📙 Notes/Cluster Validity.md",
-    "🧠 ML/📙 Notes/DBSCAN.md",
-    "Daily/Things I want in my House.md",
-    "2022-10-13.md",
-    "Assignments.md",
+    "🧠 ML/📙 Notes/KNN.md",
     "Home.md",
-    "Daily/Sunday, 10-23-2022.md",
-    "✅ Verification/📙 Notes/BDD/BDD, ROBDD.md"
+    "Therapy.md",
+    "🧠 ML/📙 Notes/Therapy.md",
+    "🧠 ML/📙 Notes/Hierarchical Clustering.md",
+    "🧠 ML/📙 Notes/Soft-Margin SVM.md",
+    "🧠 ML/📙 Notes/Cluster Validity.md"
   ]
 }
