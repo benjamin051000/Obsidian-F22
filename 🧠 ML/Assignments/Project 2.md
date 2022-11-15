@@ -20,3 +20,5 @@
 		- [ ] PCA faster?
 - [ ] Check in models!!!
 - [ ] Optional: If you have time, run some CV on a few models for improved results
+- [ ] Upload q4 model to onedrive, add link into readme
+
