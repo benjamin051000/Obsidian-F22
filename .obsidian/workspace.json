@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "94443aff1a98da2a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🧠 ML/Assignments/Project 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "7be1b6c15c072726",
             "type": "leaf",
             "state": {
@@ -33,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🧠 ML/Neural Networks.md"
+              }
             }
           }
         ]
@@ -155,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🧠 ML/Neural Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🧠 ML/Neural Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -194,8 +183,9 @@
     "direction": "horizontal",
     "width": 276.5
   },
-  "active": "029f72b44add5c1f",
+  "active": "7be1b6c15c072726",
   "lastOpenFiles": [
+    "🧠 ML/📙 Notes/Logistic Regression.md",
     "🧠 ML/Neural Networks.md",
     "🧠 ML/Assignments/Project 2.md",
     "🧠 ML/📙 Notes/Curse of Dimensionality.md",
@@ -204,7 +194,6 @@
     "🧠 ML/Assignments/Project 1.md",
     "conflict-files-obsidian-git.md",
     "🧠 ML/📙 Notes/Homework 3.md",
-    "🧠 ML/📙 Notes/KNN.md",
-    "🧠 ML/📙 Notes/Cluster Validity.md"
+    "🧠 ML/📙 Notes/KNN.md"
   ]
 }

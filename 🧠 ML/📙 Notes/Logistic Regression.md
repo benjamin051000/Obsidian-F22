@@ -1,0 +1,1 @@
+Uses Gradient Descent and a sigmoid function
