@@ -1,8 +1,8 @@
 - [ ] Training notebook
 	- [ ] Finish questions
 		- [x] 1
-		- [ ] 2
-		- [ ] 3
+		- [x] 2
+		- [x] 3
 		- [ ] 4
 	- [ ] Save all models
 - [ ] Test notebook
@@ -15,3 +15,5 @@
 	- [ ] Post links to large models if necessary
 - [ ] Paper
 	- [ ] Answer each question in test notebook
+	- [ ] 2
+		- [ ] PCA faster?
