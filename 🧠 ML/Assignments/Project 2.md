@@ -14,10 +14,10 @@
 - [x] Readme file
 	- [x] Nothing fancy here
 	- [x] Post links to large models if necessary
-- [ ] Paper
-	- [ ] Answer each question in test notebook
-	- [ ] 2
-		- [ ] PCA faster?
+- [x] Paper
+	- [x] Answer each question in test notebook
+	- [x] 2
+		- [x] PCA faster?
 - [x] Check in models!!!
 - [ ] Optional: If you have time, run some CV on a few models for improved results
 - [x] Upload q4 model to onedrive, add link into readme
