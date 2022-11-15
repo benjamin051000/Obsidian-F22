@@ -58,3 +58,7 @@ F. Logistic regression: Always draws linear solutions, but does better in 2nd ro
 /backup
 
 8. MDS/ISOMAP/LLE
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/main

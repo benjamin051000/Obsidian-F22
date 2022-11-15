@@ -1,4 +1,3 @@
-# Scaling data
 - Some data is plotted on different ranges.
 - Scaling allows them to be directly compared and used together
 
