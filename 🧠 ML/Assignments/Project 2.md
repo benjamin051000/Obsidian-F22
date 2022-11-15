@@ -11,14 +11,15 @@
 	- [x] Load models
 	- [x] Run tests on them
 	- [x] Just have them print confusion matrixes and stuff
-- [ ] Readme file
-	- [ ] Nothing fancy here
-	- [ ] Post links to large models if necessary
+- [x] Readme file
+	- [x] Nothing fancy here
+	- [x] Post links to large models if necessary
 - [ ] Paper
 	- [ ] Answer each question in test notebook
 	- [ ] 2
 		- [ ] PCA faster?
-- [ ] Check in models!!!
+- [x] Check in models!!!
 - [ ] Optional: If you have time, run some CV on a few models for improved results
-- [ ] Upload q4 model to onedrive, add link into readme
+- [x] Upload q4 model to onedrive, add link into readme
+- [ ] Get PDFs of train and test
 

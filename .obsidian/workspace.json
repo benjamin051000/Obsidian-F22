@@ -10,13 +10,15 @@
           {
             "id": "94443aff1a98da2a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "🧠 ML/Assignments/Project 2.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -31,7 +33,7 @@
       {
         "id": "d84da05b44fb8ac8",
         "type": "tabs",
-        "dimension": 26.363636363636363,
+        "dimension": 26.3671875,
         "children": [
           {
             "id": "029f72b44add5c1f",
@@ -46,7 +48,7 @@
       {
         "id": "49d824844e2d51c7",
         "type": "tabs",
-        "dimension": 36.81818181818181,
+        "dimension": 52.5390625,
         "children": [
           {
             "id": "0f04f62efc5d0b6d",
@@ -81,13 +83,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "af1920093fe068f5",
         "type": "tabs",
-        "dimension": 36.81818181818181,
+        "dimension": 21.09375,
         "children": [
           {
             "id": "495b83c1b4ae8263",
@@ -186,15 +187,15 @@
   },
   "active": "94443aff1a98da2a",
   "lastOpenFiles": [
-    "🧠 ML/📙 Notes/Scaling Data.md",
+    "🧠 ML/📙 Notes/Curse of Dimensionality.md",
+    "🧠 ML/📙 Notes/Principal Component Analysis.md",
     "🧠 ML/Assignments/Project 2.md",
+    "🧠 ML/📙 Notes/Scaling Data.md",
     "🧠 ML/Assignments/Project 1.md",
     "conflict-files-obsidian-git.md",
     "🧠 ML/📙 Notes/Homework 3.md",
     "🧠 ML/📙 Notes/KNN.md",
     "🧠 ML/📙 Notes/Cluster Validity.md",
-    "✅ Verification/📙 Notes/DPLL/DPLL Heuristics.md",
-    "💻 Comp Arch/2 Memory Hierarchy/Cache.md",
-    "✅ Verification/📙 Notes/Temporal/Buchi Automata.md"
+    "✅ Verification/📙 Notes/DPLL/DPLL Heuristics.md"
   ]
 }
