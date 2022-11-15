@@ -1,6 +1,6 @@
 - [ ] Training notebook
 	- [ ] Finish questions
-		- [ ] 1
+		- [x] 1
 		- [ ] 2
 		- [ ] 3
 		- [ ] 4
