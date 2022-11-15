@@ -4,6 +4,7 @@
 		- [x] 2
 		- [x] 3
 		- [x] 4
+			- [ ] 3 manifold algos, only did 2
 			- [ ] Optional: If you have time, check outputs of 4, confusion matrices are wrong
 	- [x] Save all models
 - [x] Test notebook
