@@ -3,7 +3,8 @@
 		- [x] 1
 		- [x] 2
 		- [x] 3
-		- [ ] 4
+		- [x] 4
+			- [ ] Optional: If you have time, check outputs of 4, confusion matrices are wrong
 	- [ ] Save all models
 - [ ] Test notebook
 	- [ ] Load models
