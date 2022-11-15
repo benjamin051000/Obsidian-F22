@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🧠 ML/Gradient Descent.md"
+                "file": "🧠 ML/Perceptrons.md"
               }
             }
           }
@@ -155,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🧠 ML/Gradient Descent.md",
+                "file": "🧠 ML/Perceptrons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🧠 ML/Gradient Descent.md",
+                "file": "🧠 ML/Perceptrons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,11 +194,11 @@
     "direction": "horizontal",
     "width": 276.5
   },
-  "active": "409a24b1d00e4992",
+  "active": "7be1b6c15c072726",
   "lastOpenFiles": [
+    "🧠 ML/Gradient Descent.md",
     "🧠 ML/Perceptrons.md",
     "🧠 ML/📙 Notes/Logistic Regression.md",
-    "🧠 ML/Gradient Descent.md",
     "🧠 ML/Assignments/Project 2.md",
     "🧠 ML/📙 Notes/Curse of Dimensionality.md",
     "🧠 ML/📙 Notes/Principal Component Analysis.md",
