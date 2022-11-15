@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🧠 ML/Perceptrons.md",
+                "file": "🧠 ML/AI Winter.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🧠 ML/Perceptrons.md"
+                "file": "🧠 ML/AI Winter.md"
               }
             }
           }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🧠 ML/Perceptrons.md",
+                "file": "🧠 ML/AI Winter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🧠 ML/Perceptrons.md",
+                "file": "🧠 ML/AI Winter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -196,15 +196,15 @@
   },
   "active": "7be1b6c15c072726",
   "lastOpenFiles": [
-    "🧠 ML/Gradient Descent.md",
     "🧠 ML/Perceptrons.md",
+    "🧠 ML/AI Winter 2022-11-15 14.41.49.excalidraw.md",
+    "🧠 ML/AI Winter.md",
+    "🧠 ML/Gradient Descent.md",
     "🧠 ML/📙 Notes/Logistic Regression.md",
     "🧠 ML/Assignments/Project 2.md",
     "🧠 ML/📙 Notes/Curse of Dimensionality.md",
     "🧠 ML/📙 Notes/Principal Component Analysis.md",
     "🧠 ML/📙 Notes/Scaling Data.md",
-    "🧠 ML/Assignments/Project 1.md",
-    "conflict-files-obsidian-git.md",
-    "🧠 ML/📙 Notes/Homework 3.md"
+    "🧠 ML/Assignments/Project 1.md"
   ]
 }
