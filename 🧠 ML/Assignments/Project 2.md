@@ -1,0 +1,17 @@
+- [ ] Training notebook
+	- [ ] Finish questions
+		- [ ] 1
+		- [ ] 2
+		- [ ] 3
+		- [ ] 4
+	- [ ] Save all models
+- [ ] Test notebook
+	- [ ] Load models
+	- [ ] Run tests on them
+	- [ ] Just have them print confusion matrixes and stuff
+	- [ ] Nothing super fancy
+- [ ] Readme file
+	- [ ] Nothing fancy here
+	- [ ] Post links to large models if necessary
+- [ ] Paper
+	- [ ] Answer each question in test notebook
