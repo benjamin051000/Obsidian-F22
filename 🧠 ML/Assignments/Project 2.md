@@ -21,5 +21,5 @@
 - [x] Check in models!!!
 - [ ] Optional: If you have time, run some CV on a few models for improved results
 - [x] Upload q4 model to onedrive, add link into readme
-- [ ] Get PDFs of train and test
+- [x] Get PDFs of train and test
 
