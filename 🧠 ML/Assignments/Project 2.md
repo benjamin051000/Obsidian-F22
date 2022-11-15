@@ -9,7 +9,6 @@
 	- [ ] Load models
 	- [ ] Run tests on them
 	- [ ] Just have them print confusion matrixes and stuff
-	- [ ] Nothing super fancy
 - [ ] Readme file
 	- [ ] Nothing fancy here
 	- [ ] Post links to large models if necessary
