@@ -6,10 +6,10 @@
 		- [x] 4
 			- [ ] Optional: If you have time, check outputs of 4, confusion matrices are wrong
 	- [x] Save all models
-- [ ] Test notebook
-	- [ ] Load models
-	- [ ] Run tests on them
-	- [ ] Just have them print confusion matrixes and stuff
+- [x] Test notebook
+	- [x] Load models
+	- [x] Run tests on them
+	- [x] Just have them print confusion matrixes and stuff
 - [ ] Readme file
 	- [ ] Nothing fancy here
 	- [ ] Post links to large models if necessary
@@ -17,3 +17,4 @@
 	- [ ] Answer each question in test notebook
 	- [ ] 2
 		- [ ] PCA faster?
+- [ ] Check in models!!!
