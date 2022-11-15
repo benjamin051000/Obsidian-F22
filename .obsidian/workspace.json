@@ -108,9 +108,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "🧠 ML/Neural Networks.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -157,7 +155,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🧠 ML/Neural Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +171,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🧠 ML/Neural Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -198,8 +194,9 @@
     "direction": "horizontal",
     "width": 276.5
   },
-  "active": "7be1b6c15c072726",
+  "active": "029f72b44add5c1f",
   "lastOpenFiles": [
+    "🧠 ML/Neural Networks.md",
     "🧠 ML/Assignments/Project 2.md",
     "🧠 ML/📙 Notes/Curse of Dimensionality.md",
     "🧠 ML/📙 Notes/Principal Component Analysis.md",
@@ -208,7 +205,6 @@
     "conflict-files-obsidian-git.md",
     "🧠 ML/📙 Notes/Homework 3.md",
     "🧠 ML/📙 Notes/KNN.md",
-    "🧠 ML/📙 Notes/Cluster Validity.md",
-    "✅ Verification/📙 Notes/DPLL/DPLL Heuristics.md"
+    "🧠 ML/📙 Notes/Cluster Validity.md"
   ]
 }
