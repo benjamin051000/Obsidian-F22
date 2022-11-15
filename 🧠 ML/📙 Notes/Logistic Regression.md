@@ -1,1 +1,1 @@
-Uses Gradient Descent and a sigmoid function
+Uses [[Gradient Descent]] and a sigmoid function
