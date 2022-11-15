@@ -18,3 +18,4 @@
 	- [ ] 2
 		- [ ] PCA faster?
 - [ ] Check in models!!!
+- [ ] Optional: If you have time, run some CV on a few models for improved results
