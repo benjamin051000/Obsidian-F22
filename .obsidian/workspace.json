@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🧠 ML/📙 Notes/KNN.md",
+                "file": "Daily/Things I want in my House.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🧠 ML/📙 Notes/KNN.md"
+                "file": "Daily/Things I want in my House.md"
               }
             }
           }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🧠 ML/📙 Notes/KNN.md",
+                "file": "Daily/Things I want in my House.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🧠 ML/📙 Notes/KNN.md",
+                "file": "Daily/Things I want in my House.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -184,15 +184,15 @@
   },
   "active": "7be1b6c15c072726",
   "lastOpenFiles": [
-    "🧠 ML/Gradient Descent.md",
+    "Home.md",
     "🧠 ML/📙 Notes/KNN.md",
+    "🧠 ML/Gradient Descent.md",
     "🧠 ML/AI Winter.md",
     "🧠 ML/Perceptrons.md",
     "🧠 ML/AI Winter 2022-11-15 14.41.49.excalidraw.md",
     "🧠 ML/📙 Notes/Logistic Regression.md",
     "🧠 ML/Assignments/Project 2.md",
     "🧠 ML/📙 Notes/Curse of Dimensionality.md",
-    "🧠 ML/📙 Notes/Principal Component Analysis.md",
-    "🧠 ML/📙 Notes/Scaling Data.md"
+    "🧠 ML/📙 Notes/Principal Component Analysis.md"
   ]
 }

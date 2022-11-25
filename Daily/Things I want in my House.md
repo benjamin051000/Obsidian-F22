@@ -6,6 +6,8 @@
 - Movie theater room
 - ethernet in every room
 - Central vacuum system (if people say it's worth it)
+	- A robot vacuum may just be the move lol
+	- Or just a nice vacuum
 - Induction stovetop (maybe)
 - Server room
 - Powered Laundry chute (see Laundry Jet)
