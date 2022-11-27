@@ -53,4 +53,10 @@ CTL formula: $\phi$
 - Simple example of encoding:
 ![[Pasted image 20221127173805.png]]
 - $R \equiv t_1 \lor t_2 \lor ... \lor t_7$ 
-- 
+
+## Symbolic Manipulation of Transition Systems
+To solve the model checking problem symbolically, we need to define symbolic equivalents of:
+- Checking if a state is a member of a set of states
+- Finding predecessors of a state
+- Finding successors of a state
+- Iterating over transition relation
