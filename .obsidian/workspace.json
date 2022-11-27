@@ -11,8 +11,12 @@
             "id": "15f216b3cc0fb7ee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "✅ Verification/📙 Notes/Computation Tree Temporal Logic (CTL).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "✅ Verification/📙 Notes/Computation Tree Temporal Logic (CTL).md"
+              }
             }
           }
         ]
@@ -136,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "✅ Verification/📙 Notes/Computation Tree Temporal Logic (CTL).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "✅ Verification/📙 Notes/Computation Tree Temporal Logic (CTL).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -177,6 +185,8 @@
   },
   "active": "15f216b3cc0fb7ee",
   "lastOpenFiles": [
+    "✅ Verification/📙 Notes/Temporal/LTL.md",
+    "✅ Verification/📙 Notes/Computation Tree Temporal Logic (CTL).md",
     "🧠 ML/Assignments/Project 2.md",
     "🧠 ML/📙 Notes/Curse of Dimensionality.md",
     "🧠 ML/📙 Notes/Principal Component Analysis.md",
@@ -184,8 +194,6 @@
     "🧠 ML/Assignments/Project 1.md",
     "conflict-files-obsidian-git.md",
     "🧠 ML/📙 Notes/Homework 3.md",
-    "🧠 ML/📙 Notes/KNN.md",
-    "🧠 ML/📙 Notes/Cluster Validity.md",
-    "✅ Verification/📙 Notes/DPLL/DPLL Heuristics.md"
+    "🧠 ML/📙 Notes/KNN.md"
   ]
 }
