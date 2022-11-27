@@ -27,4 +27,8 @@ CTL formula: $\phi$
 
 # Semantics
 - A computation tree rooted at a state *s* satisfies *p* means $s \models p$
-- 
+
+# Dualities
+![[Pasted image 20221127171703.png]]
+
+# CTL [[Model Checking]]

@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d8a77148e091d959",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "✅ Verification/📙 Notes/Model Checking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✅ Verification/📙 Notes/Computation Tree Temporal Logic (CTL).md"
+                "file": "✅ Verification/📙 Notes/Model Checking.md"
               }
             }
           }
@@ -142,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✅ Verification/📙 Notes/Computation Tree Temporal Logic (CTL).md",
+                "file": "✅ Verification/📙 Notes/Model Checking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✅ Verification/📙 Notes/Computation Tree Temporal Logic (CTL).md",
+                "file": "✅ Verification/📙 Notes/Model Checking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,17 +196,17 @@
     "direction": "horizontal",
     "width": 276.5
   },
-  "active": "15f216b3cc0fb7ee",
+  "active": "d8a77148e091d959",
   "lastOpenFiles": [
-    "✅ Verification/📙 Notes/Temporal/LTL.md",
     "✅ Verification/📙 Notes/Computation Tree Temporal Logic (CTL).md",
+    "✅ Verification/📙 Notes/Model Checking.md",
+    "✅ Verification/📙 Notes/Temporal/Buchi Automata.md",
+    "✅ Verification/📙 Notes/Temporal/LTL.md",
     "🧠 ML/Assignments/Project 2.md",
     "🧠 ML/📙 Notes/Curse of Dimensionality.md",
     "🧠 ML/📙 Notes/Principal Component Analysis.md",
     "🧠 ML/📙 Notes/Scaling Data.md",
     "🧠 ML/Assignments/Project 1.md",
-    "conflict-files-obsidian-git.md",
-    "🧠 ML/📙 Notes/Homework 3.md",
-    "🧠 ML/📙 Notes/KNN.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
