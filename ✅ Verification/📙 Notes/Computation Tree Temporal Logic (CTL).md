@@ -50,4 +50,7 @@ CTL formula: $\phi$
 - Potentially achieves a more compact representation
 	- All states including initial are encoded using logical formula
 	- Compact representations for logical formula,e.g., BDDs, can further improve symbolic approaches
+- Simple example of encoding:
+![[Pasted image 20221127173805.png]]
+- $R \equiv t_1 \lor t_2 \lor ... \lor t_7$ 
 - 
