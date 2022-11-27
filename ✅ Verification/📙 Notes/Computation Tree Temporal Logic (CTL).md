@@ -52,7 +52,7 @@ CTL formula: $\phi$
 	- Compact representations for logical formula,e.g., BDDs, can further improve symbolic approaches
 - Simple example of encoding:
 ![[Pasted image 20221127173805.png]]
-- $R \equiv t_1 \lor t_2 \lor ... \lor t_7$ 
+- Transition relation: $R \equiv t_1 \lor t_2 \lor ... \lor t_7$ 
 
 ## Symbolic Manipulation of Transition Systems
 To solve the model checking problem symbolically, we need to define symbolic equivalents of:
@@ -60,3 +60,20 @@ To solve the model checking problem symbolically, we need to define symbolic equ
 - Finding predecessors of a state
 - Finding successors of a state
 - Iterating over transition relation
+
+### Checking membership
+- Same logic is used to represent single state as well as set of states
+- Logical implication operator $\rightarrow$ is used
+
+- In simple example above, is $s_1$ an initial state?
+	- Can be answered by checking if $s_1 \rightarrow s_0$.
+
+### Finding predecessors
+- Given a transition relation $R$ and a state $s$, $Pre[R](s)$ finds predecessors of $s$ in $R$.
+	- Let $V(V')$ denote *current (next)* state variables used to define $R$.
+	- $Pre[R](s) \equiv \exists V'.R \land s'$
+
+### Finding successors
+- $Post[R](s) \equiv (\exists V.R \land s)[V/V']$
+- Where $\phi[X/Y]$ replaces all $Y$s with $X$s in $\phi$.
+- 
