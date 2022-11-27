@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cd0185cac9ade86f",
+        "id": "8f85179e305b49cd",
         "type": "tabs",
         "children": [
           {
-            "id": "7be1b6c15c072726",
+            "id": "15f216b3cc0fb7ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/Things I want in my House.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,9 +89,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily/Things I want in my House.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -142,7 +136,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/Things I want in my House.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +152,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/Things I want in my House.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -176,23 +168,24 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 276.5
   },
-  "active": "7be1b6c15c072726",
+  "active": "15f216b3cc0fb7ee",
   "lastOpenFiles": [
-    "Home.md",
-    "🧠 ML/📙 Notes/KNN.md",
-    "🧠 ML/Gradient Descent.md",
-    "🧠 ML/AI Winter.md",
-    "🧠 ML/Perceptrons.md",
-    "🧠 ML/AI Winter 2022-11-15 14.41.49.excalidraw.md",
-    "🧠 ML/📙 Notes/Logistic Regression.md",
     "🧠 ML/Assignments/Project 2.md",
     "🧠 ML/📙 Notes/Curse of Dimensionality.md",
-    "🧠 ML/📙 Notes/Principal Component Analysis.md"
+    "🧠 ML/📙 Notes/Principal Component Analysis.md",
+    "🧠 ML/📙 Notes/Scaling Data.md",
+    "🧠 ML/Assignments/Project 1.md",
+    "conflict-files-obsidian-git.md",
+    "🧠 ML/📙 Notes/Homework 3.md",
+    "🧠 ML/📙 Notes/KNN.md",
+    "🧠 ML/📙 Notes/Cluster Validity.md",
+    "✅ Verification/📙 Notes/DPLL/DPLL Heuristics.md"
   ]
 }
