@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✅ Verification/📙 Notes/Model Checking.md"
+                "file": "✅ Verification/📙 Notes/Computation Tree Temporal Logic (CTL).md"
               }
             }
           }
@@ -155,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✅ Verification/📙 Notes/Model Checking.md",
+                "file": "✅ Verification/📙 Notes/Computation Tree Temporal Logic (CTL).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✅ Verification/📙 Notes/Model Checking.md",
+                "file": "✅ Verification/📙 Notes/Computation Tree Temporal Logic (CTL).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -196,10 +195,10 @@
     "direction": "horizontal",
     "width": 276.5
   },
-  "active": "d8a77148e091d959",
+  "active": "15f216b3cc0fb7ee",
   "lastOpenFiles": [
-    "✅ Verification/📙 Notes/Computation Tree Temporal Logic (CTL).md",
     "✅ Verification/📙 Notes/Model Checking.md",
+    "✅ Verification/📙 Notes/Computation Tree Temporal Logic (CTL).md",
     "✅ Verification/📙 Notes/Temporal/Buchi Automata.md",
     "✅ Verification/📙 Notes/Temporal/LTL.md",
     "🧠 ML/Assignments/Project 2.md",

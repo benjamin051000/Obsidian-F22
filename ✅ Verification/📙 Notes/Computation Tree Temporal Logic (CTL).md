@@ -32,3 +32,22 @@ CTL formula: $\phi$
 ![[Pasted image 20221127171703.png]]
 
 # CTL [[Model Checking]]
+- Given a transition system $T=(S,S_0,R,L)$ and a CTL formula $\phi$, decide whether all initial states satisfy $\phi$.
+	- i.e., $\forall s_0 \in S_0.s_0 \models \phi$.
+- To Check whether a state satisfies a CTL formula, we need to check whether the computation tree rooted at that state satisfies the CTL formula.
+
+## Explicit State CTL Model Checking
+- May employ algorithm for finding strongly connected components (SCCs) in a graph, where
+	- nodes = states of transition system
+	- edges = transitions
+- Tarjan'a algorithm for finnding SCCs runs in O(V+E)
+	- V = number of nodes
+	- E = number of edges
+
+## Symbolic CTL Model Checking
+- Explicit approach represents each individual state of $T$ separately  
+- Symbolic approach encodes $T$ using logical formula
+- Potentially achieves a more compact representation
+	- All states including initial are encoded using logical formula
+	- Compact representations for logical formula,e.g., BDDs, can further improve symbolic approaches
+- 
