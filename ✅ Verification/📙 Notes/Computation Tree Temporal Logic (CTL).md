@@ -34,7 +34,15 @@ CTL formula: $\phi$
 - Primary difference with LTL is the addition of quantifiers
 
 # Semantics
+![[Pasted image 20221127173805.png]]
+
 - A computation tree rooted at a state *s* satisfies *p* means $s \models p$
+- In the example above, $a \lor b$ is satisfied, but $c \land d$ is not, because the computation tree rooted at $s_0$ represents that state.
+
+What about $AXp$ and $EXp$?
+- $AXp$: All computation trees rooted at the successors of $s$ satisfy $p$.
+- $EXp$: Some comp trees rooted at a successor of $s$ satisfy $p$.
+
 
 # Dualities
 ![[Pasted image 20221127171703.png]]
