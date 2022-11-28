@@ -9,6 +9,9 @@ powerpoint: ctl.pdf
 	- Ordering of events
 	- Properties of events and responses
 
+CTL is an alternative to [[LTL]]
+- Lots of similarities
+
 # Examples
 - The services of a secure website cannot be used until a user logs in successfully.
 - A user process preempted by another process eventually gets rescheduled by an OS.
