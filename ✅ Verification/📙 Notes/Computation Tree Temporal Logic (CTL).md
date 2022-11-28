@@ -1,3 +1,6 @@
+---
+powerpoint: ctl.pdf
+---
 - Most real-world sw/hw systems are reactive rather than transformative
 	- Transformative: Receives input, generates output
 	- Reactive: Responds to events from environment, usually never terminates
@@ -76,4 +79,14 @@ To solve the model checking problem symbolically, we need to define symbolic equ
 ### Finding successors
 - $Post[R](s) \equiv (\exists V.R \land s)[V/V']$
 - Where $\phi[X/Y]$ replaces all $Y$s with $X$s in $\phi$.
-- 
+
+### Iterating over T
+- With exception of *X*, all temporal operators require iteration to find set of states that satisfy the formula
+- Use fixpoints
+
+
+## Using Fixpoints in Symbolic model checking
+- EX uses Pre operator
+- EU uses least fixpoint algorithm
+- EG uses greatest fixpoint algorithm
+
