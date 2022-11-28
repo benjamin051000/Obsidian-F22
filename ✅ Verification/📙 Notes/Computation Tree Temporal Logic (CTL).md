@@ -1,6 +1,7 @@
 ---
 powerpoint: ctl.pdf
 ---
+![[Pasted image 20221127214409.png]]
 - Most real-world sw/hw systems are reactive rather than transformative
 	- Transformative: Receives input, generates output
 	- Reactive: Responds to events from environment, usually never terminates

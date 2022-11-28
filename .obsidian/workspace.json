@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✅ Verification/📙 Notes/Abstraction and Approximation.md",
-                "mode": "source",
+                "file": "✅ Verification/📙 Notes/Computation Tree Temporal Logic (CTL).md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✅ Verification/📙 Notes/Abstraction and Approximation.md"
+                "file": "✅ Verification/📙 Notes/Computation Tree Temporal Logic (CTL).md"
               }
             }
           }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✅ Verification/📙 Notes/Abstraction and Approximation.md",
+                "file": "✅ Verification/📙 Notes/Computation Tree Temporal Logic (CTL).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✅ Verification/📙 Notes/Abstraction and Approximation.md",
+                "file": "✅ Verification/📙 Notes/Computation Tree Temporal Logic (CTL).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -197,8 +197,8 @@
   },
   "active": "15f216b3cc0fb7ee",
   "lastOpenFiles": [
-    "✅ Verification/📙 Notes/Pasted image 20221127173805.png",
     "✅ Verification/📙 Notes/Abstraction and Approximation.md",
+    "✅ Verification/📙 Notes/Pasted image 20221127173805.png",
     "✅ Verification/📙 Notes/Pasted image 20221127171344.png",
     "✅ Verification/📙 Notes/Pasted image 20221127171703.png",
     "🧠 ML/📙 Notes/Pasted image 20221013142752.png",
