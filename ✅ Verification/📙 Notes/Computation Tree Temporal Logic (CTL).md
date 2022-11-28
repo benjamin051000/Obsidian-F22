@@ -31,6 +31,7 @@ CTL formula: $\phi$
 	- G: always
 	- F: eventually
 	- U: until
+- Primary difference with LTL is the addition of quantifiers
 
 # Semantics
 - A computation tree rooted at a state *s* satisfies *p* means $s \models p$
