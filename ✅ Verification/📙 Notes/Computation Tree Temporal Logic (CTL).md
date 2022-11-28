@@ -1,4 +1,5 @@
 ---
+lecture-date: 10/26, 10/28, 10/31, 11/2
 powerpoint: ctl.pdf
 ---
 ![[Pasted image 20221127214409.png]]
