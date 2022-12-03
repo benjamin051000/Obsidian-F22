@@ -6,3 +6,8 @@
 
 - Greatest Lower Bound: Intersection
 - Least upper bound: Union
+
+# Fixpoint
+Z is a fixpoint to a function F iff $F(Z) = Z$.
+
+- May not do this for every argument, so it's not exactly like an identity function
