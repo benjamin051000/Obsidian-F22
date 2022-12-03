@@ -127,7 +127,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f49a53d18eb449c3",
@@ -182,15 +183,15 @@
   },
   "active": "7be1b6c15c072726",
   "lastOpenFiles": [
-    "✅ Verification/Andersen-BDDs.pdf",
+    "conflict-files-obsidian-git.md",
+    "✅ Verification/📙 Notes/Fixpoints.md",
     "✅ Verification/syllabusEEL47015702.pdf",
+    "✅ Verification/Andersen-BDDs.pdf",
     "✅ Verification/Home.md",
     "Daily/Things I want in my House.md",
     "Home.md",
     "🧠 ML/📙 Notes/KNN.md",
     "🧠 ML/Gradient Descent.md",
-    "🧠 ML/AI Winter.md",
-    "🧠 ML/Perceptrons.md",
-    "🧠 ML/AI Winter 2022-11-15 14.41.49.excalidraw.md"
+    "🧠 ML/AI Winter.md"
   ]
 }

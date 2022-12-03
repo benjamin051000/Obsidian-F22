@@ -1,0 +1,2 @@
+- Greatest Lower Bound: Intersection
+- Least upper bound: Union?
