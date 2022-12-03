@@ -11,9 +11,11 @@
             "id": "7be1b6c15c072726",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "✅ Verification/syllabusEEL47015702.pdf"
+                "file": "✅ Verification/📙 Notes/Fixpoints.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✅ Verification/syllabusEEL47015702.pdf"
+                "file": "✅ Verification/📙 Notes/Fixpoints.md"
               }
             }
           }
@@ -127,8 +129,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f49a53d18eb449c3",
@@ -141,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✅ Verification/syllabusEEL47015702.pdf",
+                "file": "✅ Verification/📙 Notes/Fixpoints.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✅ Verification/syllabusEEL47015702.pdf",
+                "file": "✅ Verification/📙 Notes/Fixpoints.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,9 +184,9 @@
   },
   "active": "7be1b6c15c072726",
   "lastOpenFiles": [
+    "✅ Verification/syllabusEEL47015702.pdf",
     "conflict-files-obsidian-git.md",
     "✅ Verification/📙 Notes/Fixpoints.md",
-    "✅ Verification/syllabusEEL47015702.pdf",
     "✅ Verification/Andersen-BDDs.pdf",
     "✅ Verification/Home.md",
     "Daily/Things I want in my House.md",
