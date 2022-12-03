@@ -5,4 +5,4 @@
 
 
 - Greatest Lower Bound: Intersection
-- Least upper bound: Union?
+- Least upper bound: Union
