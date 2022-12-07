@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cd0185cac9ade86f",
+        "id": "b6ee6784291252b7",
         "type": "tabs",
         "children": [
           {
-            "id": "7be1b6c15c072726",
+            "id": "36ef56dffcbf7e0e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "✅ Verification/Andersen-BDDs.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -29,7 +27,7 @@
       {
         "id": "d84da05b44fb8ac8",
         "type": "tabs",
-        "dimension": 26.3671875,
+        "dimension": 25.02818489289741,
         "children": [
           {
             "id": "029f72b44add5c1f",
@@ -44,7 +42,7 @@
       {
         "id": "49d824844e2d51c7",
         "type": "tabs",
-        "dimension": 52.5390625,
+        "dimension": 52.423900789177004,
         "children": [
           {
             "id": "0f04f62efc5d0b6d",
@@ -84,16 +82,14 @@
       {
         "id": "af1920093fe068f5",
         "type": "tabs",
-        "dimension": 21.09375,
+        "dimension": 22.547914317925592,
         "children": [
           {
             "id": "495b83c1b4ae8263",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "✅ Verification/Andersen-BDDs.pdf"
-              }
+              "state": {}
             }
           }
         ]
@@ -140,7 +136,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✅ Verification/Andersen-BDDs.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +152,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✅ Verification/Andersen-BDDs.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -180,17 +174,17 @@
     "direction": "horizontal",
     "width": 276.5
   },
-  "active": "7be1b6c15c072726",
+  "active": "36ef56dffcbf7e0e",
   "lastOpenFiles": [
-    "✅ Verification/📙 Notes/BDD/BDD, ROBDD.md",
-    "✅ Verification/📙 Notes/shannon expansion bdd.md",
-    "✅ Verification/📙 Notes/Logic Operators on ROBDDs.md",
-    "✅ Verification/📙 Notes/Fixpoints.md",
-    "✅ Verification/syllabusEEL47015702.pdf",
-    "conflict-files-obsidian-git.md",
-    "✅ Verification/Andersen-BDDs.pdf",
-    "✅ Verification/Home.md",
-    "Daily/Things I want in my House.md",
-    "Home.md"
+    "🧠 ML/EEL5934_Applied Machine Learning Systems_Fall 2022.pdf",
+    "🧠 ML/About.md",
+    "🧠 ML/Midterm.md",
+    "🧠 ML/Midterm To Do.md",
+    "🧠 ML/ML Formula Sheet.md",
+    "🧠 ML/📙 Notes/Perceptrons.md",
+    "🧠 ML/📙 Notes/Gradient Descent.md",
+    "🧠 ML/Images/AI Winter 2022-11-15 14.41.49.excalidraw.md",
+    "🧠 ML/📙 Notes/AI Winter.md",
+    "🧠 ML/📙 Notes/Untitled 1.md"
   ]
 }
