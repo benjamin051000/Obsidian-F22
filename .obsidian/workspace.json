@@ -11,8 +11,12 @@
             "id": "36ef56dffcbf7e0e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🧠 ML/Assignments/Project 3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🧠 ML/Assignments/Project 3.md"
+              }
             }
           }
         ]
@@ -136,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🧠 ML/Assignments/Project 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🧠 ML/Assignments/Project 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
