@@ -11,23 +11,9 @@
             "id": "15f216b3cc0fb7ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "✅ Verification/📙 Notes/Computation Tree Temporal Logic (CTL).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8a77148e091d959",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "✅ Verification/📙 Notes/Model Checking.md",
-                "mode": "source",
-                "source": false
+                "file": "✅ Verification/syllabusEEL47015702.pdf"
               }
             }
           }
@@ -106,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✅ Verification/📙 Notes/Computation Tree Temporal Logic (CTL).md"
+                "file": "✅ Verification/syllabusEEL47015702.pdf"
               }
             }
           }
@@ -154,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✅ Verification/📙 Notes/Computation Tree Temporal Logic (CTL).md",
+                "file": "✅ Verification/syllabusEEL47015702.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✅ Verification/📙 Notes/Computation Tree Temporal Logic (CTL).md",
+                "file": "✅ Verification/syllabusEEL47015702.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -198,15 +184,15 @@
   },
   "active": "15f216b3cc0fb7ee",
   "lastOpenFiles": [
-    "Therapy.md",
+    "✅ Verification/Home.md",
     "✅ Verification/📙 Notes/Computation Tree Temporal Logic (CTL).md",
+    "✅ Verification/📙 Notes/Model Checking.md",
+    "Therapy.md",
     "✅ Verification/📙 Notes/Abstraction and Approximation.md",
     "✅ Verification/📙 Notes/Temporal/LTL.md",
-    "✅ Verification/📙 Notes/Model Checking.md",
     "✅ Verification/📙 Notes/Pasted image 20221127173805.png",
     "✅ Verification/📙 Notes/Pasted image 20221127171344.png",
     "✅ Verification/📙 Notes/Pasted image 20221127171703.png",
-    "🧠 ML/📙 Notes/Pasted image 20221013142752.png",
-    "🧠 ML/📙 Notes/Pasted image 20221013142717.png"
+    "🧠 ML/📙 Notes/Pasted image 20221013142752.png"
   ]
 }
