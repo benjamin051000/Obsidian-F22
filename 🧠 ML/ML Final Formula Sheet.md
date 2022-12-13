@@ -15,3 +15,5 @@ Kernel machine
 ### Clustering
 - Silhouette index: $s=\frac{1}{N}\sum_{i=1}^{N}\frac{b_i-a_i}{max(a_i,b_i)}$
 - Rand index: $r=\frac{a+b}{a+b+c+d}$
+### Perceptron
+- Perceptron criterion: $E_p(\mathbf{w},b)=-\sum_{n\in M}(\mathbf{w}^T\mathbf{x}_n+b)t_n$
