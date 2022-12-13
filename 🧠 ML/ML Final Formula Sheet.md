@@ -60,6 +60,6 @@ Kernel machine
 
 - CNN total parameters: $\sum$ parameters per layer
 - CNN # Parameters per layer: (Kernel size * # input feature maps + 1 (bias) ) * # output feature maps
-
-Memory usage:
-- pixel width / stride * pixel height / stride * # feature maps * `sizeof(float)`
+- Memory usage per layer: (pixel width * pixel height / stride^2 * # feature maps + CNN total params) * `sizeof(float)` 
+- Entire mem usage (*optimized*): $\sum$ Largest 2 layers
+- Mini-batches: Entire mem usage (*unoptimized*) * # batches
