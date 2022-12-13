@@ -1,0 +1,9 @@
+- [ ] Uninterpreted Functions 
+	- [ ] (11/16 lecture)
+	- [ ] Assignment 4 Q7
+	- I think solutions are on 12/4 lecture
+- [ ] CTL
+	- [ ] Explicit model checking
+	- [ ] Approximation, over/under
+	- [ ] Lattices and fixpoints
+- [ ] 

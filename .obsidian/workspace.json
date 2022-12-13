@@ -45,11 +45,10 @@
             "id": "4e472cb0c95fc135",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
+                "file": "✅ Verification/📙 Notes/Study TODO.md",
+                "staged": false
               }
             }
           }
@@ -128,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -178,7 +175,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +191,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -219,11 +214,11 @@
     "direction": "horizontal",
     "width": 276.5
   },
-  "active": "e454e211e1d781cf",
+  "active": "4e472cb0c95fc135",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "✅ Verification/📙 Notes/Study TODO.md",
     "✅ Verification/📙 Notes/Fixpoints.md",
-    "conflict-files-obsidian-git.md",
     "✅ Verification/syllabusEEL47015702.pdf",
     "✅ Verification/Home.md",
     "✅ Verification/📙 Notes/Computation Tree Temporal Logic (CTL).md",
