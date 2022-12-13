@@ -49,14 +49,12 @@ Kernel machine
 | Softplus | $(1+e^x)$ | $\frac{1}{1+e^{-x}}$ |
 | ELU | $\begin{cases}\alpha(e^x-1), & x \leq 0 \\ x, & x>0 \end{cases}$ |  $\begin{cases}\alpha e^x, & x < 0 \\ 1, & x>0 \\ 1, & x>0 \text{ and } \alpha=1  \end{cases}$ |
 | SELU | $\lambda\begin{cases}\alpha(e^x-1), & x < 0 \\ x, & x\geq 0 \end{cases}$ | $\lambda\begin{cases}\alpha e^x, & x < 0 \\ 1, & x\geq 0 \end{cases}$ |
-
 - Updating weights
 	- Output: $v_j=w^Tx_j$
 	- Gradient: $\delta_j=\phi'(v_j)\sum_t\delta_lw_{lj}$
 	- Weight update eqns:
 		- $\Delta w_{ij}=\eta\delta_jx_i$ 
 		- $w_{ij}^{(t+1)}\leftarrow w_{ij}^t+\Delta w_{ij}^t$	
-
 
 - CNN total parameters: $\sum$ parameters per layer
 - CNN # Parameters per layer: (Kernel size * # input feature maps + 1 (bias) ) * # output feature maps
