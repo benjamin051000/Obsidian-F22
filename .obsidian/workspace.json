@@ -40,20 +40,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4e472cb0c95fc135",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "✅ Verification/📙 Notes/Study TODO.md",
-                "staged": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "✅ Verification/📙 Notes/Study TODO.md"
+              }
             }
           }
         ]
@@ -161,8 +152,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f49a53d18eb449c3",
@@ -175,6 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "✅ Verification/📙 Notes/Study TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,6 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "✅ Verification/📙 Notes/Study TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -212,9 +204,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
-  "active": "4e472cb0c95fc135",
+  "active": "3f71c50c4e5fc42a",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "✅ Verification/📙 Notes/Study TODO.md",
