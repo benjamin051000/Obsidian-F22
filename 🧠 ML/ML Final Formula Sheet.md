@@ -19,26 +19,7 @@ Kernel machine
 - Perceptron criterion: $E_p(\mathbf{w},b)=-\sum_{n\in M}(\mathbf{w}^T\mathbf{x}_n+b)t_n$
 - Activation Functions:
 	1. **Heaviside Step:** $\phi(x) = \begin{cases}1, & x >0 \\ 0, & x\leq 0\end{cases}$
-	2. **Linear:** $\phi(x) = x$
-	
-	3. **Sigmoid:** $\phi(x) = \frac{1}{1+e^{-x}}$
-	
-	4. **Hyperbolic Tangent (tanh):** $\phi(x) = \frac{e^x - e^{-x}}{e^x + e^{-x}}$
-	
-	5. **Rectified Linear Unit (ReLU):** $\phi(x) = \begin{cases} x, & x> 0 \\ 0, & x \leq 0\end{cases}$
-	
-	6. **Leaky ReLu:** $\phi(x) = \begin{cases} x, & x> 0 \\ 0.01x, & x \leq 0\end{cases}$
-	
-	7. **Exponential Linear Unit (ELU):** $\phi(x) = \begin{cases} x, & x> 0 \\ \alpha (e^x -1), & x \leq 0\end{cases}$
-	where $\alpha=1.67326$.
-	
-	8. **Scaled Exponential Linear Unit (SELU):** $\phi(x) = \lambda\begin{cases} x, & x> 0 \\ \alpha (e^x -1), & x \leq 0\end{cases}$
-	where $\alpha=1.67326$ and $\lambda=1.0507$.
-	
-	9. **Softplus:** $\phi(x) = \ln(1+e^x)$
-	
 - Objective Function: $J(w)=\frac{1}{2}\sum_{k=1}^N(t_k-w^Tx_k)^2$
-- 
 | Activation function | $\phi(x)$ | $\phi'(x) = \frac{d\phi(x)}{dx}$ |
 | -- | -- | -- |
 | Linear | $x$ | $1$ |
@@ -46,9 +27,12 @@ Kernel machine
 | Tanh | $\frac{e^{x}-e^{-x}}{e^x + e^{-x}}$ | $1-\phi(x)^2$ |
 | ReLU | $\begin{cases}0, & x \leq 0 \\ x, & x>0 \end{cases}$ | $\begin{cases}0, & x < 0 \\ 1, & x>0 \\ \text{undefined}, & x=0\end{cases}$ |
 | Leaky ReLU | $\begin{cases}0.01 x, & x \leq 0 \\ x, & x>0 \end{cases}$ | $\begin{cases}0.01, & x < 0 \\ 1, & x>0 \\ \text{undefined}, & x=0\end{cases}$ |
-| Softplus | $(1+e^x)$ | $\frac{1}{1+e^{-x}}$ |
+| Softplus | $ln(1+e^x)$ | $\frac{1}{1+e^{-x}}$ |
 | ELU | $\begin{cases}\alpha(e^x-1), & x \leq 0 \\ x, & x>0 \end{cases}$ |  $\begin{cases}\alpha e^x, & x < 0 \\ 1, & x>0 \\ 1, & x>0 \text{ and } \alpha=1  \end{cases}$ |
 | SELU | $\lambda\begin{cases}\alpha(e^x-1), & x < 0 \\ x, & x\geq 0 \end{cases}$ | $\lambda\begin{cases}\alpha e^x, & x < 0 \\ 1, & x\geq 0 \end{cases}$ |
+- ELU: $\alpha=1.67326$.
+- SELU: $\alpha=1.67326$ and $\lambda=1.0507$.
+
 - Updating weights
 	- Output: $v_j=w^Tx_j$
 	- Gradient: $\delta_j=\phi'(v_j)\sum_t\delta_lw_{lj}$
