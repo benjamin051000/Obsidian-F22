@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6a37a35f95063a59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🧠 ML/ML Final Formula Sheet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🧠 ML/ML Midterm Formula Sheet.md"
+                "file": "🧠 ML/ML Final Formula Sheet.md"
               }
             }
           }
@@ -142,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🧠 ML/ML Midterm Formula Sheet.md",
+                "file": "🧠 ML/ML Final Formula Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🧠 ML/ML Midterm Formula Sheet.md",
+                "file": "🧠 ML/ML Final Formula Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -182,14 +195,14 @@
     "direction": "horizontal",
     "width": 276.5
   },
-  "active": "36ef56dffcbf7e0e",
+  "active": "6a37a35f95063a59",
   "lastOpenFiles": [
+    "🧠 ML/ML Midterm Formula Sheet.md",
     "🧠 ML/Assignments/Project 3.md",
     "🧠 ML/EEL5934_Applied Machine Learning Systems_Fall 2022.pdf",
     "🧠 ML/About.md",
     "🧠 ML/Midterm.md",
     "🧠 ML/Midterm To Do.md",
-    "🧠 ML/ML Midterm Formula Sheet.md",
     "🧠 ML/📙 Notes/Perceptrons.md",
     "🧠 ML/📙 Notes/Gradient Descent.md",
     "🧠 ML/Images/AI Winter 2022-11-15 14.41.49.excalidraw.md",
