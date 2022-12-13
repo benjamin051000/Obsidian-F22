@@ -13,3 +13,5 @@ Kernel machine
 - $\mathbf{Y}=\mathbf{A}\mathbf{X}$
 - Recovery:  $\mathbf{\hat{X}}=\mathbf{A^\dagger}\mathbf{Y}$
 ### Clustering
+- Silhouette index: $s=\frac{1}{N}\sum_{i=1}^{N}\frac{b_i-a_i}{max(a_i,b_i)}$
+- Rand index: $r=\frac{a+b}{a+b+c+d}$
