@@ -1,0 +1,23 @@
+## TODO
+- [ ] 1. Flower training
+	- [ ] Try one or two more hyperparameters
+- [ ] 2. Grad question
+	- [ ] Figure out what the question is asking LOL
+	- [ ] Address case when no car is present in image
+	- [ ] Margin of error?
+	- [ ] overlapping region of interest
+	- [ ] Validate metric via MakeSenseAI if you can
+- [ ] 3. Car training
+	- [ ] Try several hyperparameters
+	- [ ] Attempt to use same approach as flower but with regression
+- [ ] Flower test
+	- [ ] report quantitative metrics
+	- [ ] include visualizations
+- [ ] Car test
+	- [ ] qualitative measures of bounding boxes
+	- [ ] quantitative measure (for q2)
+	- [ ] include visualizations
+- [ ] Paper
+	- [ ] 4 pages
+- [ ] Upload saved models either to git or onedrive
+
