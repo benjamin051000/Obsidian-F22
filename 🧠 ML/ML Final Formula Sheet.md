@@ -20,18 +20,17 @@ Kernel machine
 - Activation Functions:
 	1. **Heaviside Step:** $\phi(x) = \begin{cases}1,  & x >0 \\ 0,  & x\leq 0\end{cases}$
 - Objective Function: $J(w)=\frac{1}{2}\sum_{k=1}^N(t_k-w^Tx_k)^2$
-Activation functions:
-- Linear ,  $x$ ,  $1$, 
-- Sigmoid/Logistic ,  $\frac{1}{1+e^{-x}}$ ,  $\phi(x)(1-\phi(x))$ 
-- Tanh ,  $\frac{e^{x}-e^{-x}}{e^x + e^{-x}}$ ,  $1-\phi(x)^2$ 
-- ReLU ,  $\begin{cases}0,  & x \leq 0 \\ x,  & x>0 \end{cases}$ ,  $\begin{cases}0,  & x < 0 \\ 1,  & x>0 \\ \text{undefined},  & x=0\end{cases}$ 
-- Leaky ReLU ,  $\begin{cases}0.01 x,  & x \leq 0 \\ x,  & x>0 \end{cases}$ ,  $\begin{cases}0.01,  & x < 0 \\ 1,  & x>0 \\ \text{undefined},  & x=0\end{cases}$ 
-- Softplus ,  $ln(1+e^x)$ ,  $\frac{1}{1+e^{-x}}$ 
-- ELU ,  $\begin{cases}\alpha(e^x-1),  & x \leq 0 \\ x,  & x>0 \end{cases}$ ,   $\begin{cases}\alpha e^x,  & x < 0 \\ 1,  & x>0 \\ 1,  & x>0 \text{ and } \alpha=1  \end{cases}$ 
-	- $\alpha=1.67326$.
-- SELU ,  $\lambda\begin{cases}\alpha(e^x-1),  & x < 0 \\ x,  & x\geq 0 \end{cases}$ ,  $\lambda\begin{cases}\alpha e^x,  & x < 0 \\ 1,  & x\geq 0 \end{cases}$ 
-	- $\alpha=1.67326$ and $\lambda=1.0507$.
-
+- **Activation functions:**
+	- Linear ,  $x$ ,  $1$, 
+	- Sigmoid/Logistic ,  $\frac{1}{1+e^{-x}}$ ,  $\phi(x)(1-\phi(x))$ 
+	- Tanh ,  $\frac{e^{x}-e^{-x}}{e^x + e^{-x}}$ ,  $1-\phi(x)^2$ 
+	- ReLU ,  $\begin{cases}0,  & x \leq 0 \\ x,  & x>0 \end{cases}$ ,  $\begin{cases}0,  & x < 0 \\ 1,  & x>0 \\ \text{undefined},  & x=0\end{cases}$ 
+	- Leaky ReLU ,  $\begin{cases}0.01 x,  & x \leq 0 \\ x,  & x>0 \end{cases}$ ,  $\begin{cases}0.01,  & x < 0 \\ 1,  & x>0 \\ \text{undefined},  & x=0\end{cases}$ 
+	- Softplus ,  $ln(1+e^x)$ ,  $\frac{1}{1+e^{-x}}$ 
+	- ELU ,  $\begin{cases}\alpha(e^x-1),  & x \leq 0 \\ x,  & x>0 \end{cases}$ ,   $\begin{cases}\alpha e^x,  & x < 0 \\ 1,  & x>0 \\ 1,  & x>0 \text{ and } \alpha=1  \end{cases}$ 
+		- $\alpha=1.67326$.
+	- SELU ,  $\lambda\begin{cases}\alpha(e^x-1),  & x < 0 \\ x,  & x\geq 0 \end{cases}$ ,  $\lambda\begin{cases}\alpha e^x,  & x < 0 \\ 1,  & x\geq 0 \end{cases}$ 
+		- $\alpha=1.67326$ and $\lambda=1.0507$.
 - Updating weights
 	- Output: $v_j=w^Tx_j$
 	- Gradient: $\delta_j=\phi'(v_j)\sum_t\delta_lw_{lj}$
