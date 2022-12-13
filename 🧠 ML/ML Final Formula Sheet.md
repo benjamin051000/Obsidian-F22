@@ -6,3 +6,4 @@ Kernel machine
 - Typical values for gamma: $\gamma=\frac{1}{2\sigma^2}$
 - Support Vector Machine
 - Design a hyperplane: $y(x) = w^T\phi(x) + b = 0$
+### 
