@@ -56,3 +56,10 @@ Kernel machine
 	- Weight update eqns:
 		- $\Delta w_{ij}=\eta\delta_jx_i$ 
 		- $w_{ij}^{(t+1)}\leftarrow w_{ij}^t+\Delta w_{ij}^t$	
+
+
+- CNN total parameters: $\sum$ parameters per layer
+- CNN # Parameters per layer: (Kernel size * # input feature maps + 1 (bias) ) * # output feature maps
+
+Memory usage:
+- pixel width / stride * pixel height / stride * # feature maps * `sizeof(float)`
