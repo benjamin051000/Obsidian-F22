@@ -4,45 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8f85179e305b49cd",
+        "id": "b6ee6784291252b7",
         "type": "tabs",
         "children": [
           {
-            "id": "15f216b3cc0fb7ee",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "✅ Verification/syllabusEEL47015702.pdf"
-              }
-            }
-          },
-          {
-            "id": "48e7d2039e7c05ed",
+            "id": "36ef56dffcbf7e0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✅ Verification/📙 Notes/Fixpoints.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f71c50c4e5fc42a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "✅ Verification/📙 Notes/Study TODO.md",
+                "file": "🧠 ML/ML Midterm Formula Sheet.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -54,7 +31,7 @@
       {
         "id": "d84da05b44fb8ac8",
         "type": "tabs",
-        "dimension": 26.3671875,
+        "dimension": 25.02818489289741,
         "children": [
           {
             "id": "029f72b44add5c1f",
@@ -69,7 +46,7 @@
       {
         "id": "49d824844e2d51c7",
         "type": "tabs",
-        "dimension": 52.5390625,
+        "dimension": 52.423900789177004,
         "children": [
           {
             "id": "0f04f62efc5d0b6d",
@@ -109,7 +86,7 @@
       {
         "id": "af1920093fe068f5",
         "type": "tabs",
-        "dimension": 21.09375,
+        "dimension": 22.547914317925592,
         "children": [
           {
             "id": "495b83c1b4ae8263",
@@ -117,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✅ Verification/📙 Notes/Study TODO.md"
+                "file": "🧠 ML/ML Midterm Formula Sheet.md"
               }
             }
           }
@@ -165,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✅ Verification/📙 Notes/Study TODO.md",
+                "file": "🧠 ML/ML Midterm Formula Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✅ Verification/📙 Notes/Study TODO.md",
+                "file": "🧠 ML/ML Midterm Formula Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -199,25 +176,23 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
-  "active": "3f71c50c4e5fc42a",
+  "active": "36ef56dffcbf7e0e",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "✅ Verification/📙 Notes/Study TODO.md",
-    "✅ Verification/📙 Notes/Fixpoints.md",
-    "✅ Verification/syllabusEEL47015702.pdf",
-    "✅ Verification/Home.md",
-    "✅ Verification/📙 Notes/Computation Tree Temporal Logic (CTL).md",
-    "✅ Verification/📙 Notes/Model Checking.md",
-    "Therapy.md",
-    "✅ Verification/📙 Notes/Abstraction and Approximation.md",
-    "✅ Verification/📙 Notes/Temporal/LTL.md"
+    "🧠 ML/Assignments/Project 3.md",
+    "🧠 ML/EEL5934_Applied Machine Learning Systems_Fall 2022.pdf",
+    "🧠 ML/About.md",
+    "🧠 ML/Midterm.md",
+    "🧠 ML/Midterm To Do.md",
+    "🧠 ML/ML Midterm Formula Sheet.md",
+    "🧠 ML/📙 Notes/Perceptrons.md",
+    "🧠 ML/📙 Notes/Gradient Descent.md",
+    "🧠 ML/Images/AI Winter 2022-11-15 14.41.49.excalidraw.md",
+    "🧠 ML/📙 Notes/AI Winter.md"
   ]
 }
