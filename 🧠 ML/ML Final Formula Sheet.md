@@ -51,6 +51,8 @@ Kernel machine
 | SELU | $\lambda\begin{cases}\alpha(e^x-1), & x < 0 \\ x, & x\geq 0 \end{cases}$ | $\lambda\begin{cases}\alpha e^x, & x < 0 \\ 1, & x\geq 0 \end{cases}$ |
 
 - Updating weights
-	- $\Delta w_{ij}=\eta\delta_jx_i$ 
-	- $w_{ij}^{(t+1)}\leftarrow w_{ij}^t+\Delta w_{ij}^t$	
-	
+	- Output: $v_j=w^Tx_j$
+	- Gradient: $\delta_j=\phi'(v_j)\sum_t\delta_lw_{lj}$
+	- Weight update eqns:
+		- $\Delta w_{ij}=\eta\delta_jx_i$ 
+		- $w_{ij}^{(t+1)}\leftarrow w_{ij}^t+\Delta w_{ij}^t$	
