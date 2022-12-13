@@ -39,3 +39,18 @@ Kernel machine
 	
 - Objective Function: $J(w)=\frac{1}{2}\sum_{k=1}^N(t_k-w^Tx_k)^2$
 - 
+| Activation function | $\phi(x)$ | $\phi'(x) = \frac{d\phi(x)}{dx}$ |
+| -- | -- | -- |
+| Linear | $x$ | $1$ |
+| Sigmoid/Logistic | $\frac{1}{1+e^{-x}}$ | $\phi(x)(1-\phi(x))$ |
+| Tanh | $\frac{e^{x}-e^{-x}}{e^x + e^{-x}}$ | $1-\phi(x)^2$ |
+| ReLU | $\begin{cases}0, & x \leq 0 \\ x, & x>0 \end{cases}$ | $\begin{cases}0, & x < 0 \\ 1, & x>0 \\ \text{undefined}, & x=0\end{cases}$ |
+| Leaky ReLU | $\begin{cases}0.01 x, & x \leq 0 \\ x, & x>0 \end{cases}$ | $\begin{cases}0.01, & x < 0 \\ 1, & x>0 \\ \text{undefined}, & x=0\end{cases}$ |
+| Softplus | $(1+e^x)$ | $\frac{1}{1+e^{-x}}$ |
+| ELU | $\begin{cases}\alpha(e^x-1), & x \leq 0 \\ x, & x>0 \end{cases}$ |  $\begin{cases}\alpha e^x, & x < 0 \\ 1, & x>0 \\ 1, & x>0 \text{ and } \alpha=1  \end{cases}$ |
+| SELU | $\lambda\begin{cases}\alpha(e^x-1), & x < 0 \\ x, & x\geq 0 \end{cases}$ | $\lambda\begin{cases}\alpha e^x, & x < 0 \\ 1, & x\geq 0 \end{cases}$ |
+
+- Updating weights
+	- $\Delta w_{ij}=\eta\delta_jx_i$ 
+	- $w_{ij}^{(t+1)}\leftarrow w_{ij}^t+\Delta w_{ij}^t$	
+	
