@@ -1,6 +1,6 @@
 ## TODO
 - [ ] 1. Flower training
-	- [ ] Try one or two more hyperparameters
+	- [x] Try one or two more hyperparameters
 - [ ] 2. Grad question
 	- [ ] Figure out what the question is asking LOL
 	- [ ] Address case when no car is present in image
@@ -10,9 +10,9 @@
 - [ ] 3. Car training
 	- [ ] Try several hyperparameters
 	- [ ] Attempt to use same approach as flower but with regression
-- [ ] Flower test
-	- [ ] report quantitative metrics
-	- [ ] include visualizations
+- [x] Flower test
+	- [x] report quantitative metrics
+	- [x] include visualizations
 - [ ] Car test
 	- [ ] qualitative measures of bounding boxes
 	- [ ] quantitative measure (for q2)
