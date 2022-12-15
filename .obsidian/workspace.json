@@ -4,29 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "b6ee6784291252b7",
+        "id": "8f85179e305b49cd",
         "type": "tabs",
         "children": [
           {
-            "id": "36ef56dffcbf7e0e",
+            "id": "48e7d2039e7c05ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🧠 ML/ML Midterm Formula Sheet.md",
+                "file": "✅ Verification/📙 Notes/Fixpoints.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6a37a35f95063a59",
+            "id": "3f71c50c4e5fc42a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🧠 ML/ML Final Formula Sheet.md",
-                "mode": "source",
+                "file": "✅ Verification/📙 Notes/DPLL/Implication Graph.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -44,7 +44,7 @@
       {
         "id": "d84da05b44fb8ac8",
         "type": "tabs",
-        "dimension": 25.02818489289741,
+        "dimension": 26.3671875,
         "children": [
           {
             "id": "029f72b44add5c1f",
@@ -59,7 +59,7 @@
       {
         "id": "49d824844e2d51c7",
         "type": "tabs",
-        "dimension": 52.423900789177004,
+        "dimension": 52.5390625,
         "children": [
           {
             "id": "0f04f62efc5d0b6d",
@@ -77,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "standard scal",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,12 +94,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "af1920093fe068f5",
         "type": "tabs",
-        "dimension": 22.547914317925592,
+        "dimension": 21.09375,
         "children": [
           {
             "id": "495b83c1b4ae8263",
@@ -107,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🧠 ML/ML Final Formula Sheet.md"
+                "file": "✅ Verification/📙 Notes/DPLL/Implication Graph.md"
               }
             }
           }
@@ -155,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🧠 ML/ML Final Formula Sheet.md",
+                "file": "✅ Verification/📙 Notes/DPLL/Implication Graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🧠 ML/ML Final Formula Sheet.md",
+                "file": "✅ Verification/📙 Notes/DPLL/Implication Graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,19 +194,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 255.5
   },
-  "active": "6a37a35f95063a59",
+  "active": "3f71c50c4e5fc42a",
   "lastOpenFiles": [
-    "🧠 ML/ML Midterm Formula Sheet.md",
-    "🧠 ML/Assignments/Project 3.md",
-    "🧠 ML/EEL5934_Applied Machine Learning Systems_Fall 2022.pdf",
-    "🧠 ML/About.md",
-    "🧠 ML/Midterm.md",
-    "🧠 ML/Midterm To Do.md",
-    "🧠 ML/📙 Notes/Perceptrons.md",
-    "🧠 ML/📙 Notes/Gradient Descent.md",
-    "🧠 ML/Images/AI Winter 2022-11-15 14.41.49.excalidraw.md",
-    "🧠 ML/📙 Notes/AI Winter.md"
+    "✅ Verification/📙 Notes/Fixpoints.md",
+    "✅ Verification/syllabusEEL47015702.pdf",
+    "✅ Verification/📙 Notes/DPLL/Implication Graph.md",
+    "✅ Verification/📙 Notes/DPLL/DPLL and CNF.md",
+    "✅ Verification/📙 Notes/Study TODO.md",
+    "conflict-files-obsidian-git.md",
+    "✅ Verification/Home.md",
+    "✅ Verification/📙 Notes/Computation Tree Temporal Logic (CTL).md",
+    "✅ Verification/📙 Notes/Model Checking.md",
+    "Therapy.md"
   ]
 }
