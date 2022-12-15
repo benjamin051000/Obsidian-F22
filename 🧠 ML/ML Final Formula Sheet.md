@@ -35,6 +35,8 @@ Kernel machine
 	- Output: $v_j=w^Tx_j$
 	- Gradient: $\delta_j=\phi'(v_j)\sum_t\delta_lw_{lj}$
 	- Weight update eqns:
+		- $$\frac{\partial J}{\partial w_5}=\frac{\partial J}{\partial E_{o1}}\times\frac{\partial E_{o1}}{\partial y_{o1}}\times\frac{\partial y_{o1}}{\partial v_{o1}}\times\frac{\partial v_{o1}}{\partial w_5}$$
+		- $w := w-\epsilon\frac{\partial C}{\partial w}$
 		- $\Delta w_{ij}=\eta\delta_jx_i$ 
 		- $w_{ij}^{(t+1)}\leftarrow w_{ij}^t+\Delta w_{ij}^t$	
 
