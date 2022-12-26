@@ -4,45 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "8f85179e305b49cd",
+        "id": "734b0381120a9424",
         "type": "tabs",
         "children": [
           {
-            "id": "48e7d2039e7c05ed",
+            "id": "cb3d272c884906a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✅ Verification/📙 Notes/Fixpoints.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3f71c50c4e5fc42a",
+            "id": "8a8c5cf77d7d4fe8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🧠 ML/ML Final Formula Sheet.md",
+                "file": "DIY Keyboard.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "da739d3e5490d1ec",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🧠 ML/ML Final Formula Sheet.md"
+                "file": "DIY Keyboard.md"
               }
             }
           }
@@ -165,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🧠 ML/ML Final Formula Sheet.md",
+                "file": "DIY Keyboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🧠 ML/ML Final Formula Sheet.md",
+                "file": "DIY Keyboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -218,17 +208,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "da739d3e5490d1ec",
+  "active": "8a8c5cf77d7d4fe8",
   "lastOpenFiles": [
+    "Home.md",
+    "✅ Verification/📙 Notes/Fixpoints.md",
+    "🧠 ML/ML Final Formula Sheet.md",
     "Therapy.md",
     "✅ Verification/📙 Notes/DPLL/Implication Graph.md",
-    "✅ Verification/📙 Notes/Fixpoints.md",
     "✅ Verification/syllabusEEL47015702.pdf",
     "✅ Verification/📙 Notes/DPLL/DPLL and CNF.md",
     "✅ Verification/📙 Notes/Study TODO.md",
     "conflict-files-obsidian-git.md",
-    "✅ Verification/Home.md",
-    "✅ Verification/📙 Notes/Computation Tree Temporal Logic (CTL).md",
-    "✅ Verification/📙 Notes/Model Checking.md"
+    "✅ Verification/Home.md"
   ]
 }
