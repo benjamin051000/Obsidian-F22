@@ -13,3 +13,4 @@
 
 
 - https://keeb.io/18515125/checkouts/a540006d376ebb70040eb9cf72fa4b08/thank_you
+- Littlekeyboards.com and kriscables.com have a bunch of stuff that's easier to find tbh, would recommend ordering through them I think
