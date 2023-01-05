@@ -30,9 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c25a1c8896fbb5ec",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,9 +114,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "🧠 ML/ML Final Formula Sheet.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -142,7 +148,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f49a53d18eb449c3",
@@ -155,7 +162,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🧠 ML/ML Final Formula Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +178,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🧠 ML/ML Final Formula Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -208,8 +213,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "3f71c50c4e5fc42a",
+  "active": "e454e211e1d781cf",
   "lastOpenFiles": [
+    "🧠 ML/ML Final Formula Sheet.md",
     "Therapy.md",
     "✅ Verification/📙 Notes/DPLL/Implication Graph.md",
     "✅ Verification/📙 Notes/Fixpoints.md",
@@ -218,7 +224,6 @@
     "✅ Verification/📙 Notes/Study TODO.md",
     "conflict-files-obsidian-git.md",
     "✅ Verification/Home.md",
-    "✅ Verification/📙 Notes/Computation Tree Temporal Logic (CTL).md",
-    "✅ Verification/📙 Notes/Model Checking.md"
+    "✅ Verification/📙 Notes/Computation Tree Temporal Logic (CTL).md"
   ]
 }
