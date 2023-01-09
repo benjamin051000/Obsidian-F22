@@ -30,9 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0b712b09b9db478b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,9 +114,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DIY Keyboard.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -143,7 +149,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f49a53d18eb449c3",
@@ -156,7 +163,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DIY Keyboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +179,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DIY Keyboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -209,8 +214,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "8a8c5cf77d7d4fe8",
+  "active": "e454e211e1d781cf",
   "lastOpenFiles": [
+    "DIY Keyboard.md",
     "Home.md",
     "✅ Verification/📙 Notes/Fixpoints.md",
     "🧠 ML/ML Final Formula Sheet.md",
@@ -219,7 +225,6 @@
     "✅ Verification/syllabusEEL47015702.pdf",
     "✅ Verification/📙 Notes/DPLL/DPLL and CNF.md",
     "✅ Verification/📙 Notes/Study TODO.md",
-    "conflict-files-obsidian-git.md",
-    "✅ Verification/Home.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
