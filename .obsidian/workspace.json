@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0045636b9a81215a",
+        "id": "1d224ac29bc58629",
         "type": "tabs",
         "children": [
           {
-            "id": "281c27a5bb164ff6",
+            "id": "f0d82f043a006d81",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "💾 Virtual Computers/What is Virtualization?.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,9 +89,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "💾 Virtual Computers/What is Virtualization?.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -129,7 +123,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f49a53d18eb449c3",
@@ -142,7 +137,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💾 Virtual Computers/What is Virtualization?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +153,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "💾 Virtual Computers/What is Virtualization?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,17 +188,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "281c27a5bb164ff6",
+  "active": "f0d82f043a006d81",
   "lastOpenFiles": [
-    "DIY Keyboard.md",
-    "conflict-files-obsidian-git.md",
+    "📝 School/💾 Virtual Computers/What is Virtualization?.md",
     "Home.md",
-    "✅ Verification/📙 Notes/Fixpoints.md",
-    "🧠 ML/ML Final Formula Sheet.md",
+    "DIY Keyboard.md",
+    "Assignments.md",
+    "2022-10-13.md",
+    "conflict-files-obsidian-git.md",
+    "📝 School/✅ Verification/📙 Notes/Fixpoints.md",
+    "📝 School/🧠 ML/ML Final Formula Sheet.md",
     "Therapy.md",
-    "✅ Verification/📙 Notes/DPLL/Implication Graph.md",
-    "✅ Verification/syllabusEEL47015702.pdf",
-    "✅ Verification/📙 Notes/DPLL/DPLL and CNF.md",
-    "✅ Verification/📙 Notes/Study TODO.md"
+    "📝 School/✅ Verification/📙 Notes/DPLL/Implication Graph.md"
   ]
 }

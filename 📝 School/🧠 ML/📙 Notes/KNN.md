@@ -19,7 +19,7 @@ Options:
 $$score=1/d_i$$
 - Whichever class scores highest becomes the classification
 - Sensitive to outliers
-- More prone to [[overfitting]]
+- More prone to [[Overfitting]]
 
 - Sometimes gets "islands" where outliers lie
 
@@ -29,6 +29,6 @@ KNN is non-parametric
 - cannot use standard [[Regularization]] terms
 
 # Other observations
-- KNN is sensitive to the [[curse of dimensionality]]
+- KNN is sensitive to the [[Curse of Dimensionality]]
 	- Works in high dimensions *if* you keep your num neighbors small.
 		- With small k values, manifold is approximately linear.
