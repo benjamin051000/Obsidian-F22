@@ -4,43 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "734b0381120a9424",
+        "id": "0045636b9a81215a",
         "type": "tabs",
         "children": [
           {
-            "id": "cb3d272c884906a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a8c5cf77d7d4fe8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DIY Keyboard.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b712b09b9db478b",
+            "id": "281c27a5bb164ff6",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,17 +89,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DIY Keyboard.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 220.5,
-    "collapsed": true
+    "width": 220.5
   },
   "right": {
     "id": "dc2143999adea221",
@@ -151,8 +123,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f49a53d18eb449c3",
@@ -165,7 +136,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DIY Keyboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +152,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DIY Keyboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -218,10 +187,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "8a8c5cf77d7d4fe8",
+  "active": "2c842c2b4cb5ab4f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "DIY Keyboard.md",
+    "conflict-files-obsidian-git.md",
     "Home.md",
     "✅ Verification/📙 Notes/Fixpoints.md",
     "🧠 ML/ML Final Formula Sheet.md",
