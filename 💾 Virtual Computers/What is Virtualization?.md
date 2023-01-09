@@ -1,1 +1,3 @@
-# Definition of 
+- Has existed since the 70s, since mainframes existed (large computers used for enterprises)
+- Legacy OSes were single-user, single-thread
+- Multithreading, multiprocessing, virtual memory, and multi-user emerged over time
