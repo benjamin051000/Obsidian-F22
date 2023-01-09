@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DIY Keyboard.md"
+              }
             }
           }
         ]
@@ -163,6 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DIY Keyboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,6 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DIY Keyboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -214,8 +218,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "e454e211e1d781cf",
+  "active": "8a8c5cf77d7d4fe8",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "DIY Keyboard.md",
     "Home.md",
     "✅ Verification/📙 Notes/Fixpoints.md",
@@ -224,7 +229,6 @@
     "✅ Verification/📙 Notes/DPLL/Implication Graph.md",
     "✅ Verification/syllabusEEL47015702.pdf",
     "✅ Verification/📙 Notes/DPLL/DPLL and CNF.md",
-    "✅ Verification/📙 Notes/Study TODO.md",
-    "conflict-files-obsidian-git.md"
+    "✅ Verification/📙 Notes/Study TODO.md"
   ]
 }
