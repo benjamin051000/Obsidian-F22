@@ -1,3 +1,9 @@
-# Obsidian cache
-.obsidian/workspace
+# From: https://github.com/denolehov/obsidian-git/wiki/Tips-and-Tricks
+
+# OR only to exclude workspace cache
+.obsidian/workspace.json
+
+# Add below lines to exclude OS settings and caches
+.trash/
+.DS_Store
 
