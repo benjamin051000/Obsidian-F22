@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "198500d49ab92ff1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📝 School/💾 Virtual Computers/Course Info.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📝 School/💾 Virtual Computers/What is Virtualization?.md"
+                "file": "📝 School/💾 Virtual Computers/Course Info.md"
               }
             }
           }
@@ -143,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 School/💾 Virtual Computers/What is Virtualization?.md",
+                "file": "📝 School/💾 Virtual Computers/Course Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📝 School/💾 Virtual Computers/What is Virtualization?.md",
+                "file": "📝 School/💾 Virtual Computers/Course Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -196,7 +209,7 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "f0d82f043a006d81",
+  "active": "198500d49ab92ff1",
   "lastOpenFiles": [
     "📝 School/💾 Virtual Computers/What is Virtualization?.md",
     "Home.md",

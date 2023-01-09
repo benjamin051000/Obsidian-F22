@@ -1,0 +1,4 @@
+- Asynchronous 
+	- Watch lectures beforehand
+	- Class time is a dicussion
+- 
