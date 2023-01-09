@@ -9,5 +9,12 @@ VMware, VirtualBox, KVM
 ## Hosted VM
 - A VM running on a host OS
 - Easier to bootstrap VMs
+- Expose a VM that is _functionally identical_ to the underlying physical hardware
 
+# Kernel virtualizations
+- Conventional OSes expose "virtual" constructs to processes
+	- Time-sharing
+	- Virtual Address Spaces
+	- Block/char devices
+	- OS containers
 
