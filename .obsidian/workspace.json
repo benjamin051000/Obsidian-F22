@@ -11,8 +11,12 @@
             "id": "f0d82f043a006d81",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "📝 School/💾 Virtual Computers/What is Virtualization?.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "📝 School/💾 Virtual Computers/What is Virtualization?.md"
+              }
             }
           }
         ]
@@ -137,6 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "📝 School/💾 Virtual Computers/What is Virtualization?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,6 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "📝 School/💾 Virtual Computers/What is Virtualization?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
