@@ -18,3 +18,13 @@ VMware, VirtualBox, KVM
 	- Block/char devices
 	- OS containers
 
+
+# Modern era
+- Virtualization spand beyond a single computer
+- Includes networked machines
+
+## Computing Clouds
+- AWS EC2 instances
+	- Pay-as-you-go dynamic, reconfigurable VMs
+	- Pay for virtual CPUs and virtual memory
+
