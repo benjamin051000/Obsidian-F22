@@ -19,4 +19,31 @@ Moore's Law
 	- Firmware
 	- Drivers
 	- Protocol stacks
+
+ SoCs are like microcontrollers on steroids
+
+# Benefits
+- Reduced size
+- Reduced system cost
+- Lower power consumption
+	- Challenging!
+- Increased performance
+- Increased functionality/performance in reduced footprint
+- Simplified PCB design
+- Increased product mechanical robustness
+
+# Challenges
+- Increasing Complexity
+	- Time-to-market pressure
+	- Verification bottleneck
+ - Integration
+	 - HW/SW
+	 - Digital vs analog
+	 - Testing issues
+- Deep submicron problems
+	- Timing closure
+	- Signal integrity
+	- Reliability
+- Manufacturing costs
+
  
