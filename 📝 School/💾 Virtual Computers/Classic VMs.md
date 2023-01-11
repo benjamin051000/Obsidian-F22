@@ -14,3 +14,6 @@ Can't expect these to run without translation
 	- To protect virtual machine monitor and other VMs
 	- Performance equivalent to emulation
 - Overall performance: Amdahl's Law
+
+# Overhead
+![[Pasted image 20230111094529.png]]
