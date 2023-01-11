@@ -29,4 +29,7 @@ VMware, VirtualBox, KVM
 	- Pay for virtual CPUs and virtual memory
 
 
-# I
+# Interfaces
+- ISA: Interface between software and hardware
+- ABI: Interface between OS (or) Hardware and user-space software
+- 
