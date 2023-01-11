@@ -16,4 +16,5 @@ Can't expect these to run without translation
 - Overall performance: Amdahl's Law
 
 # Overhead
-![[Pasted image 20230111094529.png]]
+
+![[Pasted image 20230111094714.png]]
