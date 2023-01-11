@@ -32,4 +32,25 @@ VMware, VirtualBox, KVM
 # Interfaces
 - ISA: Interface between software and hardware
 - ABI: Interface between OS (or) Hardware and user-space software
+
+Advantages
+- OS and HW designs are decoupled
+- Single app can be designed to run on different OSes
 - 
+
+Drawbacks
+- Binaries need appropriate system interfaces to work
+- Often, apps will not match ABIs and therefore cannot be used
+
+# Virtualization Overview
+![[Pasted image 20230111091836.png]]
+Software above the coupling layer sees the environment exposed by the coupling layer, not what's beneath it!
+
+# Process vs System VMs
+Process VMs
+- Work at ABI interface, seen by applications
+- E.g., multi-programmed OSes, containers
+
+System VMs
+- Expose ISA interface
+- e.g., classic VMs
