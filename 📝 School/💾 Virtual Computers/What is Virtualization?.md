@@ -93,7 +93,8 @@ In this image, assuming  you have the same x86 arch, you could run a linux app w
 	- "virtual" current/next gen systems
 	- e.g., SimpleScalar, Simics
 
-In general, whole-system VMs are super slow 
+In general, whole-system VMs are super slow due to expensive binary translation
+- These days it's better (MacOS rosetta  probably) but still slower than native
 
 
 ### HLL VMs
