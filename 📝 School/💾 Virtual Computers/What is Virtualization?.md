@@ -83,6 +83,18 @@ In this image, assuming  you have the same x86 arch, you could run a linux app w
 - In "Classic VMs," Multiple OSes run on single machine 
 	- As long as all OSes run on ISA of physical machine
 - In whole-system VMs, VMs of ISAs different from physical machine are supported.
+#### Examples
+- E.g., 8/16-bit game console emulators!
+	- "Real" previous gen systems
+- x86 emulators
+	- "real" current gen systems
+	- e.g., Bochs, Virtual PC for PowerPC Mac
+- Architecture simulators
+	- "virtual" current/next gen systems
+	- e.g., SimpleScalar, Simics
+
+In general, whole-system VMs are super slow 
+
 
 ### HLL VMs
 - ABI VMs
