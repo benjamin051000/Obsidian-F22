@@ -47,10 +47,51 @@ Drawbacks
 Software above the coupling layer sees the environment exposed by the coupling layer, not what's beneath it!
 
 # Process vs System VMs
-Process VMs
+## Process VMs
 - Work at ABI interface, seen by applications
 - E.g., multi-programmed OSes, containers
 
-System VMs
+## System VMs
 - Expose ISA interface
 - e.g., classic VMs
+### Classic VMs
+- Manages hardware resources at all times
+- VM Monitor, AKA VMM
+- e.g., IBM z/VM, VMware ESX
+
+```ad-question
+Is Proxmox considered a classic VM?
+```
+
+### Hosted VMs
+- VM runs on top of a host OS
+- Hardware resource mgmt shared between VMM and host OS
+- e.g., VMWare, Virtualbox, etc.
+
+### Other types
+- OS-translating VMs
+- Whole-system VMs
+- High-level language VMs
+	- Java JVM
+- Co-designed VMs
+
+### OS-translating VMs
+![[Pasted image 20230111092637.png]] 
+In this image, assuming  you have the same x86 arch, you could run a linux app where linux syscalls are translated into Windows syscalls. Wine is the other way around, windows to linux.
+
+### Whole System VMs
+- In "Classic VMs," Multiple OSes run on single machine 
+	- As long as all OSes run on ISA of physical machine
+- In whole-system VMs, VMs of ISAs different from physical machine are supported.
+
+### HLL VMs
+- ABI VMs
+- Exposes its own instruction set, e.g., bytecode
+- Tied to a high level language
+
+```ad-question
+Is the CPython interpreter also considered a HLL VM?
+```
+
+# Taxonomy 
+![[Pasted image 20230111093016.png]]
