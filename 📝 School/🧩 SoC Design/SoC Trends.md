@@ -47,4 +47,6 @@ Moore's Law
 - Manufacturing costs
 
 - Being late to the market costs a *lot*
- 
+
+# Patterns
+- These days, 50%-80% of development time is done doing verification, even before synthesis/p&r
