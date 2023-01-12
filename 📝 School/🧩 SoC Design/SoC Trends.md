@@ -51,3 +51,15 @@ Moore's Law
 ## Bottlenecks
 - These days, 50%-80% of development time is done doing verification, even before synthesis/p&r
 - Finding the delay of the circuit requires you to P&R first, whereas back in the day you could just sum the gate delays
+
+# Need for new level of abstraction
+- RTL well understood, but
+	- IP reuse difficult
+	- Architectural decision not possible until after RTL verification
+	- Level of complexity no longer possible at RTL
+	- HDL intrinsically isn't appropriate for algortihm -> circuit, you have to know how the algorithm maps to the circuit first
+- Transaction-level modeling (TLM)-IP allows for
+	- Design reuse
+	- Reduce verification time
+	- HW/SW co-verification
+	- Function calls instead of cycle accurate
