@@ -46,4 +46,5 @@ Moore's Law
 	- Reliability
 - Manufacturing costs
 
+- Being late to the market costs a *lot*
  
