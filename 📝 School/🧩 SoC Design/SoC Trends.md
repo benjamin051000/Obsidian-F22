@@ -50,3 +50,4 @@ Moore's Law
 
 ## Bottlenecks
 - These days, 50%-80% of development time is done doing verification, even before synthesis/p&r
+- Finding the delay of the circuit requires you to P&R first, whereas back in the day you could just sum the gate delays
